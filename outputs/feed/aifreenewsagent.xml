@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 09:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 09:59:09 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 23:52:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:54:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,299 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>普渡机器人亮相WAIC 2026，系统阐释“一脑多形”Physical Agent技术理念</title>
+      <link>https://www.leiphone.com/category/industrynews/GATrOScXh4x6VK7F.html</link>
+      <description>&lt;![CDATA[普渡机器人亮相WAIC 2026，系统阐释“一脑多形”Physical Agent技术理念]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 00:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GATrOScXh4x6VK7F.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家丨智己回应经销商经营异常：需要时间妥善处理，厂家会兜底</title>
+      <link>https://www.leiphone.com/category/transportation/Zl98jshu5vrisdQt.html</link>
+      <description>&lt;![CDATA[独家丨智己回应经销商经营异常：需要时间妥善处理，厂家会兜底]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Zl98jshu5vrisdQt.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026 “镇馆之宝” STEPX Neo亮相，  引领人机交互新范式</title>
+      <link>https://www.leiphone.com/category/ai/6bAs7hkIF5NN2HVv.html</link>
+      <description>&lt;![CDATA[WAIC 2026 “镇馆之宝” STEPX Neo亮相，  引领人机交互新范式]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/6bAs7hkIF5NN2HVv.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”</title>
+      <link>https://www.leiphone.com/category/industrynews/RJfkNUvPTg8PYHl2.html</link>
+      <description>&lt;![CDATA[2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RJfkNUvPTg8PYHl2.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>“30秒换手即用”，RoboScience机器科学实现跨本体灵巧操作行业突破，全球首个云端具身大模型WAIC首秀</title>
+      <link>https://www.leiphone.com/category/industrynews/GXNexNIZrCRnzFxk.html</link>
+      <description>&lt;![CDATA[“30秒换手即用”，RoboScience机器科学实现跨本体灵巧操作行业突破，全球首个云端具身大模型WAIC首秀]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GXNexNIZrCRnzFxk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>印奇15年：一场物理AI的闭环远征</title>
+      <link>https://www.leiphone.com/category/transportation/MxkCgtnh6lAbGiKs.html</link>
+      <description>&lt;![CDATA[印奇15年：一场物理AI的闭环远征]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/MxkCgtnh6lAbGiKs.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>思灵机器人 Agile Robots亮相WAIC 2026：具身智能独角兽展示物理AI全栈实力</title>
+      <link>https://www.leiphone.com/category/industrynews/bnE4dz5C4rdarltB.html</link>
+      <description>&lt;![CDATA[思灵机器人 Agile Robots亮相WAIC 2026：具身智能独角兽展示物理AI全栈实力]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bnE4dz5C4rdarltB.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI到底是「想错了」还是「判错了」？OpenDriveLab 陈立的组合式世界模型让策略自我纠偏 | RSS 2026</title>
+      <link>https://www.leiphone.com/category/private/GkoVU7vEEW4FAPT2.html</link>
+      <description>&lt;![CDATA[AI到底是「想错了」还是「判错了」？OpenDriveLab 陈立的组合式世界模型让策略自我纠偏 | RSS 2026]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/GkoVU7vEEW4FAPT2.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>上汽智己，如何成为Momenta第一个抬轿人？</title>
+      <link>https://www.leiphone.com/category/transportation/PFGVpvcGiAfY44E6.html</link>
+      <description>&lt;![CDATA[上汽智己，如何成为Momenta第一个抬轿人？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/PFGVpvcGiAfY44E6.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>魔法原子签约阿里速卖通，WAIC 2026开幕首日宣布独家战略合作</title>
+      <link>https://www.leiphone.com/category/private/o2MQkAFXiOWmiddl.html</link>
+      <description>&lt;![CDATA[魔法原子签约阿里速卖通，WAIC 2026开幕首日宣布独家战略合作]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/o2MQkAFXiOWmiddl.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Momenta靠什么站上物理AI的「青藏高原」？</title>
+      <link>https://www.leiphone.com/category/transportation/8ThXFb3eG8jEKzmZ.html</link>
+      <description>&lt;![CDATA[Momenta靠什么站上物理AI的「青藏高原」？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/8ThXFb3eG8jEKzmZ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阶跃与支付宝达成AI Agent系统级合作，跨端协同迈向“能办事”</title>
+      <link>https://www.leiphone.com/category/industrynews/owcf1OSxXWdhLsHd.html</link>
+      <description>&lt;![CDATA[阶跃与支付宝达成AI Agent系统级合作，跨端协同迈向“能办事”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/owcf1OSxXWdhLsHd.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家｜姚顺雨前同事田永龙加盟腾讯</title>
+      <link>https://www.leiphone.com/category/industrynews/2Ie5YKPJmwe9kz0p.html</link>
+      <description>&lt;![CDATA[独家｜姚顺雨前同事田永龙加盟腾讯]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2Ie5YKPJmwe9kz0p.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从哈佛辍学的前OpenAI研究员踏足AI制药，拿下20亿美元估值：VC在赌什么？</title>
+      <link>https://www.leiphone.com/category/academic/9dEkdfQYiK3wvDKj.html</link>
+      <description>&lt;![CDATA[从哈佛辍学的前OpenAI研究员踏足AI制药，拿下20亿美元估值：VC在赌什么？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/9dEkdfQYiK3wvDKj.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知</title>
+      <link>https://www.leiphone.com/category/industrynews/JDlu3Gqj7atcWniy.html</link>
+      <description>&lt;![CDATA[千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/JDlu3Gqj7atcWniy.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI Coding 最难的一仗，阿里为什么赢了？</title>
+      <link>https://www.leiphone.com/category/industrynews/kMp6GgBN9B7luNaO.html</link>
+      <description>&lt;![CDATA[AI Coding 最难的一仗，阿里为什么赢了？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/kMp6GgBN9B7luNaO.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>行业共议公平运行内存机制，安卓生态加速标准共建</title>
+      <link>https://www.leiphone.com/category/industrynews/pvxgkXpZQWBf8lEh.html</link>
+      <description>&lt;![CDATA[行业共议公平运行内存机制，安卓生态加速标准共建]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pvxgkXpZQWBf8lEh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>激光雷达战火为何烧向自研芯片？</title>
+      <link>https://www.leiphone.com/category/transportation/OXPpjKcXt0CqU8QL.html</link>
+      <description>&lt;![CDATA[激光雷达战火为何烧向自研芯片？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/OXPpjKcXt0CqU8QL.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>高质量发展步履坚实 追觅扫地机欧美市场高速增长</title>
+      <link>https://www.leiphone.com/category/weiwu/FYWgD5dSXSc4We36.html</link>
+      <description>&lt;![CDATA[高质量发展步履坚实 追觅扫地机欧美市场高速增长]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/FYWgD5dSXSc4We36.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026现场直击：海康观澜大模型体系亮相 加速AI落地物理世界</title>
+      <link>https://www.leiphone.com/category/industrynews/WtmRNWucbzNzSfPW.html</link>
+      <description>&lt;![CDATA[WAIC 2026现场直击：海康观澜大模型体系亮相 加速AI落地物理世界]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WtmRNWucbzNzSfPW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Transform your sales organization with Amazon Quick: your new agentic AI teammate</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/</link>
+      <description>&lt;![CDATA[Transform your sales organization with Amazon Quick: your new agentic AI teammate]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 18:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Introducing Mobile Layout for Amazon Quick dashboards</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/</link>
+      <description>&lt;![CDATA[Introducing Mobile Layout for Amazon Quick dashboards]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How Smartsheet built a remote MCP server on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/</link>
+      <description>&lt;![CDATA[How Smartsheet built a remote MCP server on AWS]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU</title>
+      <link>https://www.qbitai.com/2026/07/453352.html</link>
+      <description>&lt;![CDATA[逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453352.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>给AI发工号、定岗位、做绩效，数字员工终于能落地了</title>
+      <link>https://www.qbitai.com/2026/07/453245.html</link>
+      <description>&lt;![CDATA[给AI发工号、定岗位、做绩效，数字员工终于能落地了]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453245.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？</title>
+      <link>https://www.qbitai.com/2026/07/453246.html</link>
+      <description>&lt;![CDATA[WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453246.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式</title>
+      <link>https://www.qbitai.com/2026/07/453237.html</link>
+      <description>&lt;![CDATA[达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453237.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？</title>
+      <link>https://www.qbitai.com/2026/07/453217.html</link>
+      <description>&lt;![CDATA[WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453217.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%</title>
+      <link>https://www.qbitai.com/2026/07/453211.html</link>
+      <description>&lt;![CDATA[WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453211.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”</title>
+      <link>https://www.qbitai.com/2026/07/453208.html</link>
+      <description>&lt;![CDATA[算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453208.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即</title>
+      <link>https://www.qbitai.com/2026/07/453203.html</link>
+      <description>&lt;![CDATA[从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453203.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下</title>
+      <link>https://www.qbitai.com/2026/07/453084.html</link>
+      <description>&lt;![CDATA[上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453084.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>文远发布物理AI大模型WITT：让每一公里都变成模型能力</title>
+      <link>https://www.qbitai.com/2026/07/452961.html</link>
+      <description>&lt;![CDATA[文远发布物理AI大模型WITT：让每一公里都变成模型能力]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/452961.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
+      <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
+      <description>&lt;![CDATA[Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</link>
+      <description>&lt;![CDATA[NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Following the questions where they lead</title>
+      <link>https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717</link>
+      <description>&lt;![CDATA[Following the questions where they lead]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 13:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717</guid>
+      <category>Ai</category>
+    </item>
+    <item>
       <title>WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局</title>
-      <link>https://www.leiphone.com/category/industrynews/ZdWJuL7Ip26NbIY5.html</link>
+      <link>https://www.leiphone.com/category/industrynews/m2d7zUp4XYFQZEIW.html</link>
       <description>&lt;![CDATA[WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZdWJuL7Ip26NbIY5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>当买卖双方开始用 AI 做生意，1688加速解决“鸡同鸭讲”问题</title>
-      <link>https://www.leiphone.com/category/industrynews/wKnHB72cKdeY1qoG.html</link>
-      <description>&lt;![CDATA[当买卖双方开始用 AI 做生意，1688加速解决“鸡同鸭讲”问题]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wKnHB72cKdeY1qoG.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里1688将推出AI时代B2B交易互联互通开放标准</title>
-      <link>https://www.leiphone.com/category/industrynews/kkMxHebmRmWuglVy.html</link>
-      <description>&lt;![CDATA[阿里1688将推出AI时代B2B交易互联互通开放标准]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/kkMxHebmRmWuglVy.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GAIR Paper 108 | CVPR 2026 冠军奖论文：4K 参数撬动 VLA 泛化，空间才是真正的瓶颈！</title>
-      <link>https://www.leiphone.com/category/academic/tSC1DCI4SbS7ZlTG.html</link>
-      <description>&lt;![CDATA[GAIR Paper 108 | CVPR 2026 冠军奖论文：4K 参数撬动 VLA 泛化，空间才是真正的瓶颈！]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 14:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/tSC1DCI4SbS7ZlTG.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和</title>
-      <link>https://www.qbitai.com/2026/07/452914.html</link>
-      <description>&lt;![CDATA[IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/452914.html</guid>
+      <pubDate>Fri, 17 Jul 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/m2d7zUp4XYFQZEIW.html</guid>
       <category>Ai</category>
     </item>
   </channel>
