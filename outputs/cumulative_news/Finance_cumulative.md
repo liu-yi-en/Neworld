@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 23:56
+**最后更新时间**: 2026-07-22 13:36
+
+---
+
+## 🆕 最新更新 (2026-07-22 13:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.](https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 13:35
+
+#### [Shares of GE Vernova fall in premarket trading despite raised revenue outlook](https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 13:26
+
+#### [Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.](https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 13:11
+
+#### [Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.](https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 12:45
+
+#### [Having $100,000 invested was once the gateway to building real wealth. For young people today, it’s double that.](https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 12:00
+
+#### [Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?](https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 11:30
+
+#### [Bond-market weakness makes a strong investment case for this unloved sector, strategist says](https://www.marketwatch.com/story/bond-market-weakness-makes-a-strong-investment-case-for-this-unloved-sector-strategist-says-2cf258f8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 11:26
+
+#### [Oil prices climb to six-week high as hopes of de-escalation in Iran diminish](https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 11:19
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump threatens tit-for-tat strikes on Iranian infrastructure](https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 13:18
+
+#### [AMD to invest up to $5bn in Anthropic in chip deal](https://www.ft.com/content/9c74bb34-0705-4be1-b622-a334ce79db1d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 13:16
+
+#### [European gas prices approach Iran war highs as traders fret over winter supplies](https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 11:41
+
+#### [Burnham can be the failure that Britain needs](https://www.ft.com/content/0c03cd07-ab33-4dff-9970-8cbc21baef45?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 10:59
+
+#### [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The UK’s biggest university is a private company](https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek](https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Big bond investors fear being stung by the next ‘widow-maker trade’](https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 01:00
+
+#### [OpenAI admits AI ‘agent’ caused major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 00:11
 
 ---
 
