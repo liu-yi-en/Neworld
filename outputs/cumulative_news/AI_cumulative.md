@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-24 10:15
+**最后更新时间**: 2026-07-25 00:04
+
+---
+
+## 🆕 最新更新 (2026-07-25 00:04)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [对话星炽动力CTO李达——PULSE架构：如何让具身智能更像人？](https://www.leiphone.com/category/industrynews/VoghxG89WgJ2E9ZI.html)
+**发布时间**: 2026-07-24 23:03
+
+#### [天立启鸣发布教育AGI白皮书：从答题响应到心智仿真，破解教育“不可能三角”](https://www.leiphone.com/category/ai/9BvD2TFs3u6gMHPr.html)
+**发布时间**: 2026-07-24 22:07
+
+#### [30.99万起，岚图追光S预售正式开启，中国品牌在FUV赛道抢得先手！](https://www.leiphone.com/category/industrynews/3nVbWR1oDzJjmXOH.html)
+**发布时间**: 2026-07-24 18:41
+
+#### [欧盟3欧元关税落地，卖家在「熬」与「转」间寻找生路](https://www.leiphone.com/category/industrynews/UcHdRjLCDfn8OOzo.html)
+**发布时间**: 2026-07-24 18:31
+
+#### [直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行](https://www.leiphone.com/category/industrynews/urzkJ71nAWLXBAFT.html)
+**发布时间**: 2026-07-24 18:25
+
+#### [自变量登上APEC国际舞台，代表中国具身智能分享服务民生“最佳实践”](https://www.leiphone.com/category/industrynews/wbuuGeiADHNlBBOR.html)
+**发布时间**: 2026-07-24 16:58
+
+#### [即梦联合抖音电商、艾菲奖发起 “AI 广告爆改大赛” ，共创经典广告新表达](https://www.leiphone.com/category/industrynews/vo4S5zqGS1pUhVCr.html)
+**发布时间**: 2026-07-24 16:32
+
+#### [梁文锋：开源不影响6倍利润，「我们非常轻松，甚至不用加班」；荣耀新Logo被指撞脸王者荣耀、Grok；段永平：10年内大概率不会卖泡泡玛特](https://www.leiphone.com/category/zaobao/H3hlbyekoDsIhJld.html)
+**发布时间**: 2026-07-24 09:30
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/)
+**发布时间**: 2026-07-24 17:59
+
+#### [Build an explainable next-best-product recommendation system for banking on AWS](https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/)
+**发布时间**: 2026-07-24 15:42
+
+#### [Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/)
+**发布时间**: 2026-07-24 15:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [合肥又押中AI独角兽：多模态赛道，3个月融了21亿](https://www.qbitai.com/2026/07/460154.html)
+**发布时间**: 2026-07-24 14:42
+
+#### [国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源](https://www.qbitai.com/2026/07/460041.html)
+**发布时间**: 2026-07-24 14:19
+
+#### [菲尔兹奖得主王虹，也发过NeurIPS](https://www.qbitai.com/2026/07/460042.html)
+**发布时间**: 2026-07-24 11:10
+
+#### [抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录](https://www.qbitai.com/2026/07/459432.html)
+**发布时间**: 2026-07-24 09:57
 
 ---
 
