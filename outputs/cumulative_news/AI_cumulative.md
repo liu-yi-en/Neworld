@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-26 23:59
+**最后更新时间**: 2026-07-27 08:30
+
+---
+
+## 🆕 最新更新 (2026-07-27 08:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [顶会具身辩论赛实况：徐丹飞激辩，PI连输三轮，谷歌大佬倒戈](https://www.leiphone.com/category/private/MdFedmuSWZGKn7sE.html)
+**发布时间**: 2026-07-27 10:32
+
+#### [现场直击：高昂真机成本锁死具身进化，Google 科学家用视频世界模型破局｜RSS 2026](https://www.leiphone.com/category/private/PRwTba7CYAuCGWlY.html)
+**发布时间**: 2026-07-27 10:30
+
+#### [佐治亚理工学院徐丹飞：别被「视觉生成」骗了，视频预测≠机器人规划｜RSS 2026](https://www.leiphone.com/category/private/KaA5T40NOj9bLBM3.html)
+**发布时间**: 2026-07-27 10:29
+
+#### [WWW 2026 唯一最佳长文｜大模型该信「查到的」还是「记得的」？｜GAIR Paper 110](https://www.leiphone.com/category/academic/wgbDYxJBNszTztoQ.html)
+**发布时间**: 2026-07-27 10:25
+
+#### [长鑫科技今日登陆科创板！员工：和我们没啥关系，更关心未来薪资、待遇；日方拆完宇树机器人，认输了；黄仁勋、马斯克就中国AI同日发声](https://www.leiphone.com/category/zaobao/HGxBBy0zagYMlNHt.html)
+**发布时间**: 2026-07-27 08:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI最尴尬的短板，中国科学院出手了](https://www.qbitai.com/2026/07/461160.html)
+**发布时间**: 2026-07-27 05:00
+
+#### [出海企业苦等的可信任AI营销产品，飞书深诺做出来了](https://www.qbitai.com/2026/07/461226.html)
+**发布时间**: 2026-07-27 04:33
+
+#### [DeepSeek被曝主动叫停了第二轮融资签约](https://www.qbitai.com/2026/07/461220.html)
+**发布时间**: 2026-07-27 04:29
+
+#### [企业出海，被中国信通院和腾讯重新定义了一次](https://www.qbitai.com/2026/07/461153.html)
+**发布时间**: 2026-07-27 03:55
+
+#### [蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash](https://www.qbitai.com/2026/07/461149.html)
+**发布时间**: 2026-07-27 01:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](https://blogs.nvidia.com/blog/vera-cpu-eda/)
+**发布时间**: 2026-07-27 00:45
+
+### 📰 来源: [BAIR Blog](https://bair.berkeley.edu/blog/feed.xml)
+
+#### [Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction](http://bair.berkeley.edu/blog/2026/07/26/abbel/)
+**发布时间**: 2026-07-26 02:00
 
 ---
 
