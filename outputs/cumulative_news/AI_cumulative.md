@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-27 08:30
+**最后更新时间**: 2026-07-28 00:02
+
+---
+
+## 🆕 最新更新 (2026-07-28 00:02)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [国内首个抗失眠创新药法赞雷生在美团买药线上首发](https://www.leiphone.com/category/industrynews/4I7eKJyxSqk6gAOL.html)
+**发布时间**: 2026-07-27 20:17
+
+#### [Reddit 为何「叫板」Google？](https://www.leiphone.com/category/ai/04XawISL9c51HVxB.html)
+**发布时间**: 2026-07-27 19:18
+
+#### [超维动力携手北大医疗：务实构建具身智能医疗落地路径](https://www.leiphone.com/category/ai/xnczmPtqg4kZNirW.html)
+**发布时间**: 2026-07-27 19:15
+
+#### [8位AI Infra高管复盘WAIC：当堆砌「暴力美学」触顶，AI Infra如何求变？](https://www.leiphone.com/category/chips/WK0j5a76yc5rHeSK.html)
+**发布时间**: 2026-07-27 15:52
+
+#### [12位AI芯片高管复盘WAIC：云端抢做超节点，端侧还在等爆款](https://www.leiphone.com/category/chips/XB7cWxmP9oLjiP2D.html)
+**发布时间**: 2026-07-27 14:56
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS](https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/)
+**发布时间**: 2026-07-27 16:11
+
+#### [Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation](https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/)
+**发布时间**: 2026-07-27 16:07
+
+#### [How Guardoc transforms medical document processing with Amazon Nova models](https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/)
+**发布时间**: 2026-07-27 16:05
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [超维动力携手北大医疗：务实构建具身智能医疗落地路径](https://www.qbitai.com/2026/07/461444.html)
+**发布时间**: 2026-07-27 09:55
+
+#### [陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机](https://www.qbitai.com/2026/07/461398.html)
+**发布时间**: 2026-07-27 09:05
+
+#### [与AI共生：2026微信小程序开发大赛WAIC官宣启动](https://www.qbitai.com/2026/07/461392.html)
+**发布时间**: 2026-07-27 08:54
+
+#### [老黄「开源协议」就剩一家没签，是谁啊好难猜啊](https://www.qbitai.com/2026/07/461341.html)
+**发布时间**: 2026-07-27 07:55
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams)
+**发布时间**: 2026-07-27 09:32
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)
+**发布时间**: 2026-07-27 09:00
 
 ---
 
