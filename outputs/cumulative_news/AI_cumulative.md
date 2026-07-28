@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-28 07:37
+**最后更新时间**: 2026-07-28 10:34
+
+---
+
+## 🆕 最新更新 (2026-07-28 10:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [OPPO 宣布启动小布Next计划，开放首个端侧Multi-Agent系统内测](https://www.leiphone.com/category/industrynews/5jw67pStgWuUfS0n.html)
+**发布时间**: 2026-07-28 16:20
+
+#### [海尔智家正在讲述一个全新的AI故事](https://www.leiphone.com/category/smarthome/WLbDBZNSU4ThxVsG.html)
+**发布时间**: 2026-07-28 15:32
+
+#### [老人突发“脑干出血”致残事件追踪：安顿称在消费者病发前已预警，将追究河南明神医公司违约责任](https://www.leiphone.com/category/industrynews/IBDqPMiauBK0j0km.html)
+**发布时间**: 2026-07-28 15:31
+
+#### [国内首个！阿里Qoder上线实时语音交互智能体，让Agent像真人一样交流干活](https://www.leiphone.com/category/industrynews/Le7pnnrg155qtynu.html)
+**发布时间**: 2026-07-28 15:26
+
+#### [当AI学会“仿真思维”，教师才能回归育人本质——从“工具效率”到“认知理解”，教育AI进入深水区](https://www.leiphone.com/category/ai/Y7Md1KutNgNzfyFH.html)
+**发布时间**: 2026-07-28 15:11
+
+#### [Kimi K3 发布 47 页技术报告，最有价值的创新点是这些](https://www.leiphone.com/category/ai/z5MDzpTPInNSRTkt.html)
+**发布时间**: 2026-07-28 14:37
+
+#### [黄仁勋倡议的开源联名信，Anthropic 为何不愿签名?](https://www.leiphone.com/category/ai/W2vBQuWfmmiIJOtO.html)
+**发布时间**: 2026-07-28 14:24
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外](https://www.qbitai.com/2026/07/461949.html)
+**发布时间**: 2026-07-28 08:17
+
+#### [当AI学会“仿真思维”，教师才能回归育人本质](https://www.qbitai.com/2026/07/461939.html)
+**发布时间**: 2026-07-28 07:32
 
 ---
 
