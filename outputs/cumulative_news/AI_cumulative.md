@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-28 00:02
+**最后更新时间**: 2026-07-28 07:37
+
+---
+
+## 🆕 最新更新 (2026-07-28 07:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Agentic AI双王论道、Physical AI亮剑不莱梅——IJCAI-ECAI 2026三大最热议题抢先看](https://www.leiphone.com/category/private/XMmcHtwXRaVWrQFg.html)
+**发布时间**: 2026-07-28 11:35
+
+#### [阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作](https://www.leiphone.com/category/industrynews/5pnOGYUYk5X19ouf.html)
+**发布时间**: 2026-07-28 09:25
+
+#### [长鑫科技批量造富：12名核心成员身家过亿，碧桂园却卖飞痛失490亿；哈啰电车骑行中断电落锁致博士十级伤残；月之暗面开源Kimi K3模型](https://www.leiphone.com/category/zaobao/svkvnl5EftU4Ik34.html)
+**发布时间**: 2026-07-28 08:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Ilya获黄仁勋50亿美元押注：“是时候Scaling了”](https://www.qbitai.com/2026/07/461911.html)
+**发布时间**: 2026-07-28 05:46
+
+#### [世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型](https://www.qbitai.com/2026/07/461827.html)
+**发布时间**: 2026-07-28 05:25
+
+#### [全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归](https://www.qbitai.com/2026/07/461650.html)
+**发布时间**: 2026-07-28 04:18
+
+#### [智能体走向终端，个人AI时代正在到来](https://www.qbitai.com/2026/07/461565.html)
+**发布时间**: 2026-07-28 01:38
+
+#### [突发，翁荔离职Thinking Machines](https://www.qbitai.com/2026/07/461517.html)
+**发布时间**: 2026-07-28 01:21
 
 ---
 
