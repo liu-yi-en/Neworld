@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-28 10:34
+**最后更新时间**: 2026-07-28 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-28 23:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [空中具身操作：让蜘蛛侠们安全落地](https://www.leiphone.com/category/industrynews/rOJ1Pc1FQcO5UcHK.html)
+**发布时间**: 2026-07-28 21:51
+
+#### [小米连续8年上榜《财富》世界500强：排名232创新高，“人车家全生态”战略释放增长动能](https://www.leiphone.com/category/industrynews/zULUfH2xUCd8RoAK.html)
+**发布时间**: 2026-07-28 19:08
+
+#### [从静态支撑到高承托动态适配，清闲动态人机工学椅 Maxis Pro 重新定义重量级久坐体验](https://www.leiphone.com/category/industrynews/7tdoluhqeRsHZFAU.html)
+**发布时间**: 2026-07-28 17:57
+
+#### [GAIR Paper 111 | 谁动了我的大模型？IJCAI 2026最新综述揭秘大模型“隐式身份”防伪战](https://www.leiphone.com/category/private/zMLBm0T9HRKVLIaF.html)
+**发布时间**: 2026-07-28 17:29
+
+#### [独揽 IJCAI 2026 两大 Tutorial！清华王鑫团队如何用「OOD泛化」夺取生成式 AI 的国际定义权？](https://www.leiphone.com/category/private/cXqX9gQJfQ0wC24H.html)
+**发布时间**: 2026-07-28 17:26
+
+#### [发挥20年安全原生优势，360发布新一代企业智能体工作平台纳米Work](https://www.leiphone.com/category/industrynews/aLDnauV6UKKuXmCg.html)
+**发布时间**: 2026-07-28 17:07
+
+#### [萝卜快跑跑通全球首例右舵全无人 伦敦接力开启公开道路测试](https://www.leiphone.com/category/industrynews/wBq37lyzbyhtGza5.html)
+**发布时间**: 2026-07-28 16:46
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How AgentCore Gateway supports the MCP 2026-07-28 spec](https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/)
+**发布时间**: 2026-07-28 19:07
+
+#### [Market surveillance agent with LangGraph and Strands on AgentCore](https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/)
+**发布时间**: 2026-07-28 17:24
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)
+**发布时间**: 2026-07-28 16:27
+
+#### [LFM2.5-Encoders for Fast Long-Context Inference on CPU](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders)
+**发布时间**: 2026-07-28 15:01
+
+#### [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+**发布时间**: 2026-07-27 00:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/)
+**发布时间**: 2026-07-28 15:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [豆包搜索，走出了豆包](https://www.qbitai.com/2026/07/461961.html)
+**发布时间**: 2026-07-28 10:12
 
 ---
 
