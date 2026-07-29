@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-29 07:42
+**最后更新时间**: 2026-07-29 10:38
+
+---
+
+## 🆕 最新更新 (2026-07-29 10:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [隼瞻创始人曾轶：AI推倒芯片设计壁垒，我们要做半导体行业的「Copilot」](https://www.leiphone.com/category/chips/6Ce1BxLj2chEdoJD.html)
+**发布时间**: 2026-07-29 15:54
+
+#### [端侧智能体不再只缺算力，个人AI还差什么？](https://www.leiphone.com/category/chips/h6gLPiJ3peF32xG5.html)
+**发布时间**: 2026-07-29 15:22
+
+#### [前安克CMO王时远创业一周年：App迭代超50次，首款AI记忆手环量产在即](https://www.leiphone.com/category/weiwu/lBpI3PHh8yeNj6uN.html)
+**发布时间**: 2026-07-29 14:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一](https://www.qbitai.com/2026/07/462447.html)
+**发布时间**: 2026-07-29 08:13
+
+#### [Opus 5游戏提示词爆火！24小时复刻3A巨作](https://www.qbitai.com/2026/07/462384.html)
+**发布时间**: 2026-07-29 08:04
+
+#### [OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通](https://www.qbitai.com/2026/07/462380.html)
+**发布时间**: 2026-07-29 06:39
 
 ---
 
