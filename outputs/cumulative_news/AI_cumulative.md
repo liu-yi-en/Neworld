@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-28 23:58
+**最后更新时间**: 2026-07-29 07:42
+
+---
+
+## 🆕 最新更新 (2026-07-29 07:42)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [希音上市：中国产业链中成长出来的全球化公司](https://www.leiphone.com/category/industrynews/3sEtdlADmhvJuOT7.html)
+**发布时间**: 2026-07-29 13:14
+
+#### [周鸿祎用纳米Work 30天改造360：企业AI化，老板要先用](https://www.leiphone.com/category/industrynews/NUlmI6oIv8mgLWxI.html)
+**发布时间**: 2026-07-29 13:05
+
+#### [128MB跑出2GB芯片的画质，全志V881怎么做到的？](https://www.leiphone.com/category/chips/JxLNPKZ8YKvehuu8.html)
+**发布时间**: 2026-07-29 11:36
+
+#### [家庭储能迈向智能管理时代，临阁能源以AI驱动家庭能源管理升级](https://www.leiphone.com/category/industrynews/sCzVfLIxN5fs4C3r.html)
+**发布时间**: 2026-07-29 11:33
+
+#### [美国委员会代表团来中国去华为、DeepSeek等考察：结果被拒；LV回应茉莉奶白商标诉讼：知识产权是绝对的核心资产；苹果市值突破5万亿美元](https://www.leiphone.com/category/zaobao/fwbpqVq7a1nKGyPz.html)
+**发布时间**: 2026-07-29 08:38
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-29日刊](https://hex2077.dev/docs/2026-07/2026-07-29/)
+**发布时间**: 2026-07-29 10:32
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [空中具身操作：让蜘蛛侠们安全落地](https://www.qbitai.com/2026/07/462301.html)
+**发布时间**: 2026-07-29 06:29
+
+#### [萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo](https://www.qbitai.com/2026/07/462071.html)
+**发布时间**: 2026-07-29 05:36
+
+#### [首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定](https://www.qbitai.com/2026/07/462065.html)
+**发布时间**: 2026-07-29 03:29
+
+#### [周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生](https://www.qbitai.com/2026/07/462062.html)
+**发布时间**: 2026-07-29 01:53
+
+#### [九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂](https://www.qbitai.com/2026/07/462058.html)
+**发布时间**: 2026-07-29 01:45
 
 ---
 
