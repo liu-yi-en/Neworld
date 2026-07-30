@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-29 23:59
+**最后更新时间**: 2026-07-30 07:34
+
+---
+
+## 🆕 最新更新 (2026-07-30 07:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！](https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html)
+**发布时间**: 2026-07-30 12:25
+
+#### [德塔智能完成近5亿元天使++轮融资，成立半年融资六轮](https://www.leiphone.com/category/ai/LwA3PaasIacDAQS6.html)
+**发布时间**: 2026-07-30 11:36
+
+#### [字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务](https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html)
+**发布时间**: 2026-07-30 11:24
+
+#### [越骂越赚？罗技上季度在中国赚翻了，曾骂用户像狗；智驾「小蓝灯」将被禁用！相关国标已启动制修订；曝月之暗面完成超35亿美元F轮融资](https://www.leiphone.com/category/zaobao/e48WOG7kaZV3MfXp.html)
+**发布时间**: 2026-07-30 08:33
+
+#### [独家丨曾深耕百度17年，喻友平卸任中关村科金总裁，投身物理AI](https://www.leiphone.com/category/industrynews/gfy56kS9UxrPxRsx.html)
+**发布时间**: 2026-07-30 07:22
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-30日刊](https://hex2077.dev/docs/2026-07/2026-07-30/)
+**发布时间**: 2026-07-30 10:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！](https://www.qbitai.com/2026/07/463012.html)
+**发布时间**: 2026-07-30 06:14
+
+#### [传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini](https://www.qbitai.com/2026/07/463123.html)
+**发布时间**: 2026-07-30 06:14
+
+#### [一年连融三轮数亿元！字节+清华姚班，重构企业软件工程](https://www.qbitai.com/2026/07/463013.html)
+**发布时间**: 2026-07-30 06:10
+
+#### [WorkBuddy重大升级，AI时代的Office来了](https://www.qbitai.com/2026/07/462979.html)
+**发布时间**: 2026-07-30 05:30
+
+#### [这这这…翁荔光速回OpenAI上班了](https://www.qbitai.com/2026/07/462947.html)
+**发布时间**: 2026-07-30 00:31
 
 ---
 
