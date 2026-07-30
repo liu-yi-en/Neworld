@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-29 10:38
+**最后更新时间**: 2026-07-29 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-29 23:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [能干能信能打的瓴羊AI员工全面上岗，帮企业问AI要增长](https://www.leiphone.com/category/industrynews/P0iMC7Qonsem1Q0u.html)
+**发布时间**: 2026-07-29 17:20
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/)
+**发布时间**: 2026-07-29 16:20
+
+#### [Generate Autonomous Business Insights with AI Agent and MCP Servers](https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/)
+**发布时间**: 2026-07-29 15:34
+
+#### [Automating customer retention workflows in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/)
+**发布时间**: 2026-07-29 15:24
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径](https://www.qbitai.com/2026/07/462943.html)
+**发布时间**: 2026-07-29 11:25
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How a medical database developed at MIT evolved into a global standard of data-sharing](https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729)
+**发布时间**: 2026-07-29 10:00
+
+### 📰 来源: [BAIR Blog](https://bair.berkeley.edu/blog/feed.xml)
+
+#### [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/)
+**发布时间**: 2026-07-29 02:00
 
 ---
 
