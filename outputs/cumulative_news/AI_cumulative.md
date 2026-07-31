@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-31 07:50
+**最后更新时间**: 2026-07-31 10:38
+
+---
+
+## 🆕 最新更新 (2026-07-31 10:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [长音频不丢词，行业词不用教，阿里发布Qwen-Audio-3.0-ASR-Flash](https://www.leiphone.com/category/industrynews/0sUqr4wznpl7puTj.html)
+**发布时间**: 2026-07-31 14:48
+
+#### [千问已在特斯拉车机内测](https://www.leiphone.com/category/industrynews/lKIeFLWL3hTwaMLd.html)
+**发布时间**: 2026-07-31 14:41
+
+#### [对话 EgoScale 创始人：能赚钱的 Ego 数据公司不超过五家，我是其中之一](https://www.leiphone.com/category/robot/h85RAVbugUercz2U.html)
+**发布时间**: 2026-07-31 13:56
+
+#### [8月10日申购！宇树科技171名员工掏2.7亿认购IPO，王兴兴自掏1500万；字节成立新的豆包产品团队；初代员工可得15万！影视飓风发全员激励金](https://www.leiphone.com/category/zaobao/YzTyGcv2y8Zuau6I.html)
+**发布时间**: 2026-07-31 09:04
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI](https://www.qbitai.com/2026/07/464328.html)
+**发布时间**: 2026-07-31 09:11
+
+#### [刚刚，即梦 Seedance 2.5来了！我狂测测测测……](https://www.qbitai.com/2026/07/464329.html)
+**发布时间**: 2026-07-31 08:48
+
+#### [视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了](https://www.qbitai.com/2026/07/464277.html)
+**发布时间**: 2026-07-31 08:28
+
+#### [米哈游蔡浩宇AI创业生变](https://www.qbitai.com/2026/07/464169.html)
+**发布时间**: 2026-07-31 07:22
+
+#### [姚顺雨拿50年数学难题成绩单，招人了](https://www.qbitai.com/2026/07/464100.html)
+**发布时间**: 2026-07-31 06:54
 
 ---
 
