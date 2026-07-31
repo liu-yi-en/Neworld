@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-30 10:24
+**最后更新时间**: 2026-07-31 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-31 00:01)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [晶泰科技发布AI4S原生操作系统 XtalPi Science ，以多智能体矩阵开启自主科学发现新范式](https://www.leiphone.com/category/aihealth/qZUov9NEbsp48psi.html)
+**发布时间**: 2026-07-31 00:50
+
+#### [GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节](https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html)
+**发布时间**: 2026-07-30 17:28
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)
+**发布时间**: 2026-07-30 20:36
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Deploying Kimi K3 on AWS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/)
+**发布时间**: 2026-07-30 17:22
+
+#### [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/)
+**发布时间**: 2026-07-30 16:40
+
+#### [Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/)
+**发布时间**: 2026-07-30 16:10
+
+#### [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/)
+**发布时间**: 2026-07-30 16:02
+
+#### [Migrate your prompts to new models and optimize them on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/)
+**发布时间**: 2026-07-30 15:58
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Daniela Rus receives Bavarian Minister-President's High-Tech Prize](https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730)
+**发布时间**: 2026-07-30 17:00
+
+#### [Connecting research to policy on Capitol Hill](https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730)
+**发布时间**: 2026-07-30 16:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management)
+**发布时间**: 2026-07-30 15:09
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/)
+**发布时间**: 2026-07-30 13:00
 
 ---
 
