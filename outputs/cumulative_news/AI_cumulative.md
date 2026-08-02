@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-01 23:57
+**最后更新时间**: 2026-08-02 07:33
+
+---
+
+## 🆕 最新更新 (2026-08-02 07:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级](https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html)
+**发布时间**: 2026-08-02 12:07
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-02日刊](https://hex2077.dev/docs/2026-08/2026-08-02/)
+**发布时间**: 2026-08-02 10:40
 
 ---
 
