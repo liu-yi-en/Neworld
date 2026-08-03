@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-02 07:33
+**最后更新时间**: 2026-08-03 08:30
+
+---
+
+## 🆕 最新更新 (2026-08-03 08:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨「余粮」只剩 7 亿，Meta 为何成了最失意的 AI 巨头？](https://www.leiphone.com/category/industrynews/7Diei8PsqC81LWzx.html)
+**发布时间**: 2026-08-03 13:53
+
+#### [小米8月服务周升级为"小米服务月"：101款电池服务8折，Xiaomi 13系列电池升级服务全系参与](https://www.leiphone.com/category/industrynews/dQ7OhnbL6TzSjjne.html)
+**发布时间**: 2026-08-03 12:23
+
+#### [我们用 Kimi K3 搓了一颗火影螺旋丸，只花129元就顶一个前端团队？](https://www.leiphone.com/category/yanxishe/AOe4ZF41ZUAzREV5.html)
+**发布时间**: 2026-08-03 11:50
+
+#### [我们让 vivago R1 拍了一部土耳其山寨「星战」，结果出乎意料](https://www.leiphone.com/category/industrynews/ioD5Es7RrtPpeM7P.html)
+**发布时间**: 2026-08-03 11:27
+
+#### [阿里“千问办公”开启公测](https://www.leiphone.com/category/industrynews/keVMfihBTyvo7FGk.html)
+**发布时间**: 2026-08-03 11:02
+
+#### [阿里“千问办公”开启公测](https://www.leiphone.com/category/industrynews/RRdMRyI267uY6noU.html)
+**发布时间**: 2026-08-03 11:01
+
+#### [阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定](https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html)
+**发布时间**: 2026-08-03 10:49
+
+#### [独家丨璨辰科技完成数千万天使系列融资，AI 虚拟器官仿真平台加速落地](https://www.leiphone.com/category/aihealth/EFjXKXuEFXgXkrIo.html)
+**发布时间**: 2026-08-03 10:35
+
+#### [Google 牺牲了图片分辨率、编辑能力和准确性换取了 「它」 的极致性价比！](https://www.leiphone.com/category/yanxishe/4P9pcrQQVIvqpJJd.html)
+**发布时间**: 2026-08-03 10:30
+
+#### [因使用Kimi模型写代码，美国最大外卖平台遭调查；员工临下班对嘴喷奶油！瑞幸回应：涉及物料已废弃；小米多款手机正式涨价300元起](https://www.leiphone.com/category/zaobao/sJsXwQ2i70NZsIDQ.html)
+**发布时间**: 2026-08-03 08:32
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-03日刊](https://hex2077.dev/docs/2026-08/2026-08-03/)
+**发布时间**: 2026-08-03 10:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [年薪百万抢电工，Meta急到自己办技校](https://www.qbitai.com/2026/08/465223.html)
+**发布时间**: 2026-08-03 07:11
+
+#### [当品牌开始争夺AI的答案：翰智GEO入场](https://www.qbitai.com/2026/08/465662.html)
+**发布时间**: 2026-08-03 06:58
+
+#### [2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕](https://www.qbitai.com/2026/08/465361.html)
+**发布时间**: 2026-08-03 06:49
+
+#### [Demo的高估值时代结束了，具身智能开始按生产力重新算账](https://www.qbitai.com/2026/08/465225.html)
+**发布时间**: 2026-08-03 05:42
+
+#### [刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude](https://www.qbitai.com/2026/08/465226.html)
+**发布时间**: 2026-08-03 05:41
+
+#### [阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定](https://www.qbitai.com/2026/08/465215.html)
+**发布时间**: 2026-08-03 04:58
+
+#### [阿里“千问办公”开启公测](https://www.qbitai.com/2026/08/465211.html)
+**发布时间**: 2026-08-03 04:47
+
+#### [赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！](https://www.qbitai.com/2026/08/465176.html)
+**发布时间**: 2026-08-03 04:29
+
+#### [AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化](https://www.qbitai.com/2026/08/464835.html)
+**发布时间**: 2026-08-03 02:51
 
 ---
 
