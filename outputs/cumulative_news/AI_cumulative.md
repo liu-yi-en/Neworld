@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-03 08:30
+**最后更新时间**: 2026-08-04 00:08
+
+---
+
+## 🆕 最新更新 (2026-08-04 00:08)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化](https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html)
+**发布时间**: 2026-08-03 19:27
+
+#### [B300半年涨三倍；大厂集体绕开算力中转站；Infra公司多名核心高管离职；Token成本击穿圈人再变现丨算力情报局Vol.13](https://www.leiphone.com/category/chips/VSDxFDJBROODRhhk.html)
+**发布时间**: 2026-08-03 18:15
+
+#### [RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026](https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html)
+**发布时间**: 2026-08-03 16:30
+
+#### [横扫五大手游电竞赛事，骁龙的下一个游戏技术「突破口」在AI？](https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html)
+**发布时间**: 2026-08-03 15:13
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/)
+**发布时间**: 2026-08-03 17:24
+
+#### [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/)
+**发布时间**: 2026-08-03 16:30
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Alexander Rakhlin named director of  the MIT Statistics and Data Science Center](https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803)
+**发布时间**: 2026-08-03 15:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [这个新生图模型有点夯：4K直出的，国产的，开源的！](https://www.qbitai.com/2026/08/465673.html)
+**发布时间**: 2026-08-03 11:59
 
 ---
 
