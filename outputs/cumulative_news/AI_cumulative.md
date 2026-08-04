@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-04 07:38
+**最后更新时间**: 2026-08-04 10:38
+
+---
+
+## 🆕 最新更新 (2026-08-04 10:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移](https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html)
+**发布时间**: 2026-08-04 16:27
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”](https://www.qbitai.com/2026/08/465792.html)
+**发布时间**: 2026-08-04 09:22
+
+#### [开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟](https://www.qbitai.com/2026/08/466262.html)
+**发布时间**: 2026-08-04 09:18
+
+#### [OpenAI天价网红公关活动，捅马蜂窝了](https://www.qbitai.com/2026/08/466032.html)
+**发布时间**: 2026-08-04 09:13
+
+#### [腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文](https://www.qbitai.com/2026/08/465973.html)
+**发布时间**: 2026-08-04 08:58
+
+#### [DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash](https://www.qbitai.com/2026/08/465814.html)
+**发布时间**: 2026-08-04 08:18
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The benefits of medical AI assistance vary based on user expertise](https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804)
+**发布时间**: 2026-08-04 05:00
 
 ---
 
