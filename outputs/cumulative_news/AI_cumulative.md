@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-04 00:08
+**最后更新时间**: 2026-08-04 07:38
+
+---
+
+## 🆕 最新更新 (2026-08-04 07:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？](https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html)
+**发布时间**: 2026-08-04 12:46
+
+#### [内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」](https://www.leiphone.com/category/CorporateServices/KnATpl3oAEndk3cP.html)
+**发布时间**: 2026-08-04 10:26
+
+#### [三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查](https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html)
+**发布时间**: 2026-08-04 08:41
+
+#### [对话哈啰Robotaxi CTO于乾坤：Robotaxi入场窗口已经关闭](https://www.leiphone.com/category/transportation/nauFXU2rTxrlpfKR.html)
+**发布时间**: 2026-08-03 15:58
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-04日刊](https://hex2077.dev/docs/2026-08/2026-08-04/)
+**发布时间**: 2026-08-04 10:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地](https://www.qbitai.com/2026/08/465785.html)
+**发布时间**: 2026-08-04 06:47
+
+#### [激流：中国科技投资的势能与锚点｜甲子引力X](https://www.qbitai.com/2026/08/465767.html)
+**发布时间**: 2026-08-04 03:46
+
+#### [亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群](https://www.qbitai.com/2026/08/465732.html)
+**发布时间**: 2026-08-04 01:27
 
 ---
 
