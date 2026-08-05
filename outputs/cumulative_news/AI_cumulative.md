@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-05 00:01
+**最后更新时间**: 2026-08-05 07:38
+
+---
+
+## 🆕 最新更新 (2026-08-05 07:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI 才是不知疲倦的入侵狂魔，看来以后黑客也要失业了](https://www.leiphone.com/category/yanxishe/VQZgsYN4EWGlF44Z.html)
+**发布时间**: 2026-08-05 12:24
+
+#### [20万星里程碑达成！GitHub 封神技能包，专治 AI 瞎写、失忆、造屎山](https://www.leiphone.com/category/yanxishe/mBdAuQmsVFjBiMiy.html)
+**发布时间**: 2026-08-05 12:22
+
+#### [IDC发布全球基础模型评估报告，阿里云是唯一入选“领导者”象限的中国厂商](https://www.leiphone.com/category/industrynews/1gS0E0CcUDxEgbQR.html)
+**发布时间**: 2026-08-05 10:53
+
+#### [独家丨入股亿能智光，拓竹首次对外投资昭示其扩张野心](https://www.leiphone.com/category/weiwu/uuLwEc9qyRqTr2Ol.html)
+**发布时间**: 2026-08-05 10:34
+
+#### [资本重仓端侧物理AI:前海母基金数亿元押注,Om AI联汇加速端侧AI商业化落地](https://www.leiphone.com/category/industrynews/tAlZoYMQpcDwWWi2.html)
+**发布时间**: 2026-08-05 10:20
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-05日刊](https://hex2077.dev/docs/2026-08/2026-08-05/)
+**发布时间**: 2026-08-05 11:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [微软叫停Tokenmaxxing！预算卡死，超限自负](https://www.qbitai.com/2026/08/466739.html)
+**发布时间**: 2026-08-05 06:33
+
+#### [老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了](https://www.qbitai.com/2026/08/466553.html)
+**发布时间**: 2026-08-05 05:53
+
+#### [倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报](https://www.qbitai.com/2026/08/466454.html)
+**发布时间**: 2026-08-05 04:28
 
 ---
 
