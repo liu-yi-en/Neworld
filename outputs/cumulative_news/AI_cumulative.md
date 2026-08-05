@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-05 07:38
+**最后更新时间**: 2026-08-05 10:34
+
+---
+
+## 🆕 最新更新 (2026-08-05 10:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [越疆具身全栖机器人让陪伴从“听见”升级为“看见”和“做到”](https://www.leiphone.com/category/ai/HeZOqCaleEb5REh4.html)
+**发布时间**: 2026-08-05 16:20
+
+#### [全球五大机器人展新增板块，为何从炫技转向赶考？｜WRC 2026](https://www.leiphone.com/category/private/fNLpOtD2S0XnmuGP.html)
+**发布时间**: 2026-08-05 16:18
+
+#### [机器人大舞台有料你就来！WRC前瞻首发：整机厂秀肌肉，零部件闷声发财｜WRC 2026](https://www.leiphone.com/category/private/IebUaqTjHqgEYxQs.html)
+**发布时间**: 2026-08-05 16:18
+
+#### [即梦上线多款Seedance2.5专业工具，携手上海电影、艾菲奖等探索AI视频应用场景](https://www.leiphone.com/category/industrynews/ME02O5J26zzAWXeo.html)
+**发布时间**: 2026-08-05 15:25
+
+#### [字节跳动启动2027校园招聘，持续加码AI人才](https://www.leiphone.com/category/industrynews/V9v6jersRxEmcZcZ.html)
+**发布时间**: 2026-08-05 15:22
+
+#### [鸿蒙智行回应「竹知了」事件：针对的是侵权内容；员工因离座9分钟被开除！公司被判赔偿11万元；疑似梁文锋早期微博被扒，曾被困无人区7天](https://www.leiphone.com/category/zaobao/pXudFmCgL97jh97J.html)
+**发布时间**: 2026-08-05 13:48
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [淘天开启2027届应届生招聘：AI技术类岗位占比超9成](https://www.qbitai.com/2026/08/466998.html)
+**发布时间**: 2026-08-05 09:38
+
+#### [114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型](https://www.qbitai.com/2026/08/466847.html)
+**发布时间**: 2026-08-05 07:05
 
 ---
 
