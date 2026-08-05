@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-04 10:38
+**最后更新时间**: 2026-08-05 00:01
+
+---
+
+## 🆕 最新更新 (2026-08-05 00:01)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [超400万人在灵光App“手搓”AI应用，加速AI原生创作者生态形成](https://www.leiphone.com/category/industrynews/dyX3xfFAHdLseQIF.html)
+**发布时间**: 2026-08-04 20:20
+
+#### [算力筑基 智云赋能 | 仪电智算全力护航全国青少年人工智能大赛决赛](https://www.leiphone.com/category/industrynews/375yKWm6UC8cJpE0.html)
+**发布时间**: 2026-08-04 19:24
+
+#### [参数内卷的尽头，泳池机器人在等待一次范式转移](https://www.leiphone.com/category/robot/7Caqen8YIzrPTVj1.html)
+**发布时间**: 2026-08-04 18:00
+
+#### [发布当日，海外主流AI平台纷纷接入阿里Qwen3.8](https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html)
+**发布时间**: 2026-08-04 17:07
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Web Search on Amazon Bedrock for foundation model grounding](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/)
+**发布时间**: 2026-08-04 18:39
+
+#### [Automated web insight extraction with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-04 16:02
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/)
+**发布时间**: 2026-08-04 16:00
+
+#### [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/)
+**发布时间**: 2026-08-04 15:00
+
+#### [As AI Increases Demands on Memory, Storage Steps Up](https://blogs.nvidia.com/blog/ai-storage-fms/)
+**发布时间**: 2026-08-04 15:00
+
+#### [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/)
+**发布时间**: 2026-08-04 13:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Solving the solvent problem](https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804)
+**发布时间**: 2026-08-04 14:50
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)
+**发布时间**: 2026-08-04 13:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills](https://www.qbitai.com/2026/08/466386.html)
+**发布时间**: 2026-08-04 13:14
 
 ---
 
