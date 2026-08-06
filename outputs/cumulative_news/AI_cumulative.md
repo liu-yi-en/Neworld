@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-05 23:59
+**最后更新时间**: 2026-08-06 07:38
+
+---
+
+## 🆕 最新更新 (2026-08-06 07:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统](https://www.leiphone.com/category/industrynews/azZ6sWNeflKLM9SD.html)
+**发布时间**: 2026-08-06 11:58
+
+#### [比亚迪助力香港足球文化节 与足球少年一起见证曼城国米巅峰对决](https://www.leiphone.com/category/industrynews/tZSQBv84UUTiC6Xx.html)
+**发布时间**: 2026-08-06 11:27
+
+#### [滴滴旗下99携手巴西领先租车企业Movida，共建绿色出行生态](https://www.leiphone.com/category/industrynews/f2V1P6CeMXNjyvSG.html)
+**发布时间**: 2026-08-06 11:06
+
+#### [国内首个，千问办公通过中国信通院办公智能体能力评估](https://www.leiphone.com/category/industrynews/w1PvSaIjvOmbN6ak.html)
+**发布时间**: 2026-08-06 10:37
+
+#### [都叫3D芯片，为什么是三门不同的生意？](https://www.leiphone.com/category/chips/ljl2DOaEEwaMbzBk.html)
+**发布时间**: 2026-08-06 09:00
+
+#### [长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿](https://www.leiphone.com/category/zaobao/aMdQoqYpcE7D7eWa.html)
+**发布时间**: 2026-08-06 08:34
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-06日刊](https://hex2077.dev/docs/2026-08/2026-08-06/)
+**发布时间**: 2026-08-06 10:52
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [这人谁啊？哈萨比斯都让位了](https://www.qbitai.com/2026/08/467274.html)
+**发布时间**: 2026-08-06 06:17
+
+#### [MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”](https://www.qbitai.com/2026/08/467270.html)
+**发布时间**: 2026-08-06 05:36
+
+#### [超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地](https://www.qbitai.com/2026/08/467262.html)
+**发布时间**: 2026-08-06 05:29
+
+#### [突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿](https://www.qbitai.com/2026/08/467196.html)
+**发布时间**: 2026-08-05 23:52
 
 ---
 
