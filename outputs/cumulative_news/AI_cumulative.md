@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-06 07:38
+**最后更新时间**: 2026-08-06 10:37
+
+---
+
+## 🆕 最新更新 (2026-08-06 10:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速](https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html)
+**发布时间**: 2026-08-06 14:29
+
+#### [蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」](https://www.leiphone.com/category/academic/E6Goi7fB66O6a4gN.html)
+**发布时间**: 2026-08-06 14:24
+
+#### [对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」](https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html)
+**发布时间**: 2026-08-06 14:22
+
+#### [华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」](https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html)
+**发布时间**: 2026-08-06 14:19
+
+#### [独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖](https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html)
+**发布时间**: 2026-08-06 13:58
+
+#### [独家丨从飞书火山整合，看阿里「云钉一体」踩过的坑](https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html)
+**发布时间**: 2026-08-06 13:58
+
+#### [把512 GiB闪存搬到xPU旁边，HBF能打破推理内存墙？](https://www.leiphone.com/category/chips/P0IOl7W4ZU6ERUnt.html)
+**发布时间**: 2026-08-06 13:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [美学升维，流畅突破：荣耀MagicOS11双架构重塑体验](https://www.qbitai.com/2026/08/467478.html)
+**发布时间**: 2026-08-06 09:58
+
+#### [没有人靠段子永载GitHub，除非谷歌姐夫](https://www.qbitai.com/2026/08/467447.html)
+**发布时间**: 2026-08-06 08:02
+
+#### [Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一](https://www.qbitai.com/2026/08/467444.html)
+**发布时间**: 2026-08-06 07:43
 
 ---
 
