@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-05 10:34
+**最后更新时间**: 2026-08-05 23:59
+
+---
+
+## 🆕 最新更新 (2026-08-05 23:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [MiniMax H3 视频模型登顶开源社区第一，定义视频模型领域“斩杀线”](https://www.leiphone.com/category/industrynews/aiUMBoeUYbi8fX4x.html)
+**发布时间**: 2026-08-05 19:20
+
+#### [尊界时代旗舰MPV正式上市，全国展车现已到店，售价64.8万元起](https://www.leiphone.com/category/industrynews/QFyXW6c55NAYahi7.html)
+**发布时间**: 2026-08-05 19:02
+
+#### [华为WATCH GT 7系列正式发布，延续颜值天花板基因，运动健康体验再进阶](https://www.leiphone.com/category/industrynews/LoiYc9ormyfo7FHZ.html)
+**发布时间**: 2026-08-05 17:41
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/)
+**发布时间**: 2026-08-05 18:50
+
+#### [How Mobileye transformed support operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-05 18:09
+
+#### [How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools](https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/)
+**发布时间**: 2026-08-05 18:02
+
+#### [Run production AI agents in n8n with Amazon Bedrock AgentCore harness](https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/)
+**发布时间**: 2026-08-05 18:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [别再吹AI生图了，不能图层编辑的AI都是“画饼”](https://www.qbitai.com/2026/08/467034.html)
+**发布时间**: 2026-08-05 14:09
+
+#### [等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……](https://www.qbitai.com/2026/08/467036.html)
+**发布时间**: 2026-08-05 13:47
+
+#### [又一家AI基金暴雷了](https://www.qbitai.com/2026/08/467001.html)
+**发布时间**: 2026-08-05 12:43
 
 ---
 
