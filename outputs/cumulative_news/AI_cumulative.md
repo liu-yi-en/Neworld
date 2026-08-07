@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-07 01:42
+**最后更新时间**: 2026-08-07 06:09
+
+---
+
+## 🆕 最新更新 (2026-08-07 06:09)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山](https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html)
+**发布时间**: 2026-08-07 11:28
+
+#### [汪峰：我现在买衣服，80%都是淘宝](https://www.leiphone.com/category/industrynews/FqaTMocwsNfeul2p.html)
+**发布时间**: 2026-08-07 11:12
+
+#### [阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频](https://www.leiphone.com/category/industrynews/Wp4SCQ5wu1Lbhtr1.html)
+**发布时间**: 2026-08-07 10:24
+
+#### [2个月做到3000单，内贸卖家如何借「轻出海」快速打开跨境生意？](https://www.leiphone.com/category/industrynews/XnHMK4DKZgEQBCZs.html)
+**发布时间**: 2026-08-07 09:45
+
+#### [150.8元/股！宇树科技超百名员工参与IPO「盛宴」，一批90后千万富豪或将诞生；DeepSeek拟上调API服务定价；字节拟训练超5万亿参数大模型](https://www.leiphone.com/category/zaobao/jTnxUYfadwnDJtNd.html)
+**发布时间**: 2026-08-07 08:32
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-07日刊](https://hex2077.dev/docs/2026-08/2026-08-07/)
+**发布时间**: 2026-08-07 10:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频](https://www.qbitai.com/2026/08/467877.html)
+**发布时间**: 2026-08-07 03:23
+
+#### [刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了](https://www.qbitai.com/2026/08/467879.html)
+**发布时间**: 2026-08-07 03:23
+
+#### [蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作](https://www.qbitai.com/2026/08/467871.html)
+**发布时间**: 2026-08-07 03:08
+
+#### [AI SSD：大模型推理的存储范式转移](https://www.qbitai.com/2026/08/467840.html)
+**发布时间**: 2026-08-07 02:56
+
+#### [PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商](https://www.qbitai.com/2026/08/467834.html)
+**发布时间**: 2026-08-07 01:39
+
+#### [智元下架了首席科学家罗剑岚](https://www.qbitai.com/2026/08/467730.html)
+**发布时间**: 2026-08-07 01:25
 
 ---
 
