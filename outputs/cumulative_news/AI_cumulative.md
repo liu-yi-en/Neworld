@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-07 08:58
+**最后更新时间**: 2026-08-07 23:32
+
+---
+
+## 🆕 最新更新 (2026-08-07 23:32)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？](https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html)
+**发布时间**: 2026-08-07 23:29
+
+#### [82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」](https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html)
+**发布时间**: 2026-08-07 18:29
+
+#### [美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”](https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html)
+**发布时间**: 2026-08-07 18:26
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [TutorMoments: Do AI tutors know when to help and when to hold back?](https://huggingface.co/blog/allenai/tutormoments)
+**发布时间**: 2026-08-07 17:53
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-07 16:26
+
+#### [How TReNDS automates root-cause analysis with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/)
+**发布时间**: 2026-08-07 16:22
+
+#### [Determining playoff clinching scenarios in the NHL using constraint programming](https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/)
+**发布时间**: 2026-08-07 16:21
 
 ---
 

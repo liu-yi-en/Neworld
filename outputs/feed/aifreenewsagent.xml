@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Aug 2026 08:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 08:59:44 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:35:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>延长20年！上汽集团与通用汽车签署合资续约协议</title>
-      <link>https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html</link>
-      <description>&lt;![CDATA[延长20年！上汽集团与通用汽车签署合资续约协议]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html</guid>
+      <title>赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？</title>
+      <link>https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html</link>
+      <description>&lt;![CDATA[赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 23:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>IJCAI 2026 专访：机器人想学会人类动作，还差一座桥 | GAIR Paper 118</title>
-      <link>https://www.leiphone.com/category/private/V2FQ6puH0pDdAKeI.html</link>
-      <description>&lt;![CDATA[IJCAI 2026 专访：机器人想学会人类动作，还差一座桥 | GAIR Paper 118]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/V2FQ6puH0pDdAKeI.html</guid>
+      <title>82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」</title>
+      <link>https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html</link>
+      <description>&lt;![CDATA[82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力</title>
-      <link>https://www.qbitai.com/2026/08/468324.html</link>
-      <description>&lt;![CDATA[阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468324.html</guid>
+      <title>美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”</title>
+      <link>https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html</link>
+      <description>&lt;![CDATA[美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI批量轰炸苹果bug赏金计划，审核团队已下线</title>
-      <link>https://www.qbitai.com/2026/08/466738.html</link>
-      <description>&lt;![CDATA[AI批量轰炸苹果bug赏金计划，审核团队已下线]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 06:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466738.html</guid>
+      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
+      <link>https://huggingface.co/blog/allenai/tutormoments</link>
+      <description>&lt;![CDATA[TutorMoments: Do AI tutors know when to help and when to hold back?]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/tutormoments</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境</title>
-      <link>https://www.qbitai.com/2026/08/468305.html</link>
-      <description>&lt;![CDATA[openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 06:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468305.html</guid>
+      <title>How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How TReNDS automates root-cause analysis with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How TReNDS automates root-cause analysis with Amazon Bedrock]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Determining playoff clinching scenarios in the NHL using constraint programming</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/</link>
+      <description>&lt;![CDATA[Determining playoff clinching scenarios in the NHL using constraint programming]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/</guid>
       <category>Ai</category>
     </item>
   </channel>
