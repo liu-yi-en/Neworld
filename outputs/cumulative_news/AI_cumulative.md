@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-07 06:09
+**最后更新时间**: 2026-08-07 08:58
+
+---
+
+## 🆕 最新更新 (2026-08-07 08:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [延长20年！上汽集团与通用汽车签署合资续约协议](https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html)
+**发布时间**: 2026-08-07 14:48
+
+#### [IJCAI 2026 专访：机器人想学会人类动作，还差一座桥 | GAIR Paper 118](https://www.leiphone.com/category/private/V2FQ6puH0pDdAKeI.html)
+**发布时间**: 2026-08-07 14:09
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力](https://www.qbitai.com/2026/08/468324.html)
+**发布时间**: 2026-08-07 07:43
+
+#### [AI批量轰炸苹果bug赏金计划，审核团队已下线](https://www.qbitai.com/2026/08/466738.html)
+**发布时间**: 2026-08-07 06:21
+
+#### [openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境](https://www.qbitai.com/2026/08/468305.html)
+**发布时间**: 2026-08-07 06:18
+
+#### [AI圈功能狂卷，付费寥寥，Keep正在试一条新路](https://www.qbitai.com/2026/08/467878.html)
+**发布时间**: 2026-08-07 05:30
 
 ---
 
