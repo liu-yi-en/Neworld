@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-08 08:39
+**最后更新时间**: 2026-08-08 23:27
+
+---
+
+## 🆕 最新更新 (2026-08-08 23:27)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)
+**发布时间**: 2026-08-08 10:24
 
 ---
 
