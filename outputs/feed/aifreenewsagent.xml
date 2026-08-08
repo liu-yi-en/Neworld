@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Aug 2026 23:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 23:35:14 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 05:41:00 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:44:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？</title>
-      <link>https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html</link>
-      <description>&lt;![CDATA[赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 23:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html</guid>
+      <title>2026-08-08日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-08/</link>
+      <description>&lt;![CDATA[2026-08-08日刊]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-08/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」</title>
-      <link>https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html</link>
-      <description>&lt;![CDATA[82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html</guid>
+      <title>都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙</title>
+      <link>https://www.qbitai.com/2026/08/468462.html</link>
+      <description>&lt;![CDATA[都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 04:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468462.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”</title>
-      <link>https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html</link>
-      <description>&lt;![CDATA[美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html</guid>
+      <title>谷歌急了：AI核心员工全给我搬回硅谷坐班！</title>
+      <link>https://www.qbitai.com/2026/08/468398.html</link>
+      <description>&lt;![CDATA[谷歌急了：AI核心员工全给我搬回硅谷坐班！]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 02:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468398.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <description>&lt;![CDATA[TutorMoments: Do AI tutors know when to help and when to hold back?]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/tutormoments</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How TReNDS automates root-cause analysis with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/</link>
-      <description>&lt;![CDATA[How TReNDS automates root-cause analysis with Amazon Bedrock]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Determining playoff clinching scenarios in the NHL using constraint programming</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/</link>
-      <description>&lt;![CDATA[Determining playoff clinching scenarios in the NHL using constraint programming]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/</guid>
+      <title>Kimi K3也失控了…学霸AI逃离沙箱只为找答案</title>
+      <link>https://www.qbitai.com/2026/08/468338.html</link>
+      <description>&lt;![CDATA[Kimi K3也失控了…学霸AI逃离沙箱只为找答案]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 02:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468338.html</guid>
       <category>Ai</category>
     </item>
   </channel>
