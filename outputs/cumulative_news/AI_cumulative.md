@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-10 09:19
+**最后更新时间**: 2026-08-10 23:34
+
+---
+
+## 🆕 最新更新 (2026-08-10 23:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [8.99万元起，高性能智慧家轿2027款艾瑞泽8 PRO正式上市](https://www.leiphone.com/category/industrynews/4AYm6hbg71IDngdw.html)
+**发布时间**: 2026-08-10 23:34
+
+#### [华为乾崑赋能，阿维塔07L重塑智美大五座豪华SUV标杆](https://www.leiphone.com/category/industrynews/qlmdmJ611fZ7BrcQ.html)
+**发布时间**: 2026-08-10 23:27
+
+#### [阿里云将数据中心交付周期缩短至100天，全球领先](https://www.leiphone.com/category/industrynews/mu3h6gC4Fx0CZl8K.html)
+**发布时间**: 2026-08-10 16:33
+
+#### [阿里云将数据中心交付周期缩短至100天，全球领先](https://www.leiphone.com/category/industrynews/HloM0XQsbDuNjjZH.html)
+**发布时间**: 2026-08-10 16:31
+
+#### [理想汽车范皓宇：把产品打磨到极致，不问终点迎风向前](https://www.leiphone.com/category/industrynews/y4r7kWai6uAZPcch.html)
+**发布时间**: 2026-08-10 16:21
+
+#### [百花奖AIGC推优单元获奖名单揭晓，即梦AI独家技术合作助力AI影像创作](https://www.leiphone.com/category/industrynews/LtHzwwLa5uF6ZQ3Q.html)
+**发布时间**: 2026-08-10 16:20
+
+#### [百花奖联合即梦AI首次设立AIGC推优单元：2038件作品参评，6部获推优荣誉](https://www.leiphone.com/category/industrynews/J90wLrxF946o85H6.html)
+**发布时间**: 2026-08-10 15:55
+
+#### [99 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」](https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html)
+**发布时间**: 2026-08-07 18:29
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows](https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/)
+**发布时间**: 2026-08-10 16:34
+
+#### [How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-10 16:30
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)
+**发布时间**: 2026-08-10 16:25
+
+#### [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation)
+**发布时间**: 2026-08-10 10:05
+
+#### [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer)
+**发布时间**: 2026-08-10 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [With a feel for physics, AI models simulate a wider range of real-world scenarios](https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810)
+**发布时间**: 2026-08-10 15:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI倒查论文100年！99.2%的顶刊都有问题…](https://www.qbitai.com/2026/08/469795.html)
+**发布时间**: 2026-08-10 13:58
+
+#### [PDF当死，ARA该立！论文是时候Agent原生了](https://www.qbitai.com/2026/08/469721.html)
+**发布时间**: 2026-08-10 13:53
+
+#### [模型路线趋同之后，Physical AI的胜负手变了](https://www.qbitai.com/2026/08/469544.html)
+**发布时间**: 2026-08-10 09:20
 
 ---
 
