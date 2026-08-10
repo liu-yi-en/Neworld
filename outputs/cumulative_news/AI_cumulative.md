@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-09 23:30
+**最后更新时间**: 2026-08-10 06:10
+
+---
+
+## 🆕 最新更新 (2026-08-10 06:10)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-10日刊](https://hex2077.dev/docs/2026-08/2026-08-10/)
+**发布时间**: 2026-08-10 10:44
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [吴声2026演讲定调乐奇Rokid：它正把智能眼镜推向“AI Normal”时代](https://www.leiphone.com/category/arvr/J0HmhmsrZ4Ayzs2e.html)
+**发布时间**: 2026-08-10 10:44
+
+#### [千问开放平台正式上线，，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入。](https://www.leiphone.com/category/industrynews/F2h9Vto4WSIh1FJ0.html)
+**发布时间**: 2026-08-10 10:20
+
+#### [实车体验｜地平线HSD V2.0：一段式端到端的「二次进化」](https://www.leiphone.com/category/transportation/uv0khddWPw7ZLS8V.html)
+**发布时间**: 2026-08-10 10:19
+
+#### [千问开放平台上线！生态伙伴、开发者可自主接入AI智能体](https://www.leiphone.com/category/industrynews/jO3S36y9Au6IJBTs.html)
+**发布时间**: 2026-08-10 10:19
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅](https://www.qbitai.com/2026/08/469493.html)
+**发布时间**: 2026-08-10 03:24
+
+#### [苹果开测长鑫存储！百度、千问也一起挤进苹果供应链](https://www.qbitai.com/2026/08/469475.html)
+**发布时间**: 2026-08-10 02:34
+
+#### [墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒](https://www.qbitai.com/2026/08/469454.html)
+**发布时间**: 2026-08-10 02:25
+
+#### [魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只](https://www.qbitai.com/2026/08/469213.html)
+**发布时间**: 2026-08-10 01:34
+
+#### [3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知](https://www.qbitai.com/2026/08/469076.html)
+**发布时间**: 2026-08-10 01:12
 
 ---
 
