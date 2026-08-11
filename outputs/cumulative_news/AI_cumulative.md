@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-11 05:53
+**最后更新时间**: 2026-08-11 23:38
+
+---
+
+## 🆕 最新更新 (2026-08-11 23:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解](https://www.leiphone.com/category/yanxishe/iIRqNx8RhKLrA9Ol.html)
+**发布时间**: 2026-08-11 23:00
+
+#### [蚂蚁集团领投，老股东超额跟投加注，戴盟两月内连获数亿元融资，以全栈触觉能力破局物理AI](https://www.leiphone.com/category/industrynews/D47bzyvQEgPf7PUB.html)
+**发布时间**: 2026-08-11 15:11
+
+#### [罚单51.79亿之后！携程年中绩效开奖，全部门奖金遭打折；千问推出新服务；DeepSeek被曝偷偷给用户取外号！官方：临时打标签](https://www.leiphone.com/category/zaobao/Mz5j9DsCciXc6cTx.html)
+**发布时间**: 2026-08-11 08:33
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/)
+**发布时间**: 2026-08-11 21:38
+
+#### [How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC](https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/)
+**发布时间**: 2026-08-11 16:14
+
+#### [How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/)
+**发布时间**: 2026-08-11 16:11
+
+#### [First Orion accelerates QA automation using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/)
+**发布时间**: 2026-08-11 16:09
+
+#### [Deploying Anthropic Claude apps gateway for AWS for enterprise workloads](https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/)
+**发布时间**: 2026-08-11 15:59
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-11日刊](https://hex2077.dev/docs/2026-08/2026-08-11/)
+**发布时间**: 2026-08-11 20:29
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)
+**发布时间**: 2026-08-11 17:04
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Why Scaling AI Compute Performance Requires a New Power Architecture](https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/)
+**发布时间**: 2026-08-11 15:00
+
+#### [NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents](https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/)
+**发布时间**: 2026-08-11 13:00
+
+#### [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+**发布时间**: 2026-08-11 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布](https://www.qbitai.com/2026/08/470674.html)
+**发布时间**: 2026-08-11 13:57
+
+#### [一家新能源大厂，如何撑起全球最大AI算力超级单体？](https://www.qbitai.com/2026/08/470621.html)
+**发布时间**: 2026-08-11 11:36
+
+#### [谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”](https://www.qbitai.com/2026/08/470576.html)
+**发布时间**: 2026-08-11 09:24
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)
+**发布时间**: 2026-08-11 13:37
 
 ---
 
