@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-12 06:13
+**最后更新时间**: 2026-08-12 09:10
+
+---
+
+## 🆕 最新更新 (2026-08-12 09:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Vibe Coding 正在重写软件开发，也正在重构数据库](https://www.leiphone.com/category/industrynews/q5wbWPcOp6rU17dU.html)
+**发布时间**: 2026-08-12 14:45
+
+#### [华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地](https://www.leiphone.com/category/industrynews/5GTSi9GlaCRoYgMJ.html)
+**发布时间**: 2026-08-12 14:39
+
+#### [独家解读丨对手买「法拉利」，AMD为何给自己添了一辆「拖拉机」？](https://www.leiphone.com/category/chips/FFL2K4o5EltbstrF.html)
+**发布时间**: 2026-08-12 13:51
+
+#### [桥介数物完成新一轮亿级融资，加速落地通用机器人操作系统](https://www.leiphone.com/category/industrynews/lrwCyiLDozDxFo2b.html)
+**发布时间**: 2026-08-12 12:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕](https://www.qbitai.com/2026/08/470901.html)
+**发布时间**: 2026-08-12 07:31
 
 ---
 
