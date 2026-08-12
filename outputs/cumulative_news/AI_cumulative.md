@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-12 09:10
+**最后更新时间**: 2026-08-12 23:40
+
+---
+
+## 🆕 最新更新 (2026-08-12 23:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [这个暑假44.5万台相机被买走：云台和运动相机占9成，全景相机不到3%](https://www.leiphone.com/category/industrynews/L0bv9LKbH7XX0x3y.html)
+**发布时间**: 2026-08-12 21:57
+
+#### [以思辨铸魂、以实战强能——“2026年网络安全技术创新与人才教育大会”的方班风采](https://www.leiphone.com/category/DataSecurity /kGgnb89t5ezgzMOn.html)
+**发布时间**: 2026-08-12 17:54
+
+#### [美团王莆中：不开线下药店，坚持做医药商家AI转型小帮手](https://www.leiphone.com/category/industrynews/8N6lp4z3JxygAbmt.html)
+**发布时间**: 2026-08-12 17:46
+
+#### [当流量税被 API 拿走，字节和谷歌的护城河还剩什么？](https://www.leiphone.com/category/yanxishe/8EasV5NJOerbUpZS.html)
+**发布时间**: 2026-08-12 17:44
+
+#### [AI时代，外贸跨境支付如何更高效？](https://www.leiphone.com/category/industrynews/2qeAdkpkaQykwWHi.html)
+**发布时间**: 2026-08-12 17:32
+
+#### [独家丨大疆安克高管刘力源进军宠物机器人，元禾领投天使](https://www.leiphone.com/category/weiwu/P3QjuKBAMqtTeGNM.html)
+**发布时间**: 2026-08-12 17:02
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS](https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/)
+**发布时间**: 2026-08-12 17:45
+
+#### [How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS](https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/)
+**发布时间**: 2026-08-12 13:46
+
+#### [Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-08-12 13:44
+
+#### [Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine](https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/)
+**发布时间**: 2026-08-12 13:42
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
+**发布时间**: 2026-08-12 16:14
+
+#### [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b)
+**发布时间**: 2026-08-12 14:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs](https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/)
+**发布时间**: 2026-08-12 14:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵](https://www.qbitai.com/2026/08/471254.html)
+**发布时间**: 2026-08-12 13:46
+
+#### [Anthropic CEO整天神神叨叨，投资人受不了了](https://www.qbitai.com/2026/08/471162.html)
+**发布时间**: 2026-08-12 13:38
+
+#### [国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键](https://www.qbitai.com/2026/08/471049.html)
+**发布时间**: 2026-08-12 13:10
+
+#### [紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力](https://www.qbitai.com/2026/08/471030.html)
+**发布时间**: 2026-08-12 10:54
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+**发布时间**: 2026-08-12 09:51
 
 ---
 
