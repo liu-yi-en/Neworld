@@ -1,7 +1,45 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-11 23:38
+**最后更新时间**: 2026-08-12 06:13
+
+---
+
+## 🆕 最新更新 (2026-08-12 06:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [一家 AI 眼镜独角兽背后的「冰与火之歌」](https://www.leiphone.com/category/weiwu/N8AbqKGve3lxNPho.html)
+**发布时间**: 2026-08-12 11:52
+
+#### [REDMI K100 Pro 系列发布，全系配备旗舰双芯、185Hz 屏幕、长焦影像，打造全能性能越阶之作](https://www.leiphone.com/category/industrynews/2C1HKM4praRKAKgY.html)
+**发布时间**: 2026-08-12 11:24
+
+#### [赛事发布｜AI 社会科学家研究挑战赛：开启AGI时代的社会科学研究之旅](https://www.leiphone.com/category/industrynews/CbroiTWerVTsMc8i.html)
+**发布时间**: 2026-08-12 11:15
+
+#### [美的作为独家家电伙伴接入千问App，阿里系多元场景服务即将全面打通](https://www.leiphone.com/category/smarthome/UPJ3O4bqnuSpOiK1.html)
+**发布时间**: 2026-08-12 10:27
+
+#### [DeepSeek招土木工程师；腾讯参投！林俊旸深夜官宣新公司：做下一代AI智能体；宇树科技中签号出炉：共19414个丨雷峰早报](https://www.leiphone.com/category/zaobao/H8yaCINLCnx3D30o.html)
+**发布时间**: 2026-08-12 08:42
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-12日刊](https://hex2077.dev/docs/2026-08/2026-08-12/)
+**发布时间**: 2026-08-12 10:24
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [人形之外，擎羽把“身体”变成具身智能的新变量](https://www.qbitai.com/2026/08/470874.html)
+**发布时间**: 2026-08-12 04:29
+
+#### [刚刚，Manus恢复独立运营](https://www.qbitai.com/2026/08/470805.html)
+**发布时间**: 2026-08-12 02:51
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA AI Factory Compute Is Becoming an Investable Asset Class](https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/)
+**发布时间**: 2026-08-12 00:38
 
 ---
 
