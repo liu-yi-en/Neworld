@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-13 06:18
+**最后更新时间**: 2026-08-13 09:12
+
+---
+
+## 🆕 最新更新 (2026-08-13 09:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The latest rally has energized the stock market but left the credit market concerned](https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 09:01
+
+#### [Actress Tamara Mello of ‘She’s All That’ puts L.A. home on the market for $1.5 million](https://www.marketwatch.com/story/actresstamara-melloof-shes-all-that-puts-l-a-home-on-the-market-for-1-5-million-0046941f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 08:58
+
+#### [Lenovo profits soar past expectations on AI computers, servers and services](https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 07:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The battle for control of India’s $280bn Tata Group](https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:50
+
+#### [The impossible job: saving the United Nations](https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wealth managers woo OpenAI and Anthropic staff ahead of IPO windfalls](https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Who is Anthropic’s auditor — and why should we care?](https://www.ft.com/content/b93d8030-203b-4445-b4a7-49e52d9b17a5)
+**发布时间**: 2026-08-12 11:00
 
 ---
 

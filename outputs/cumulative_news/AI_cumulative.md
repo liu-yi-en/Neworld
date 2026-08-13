@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-13 06:16
+**最后更新时间**: 2026-08-13 09:11
+
+---
+
+## 🆕 最新更新 (2026-08-13 09:11)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [具身智能本体的重要性和技术差距，可能被大大低估了](https://www.leiphone.com/category/robot/lqsQ8c9sSoTqCZXo.html)
+**发布时间**: 2026-08-13 13:11
+
+#### [十年后，影石重新发明了全景相机](https://www.leiphone.com/category/industrynews/RhZoWnCgTAje3ezz.html)
+**发布时间**: 2026-08-13 12:36
+
+#### [雷士照明与星网天合达成战略合作，共建智慧空间一体化解决方案](https://www.leiphone.com/category/industrynews/KbbjMvo62fTILPOn.html)
+**发布时间**: 2026-08-13 12:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚！Ilya首个模型曝光了](https://www.qbitai.com/2026/08/471701.html)
+**发布时间**: 2026-08-13 08:36
+
+#### [联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期](https://www.qbitai.com/2026/08/471697.html)
+**发布时间**: 2026-08-13 06:33
 
 ---
 
