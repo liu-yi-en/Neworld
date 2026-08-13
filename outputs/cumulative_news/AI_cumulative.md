@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-13 09:11
+**最后更新时间**: 2026-08-13 23:40
+
+---
+
+## 🆕 最新更新 (2026-08-13 23:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [以服务驱动增长 滴滴中国出行单量连续14个季度上涨](https://www.leiphone.com/category/industrynews/5sFrL8UuJpyLrJ6B.html)
+**发布时间**: 2026-08-13 18:26
+
+#### [DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建](https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html)
+**发布时间**: 2026-08-13 18:16
+
+#### [中国新能源车出海，不再是车企独角戏](https://www.leiphone.com/category/transportation/gUic5TjJzhEnccLN.html)
+**发布时间**: 2026-08-13 17:55
+
+#### [完成Modular收购，高通瞄准数据中心、基础设施、个人及工业AI](https://www.leiphone.com/category/chips/f6iZg80ZvYz2BZmN.html)
+**发布时间**: 2026-08-13 17:49
+
+#### [灵犀专业版首批接入DeepSeek-V4-Pro正式版，交付能力再升级](https://www.leiphone.com/category/industrynews/a6tI2iy4DnB3jOir.html)
+**发布时间**: 2026-08-13 17:38
+
+#### [中国大厂消失在赞助商名单，却在不莱梅重构 AI 的灵魂丨IJCAI 2026](https://www.leiphone.com/category/private/s0Uh2zV14wto02c2.html)
+**发布时间**: 2026-08-13 17:07
+
+#### [给黑盒导航机器人「使绊子」：AdvNav 如何揭示具身智能系统潜在安全风险 | GAIR Paper 117](https://www.leiphone.com/category/private/yXsTeayhNBwW2ZUH.html)
+**发布时间**: 2026-08-13 17:02
+
+#### [Qwen3.8首日可用，助力存量算力长期有用：智源FlagOS开源开放生态共享](https://www.leiphone.com/category/ai/rbIV873aEJjUGpyU.html)
+**发布时间**: 2026-08-13 16:56
+
+#### [追觅个护亮相哥本哈根时装周，以专业造型科技闪耀国际时尚舞台](https://www.leiphone.com/category/industrynews/HyAVtUR4WEbZPbXg.html)
+**发布时间**: 2026-08-13 16:36
+
+#### [追觅洗地机登顶澳大利亚，全球第一版图持续扩张](https://www.leiphone.com/category/industrynews/0Mi1CKgaVWfuM03s.html)
+**发布时间**: 2026-08-13 16:33
+
+#### [Maker Tool出海：百亿赛道的增长与暗礁](https://www.leiphone.com/category/weiwu/M8AyKk3oBilCyytD.html)
+**发布时间**: 2026-08-13 15:57
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
+**发布时间**: 2026-08-13 17:16
+
+#### [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
+**发布时间**: 2026-08-13 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [深度体验DeepSeek Harness，我原谅它涨价了](https://www.qbitai.com/2026/08/472208.html)
+**发布时间**: 2026-08-13 16:03
+
+#### [4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围](https://www.qbitai.com/2026/08/472059.html)
+**发布时间**: 2026-08-13 12:34
+
+#### [马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购](https://www.qbitai.com/2026/08/472067.html)
+**发布时间**: 2026-08-13 12:04
+
+#### [具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施](https://www.qbitai.com/2026/08/472060.html)
+**发布时间**: 2026-08-13 11:53
+
+#### [Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表](https://www.qbitai.com/2026/08/472016.html)
+**发布时间**: 2026-08-13 11:29
+
+#### [中国人能飞！杭州发布全球首款站姿载人飞行器](https://www.qbitai.com/2026/08/471893.html)
+**发布时间**: 2026-08-13 10:20
+
+#### [科大讯飞发布企业服务全系列产品 覆盖七大核心场景](https://www.qbitai.com/2026/08/471884.html)
+**发布时间**: 2026-08-13 10:01
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Monitor on-premises and multi-cloud AI agents with AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/)
+**发布时间**: 2026-08-13 16:02
+
+#### [Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool](https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/)
+**发布时间**: 2026-08-13 15:56
+
+#### [Accelerating M&A due diligence with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-13 15:52
+
+#### [Amazon Quick for Microsoft 365: Agentic AI where you work](https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/)
+**发布时间**: 2026-08-13 15:48
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More](https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/)
+**发布时间**: 2026-08-13 13:00
 
 ---
 
