@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Aug 2026 06:13:00 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 06:15:29 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 09:06:00 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:08:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>业绩向上之后，瑞浦兰钧为什么更强调 “人的可持续”</title>
-      <link>https://www.leiphone.com/category/industrynews/19AHb2WXNyfATWu5.html</link>
-      <description>&lt;![CDATA[业绩向上之后，瑞浦兰钧为什么更强调 “人的可持续”]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/19AHb2WXNyfATWu5.html</guid>
+      <title>3D存算一体芯片领军企业谦合益邦完成超20亿元B轮融资</title>
+      <link>https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html</link>
+      <description>&lt;![CDATA[3D存算一体芯片领军企业谦合益邦完成超20亿元B轮融资]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 12:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-08-14日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-14/</link>
-      <description>&lt;![CDATA[2026-08-14日刊]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-14/</guid>
+      <title>算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」</title>
+      <link>https://www.qbitai.com/2026/08/472722.html</link>
+      <description>&lt;![CDATA[算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472722.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集</title>
+      <link>https://www.qbitai.com/2026/08/472718.html</link>
+      <description>&lt;![CDATA[德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 06:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472718.html</guid>
       <category>Ai</category>
     </item>
   </channel>

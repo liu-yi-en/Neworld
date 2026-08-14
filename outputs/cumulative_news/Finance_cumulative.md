@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 06:15
+**最后更新时间**: 2026-08-14 09:08
+
+---
+
+## 🆕 最新更新 (2026-08-14 09:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘American Pie’ star Seann William Scott lists stunning Malibu waterfront home for $17.5 million](https://www.marketwatch.com/story/american-pie-star-seann-william-scott-lists-stunning-malibu-waterfront-home-for-17-5-million-dc7e97b1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 09:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investigation into Farage resumes after he wins Clacton by-election](https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 08:25
+
+#### [Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory](https://www.ft.com/content/4fccf8b5-5e32-4322-9435-d996a0273dff?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
 
 ---
 
