@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-14 09:06
+**最后更新时间**: 2026-08-14 23:21
+
+---
+
+## 🆕 最新更新 (2026-08-14 23:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里开源Qwen3.8，千问大模型全球下载超30亿次](https://www.leiphone.com/category/industrynews/GJAhmR3wyL91CzjO.html)
+**发布时间**: 2026-08-14 23:08
+
+#### [商汤大装置首提TPW，重新定义AI基础设施效能标尺](https://www.leiphone.com/category/ai/XzQc2DEYciB5M57I.html)
+**发布时间**: 2026-08-14 21:09
+
+#### [百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端](https://www.leiphone.com/category/industrynews/jlbLtAX6KzW9yYGJ.html)
+**发布时间**: 2026-08-14 20:01
+
+#### [GLM-5.3 来了：底座没换，编程暴涨 50%，还顺手揪出潜伏 40 年的世界级漏洞](https://www.leiphone.com/category/yanxishe/TfPPSAIdcR2ijWkU.html)
+**发布时间**: 2026-08-14 19:10
+
+#### [模仿者蜂拥入局，凭什么是添可洗地机持续定义每一代？](https://www.leiphone.com/category/smarthome/MbJzrwn0HtWHqfR7.html)
+**发布时间**: 2026-08-14 18:37
+
+#### [Osmo 360 II 背后：大疆全景影像的「三代进阶」之路](https://www.leiphone.com/category/weiwu/FZhNkt6nFQ1Mi8La.html)
+**发布时间**: 2026-08-14 17:43
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/)
+**发布时间**: 2026-08-14 17:13
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/)
+**发布时间**: 2026-08-14 16:02
+
+#### [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/)
+**发布时间**: 2026-08-14 15:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，Qwen3.8-27B 开源了！家用显卡也能跑](https://www.qbitai.com/2026/08/473379.html)
+**发布时间**: 2026-08-14 15:41
+
+#### [7亿年薪留不住！余家辉离职Meta创业](https://www.qbitai.com/2026/08/473261.html)
+**发布时间**: 2026-08-14 14:59
+
+#### [谷歌开始肢解DeepMind，数个团队被划归总部](https://www.qbitai.com/2026/08/473153.html)
+**发布时间**: 2026-08-14 14:51
+
+#### [太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募](https://www.qbitai.com/2026/08/473149.html)
+**发布时间**: 2026-08-14 10:25
+
+#### [刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了](https://www.qbitai.com/2026/08/473038.html)
+**发布时间**: 2026-08-14 08:47
+
+#### [百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端](https://www.qbitai.com/2026/08/473144.html)
+**发布时间**: 2026-08-14 08:36
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
+**发布时间**: 2026-08-14 00:00
 
 ---
 

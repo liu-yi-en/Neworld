@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Aug 2026 09:06:00 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 09:08:47 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:23:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,107 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>3D存算一体芯片领军企业谦合益邦完成超20亿元B轮融资</title>
-      <link>https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html</link>
-      <description>&lt;![CDATA[3D存算一体芯片领军企业谦合益邦完成超20亿元B轮融资]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html</guid>
+      <title>阿里开源Qwen3.8，千问大模型全球下载超30亿次</title>
+      <link>https://www.leiphone.com/category/industrynews/GJAhmR3wyL91CzjO.html</link>
+      <description>&lt;![CDATA[阿里开源Qwen3.8，千问大模型全球下载超30亿次]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 23:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GJAhmR3wyL91CzjO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」</title>
-      <link>https://www.qbitai.com/2026/08/472722.html</link>
-      <description>&lt;![CDATA[算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472722.html</guid>
+      <title>商汤大装置首提TPW，重新定义AI基础设施效能标尺</title>
+      <link>https://www.leiphone.com/category/ai/XzQc2DEYciB5M57I.html</link>
+      <description>&lt;![CDATA[商汤大装置首提TPW，重新定义AI基础设施效能标尺]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 21:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/XzQc2DEYciB5M57I.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集</title>
-      <link>https://www.qbitai.com/2026/08/472718.html</link>
-      <description>&lt;![CDATA[德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 06:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472718.html</guid>
+      <title>百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端</title>
+      <link>https://www.leiphone.com/category/industrynews/jlbLtAX6KzW9yYGJ.html</link>
+      <description>&lt;![CDATA[百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jlbLtAX6KzW9yYGJ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GLM-5.3 来了：底座没换，编程暴涨 50%，还顺手揪出潜伏 40 年的世界级漏洞</title>
+      <link>https://www.leiphone.com/category/yanxishe/TfPPSAIdcR2ijWkU.html</link>
+      <description>&lt;![CDATA[GLM-5.3 来了：底座没换，编程暴涨 50%，还顺手揪出潜伏 40 年的世界级漏洞]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/TfPPSAIdcR2ijWkU.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>模仿者蜂拥入局，凭什么是添可洗地机持续定义每一代？</title>
+      <link>https://www.leiphone.com/category/smarthome/MbJzrwn0HtWHqfR7.html</link>
+      <description>&lt;![CDATA[模仿者蜂拥入局，凭什么是添可洗地机持续定义每一代？]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/smarthome/MbJzrwn0HtWHqfR7.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Osmo 360 II 背后：大疆全景影像的「三代进阶」之路</title>
+      <link>https://www.leiphone.com/category/weiwu/FZhNkt6nFQ1Mi8La.html</link>
+      <description>&lt;![CDATA[Osmo 360 II 背后：大疆全景影像的「三代进阶」之路]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/FZhNkt6nFQ1Mi8La.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent</title>
+      <link>https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</link>
+      <description>&lt;![CDATA[Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/</link>
+      <description>&lt;![CDATA[Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Building agentic workflows with SageMaker AI and Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Building agentic workflows with SageMaker AI and Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
+      <link>https://www.qbitai.com/2026/08/473379.html</link>
+      <description>&lt;![CDATA[刚刚，Qwen3.8-27B 开源了！家用显卡也能跑]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473379.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>7亿年薪留不住！余家辉离职Meta创业</title>
+      <link>https://www.qbitai.com/2026/08/473261.html</link>
+      <description>&lt;![CDATA[7亿年薪留不住！余家辉离职Meta创业]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473261.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>谷歌开始肢解DeepMind，数个团队被划归总部</title>
+      <link>https://www.qbitai.com/2026/08/473153.html</link>
+      <description>&lt;![CDATA[谷歌开始肢解DeepMind，数个团队被划归总部]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473153.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募</title>
+      <link>https://www.qbitai.com/2026/08/473149.html</link>
+      <description>&lt;![CDATA[太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473149.html</guid>
       <category>Ai</category>
     </item>
   </channel>
