@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-13 23:40
+**最后更新时间**: 2026-08-14 06:13
+
+---
+
+## 🆕 最新更新 (2026-08-14 06:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [业绩向上之后，瑞浦兰钧为什么更强调 “人的可持续”](https://www.leiphone.com/category/industrynews/19AHb2WXNyfATWu5.html)
+**发布时间**: 2026-08-14 11:58
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-14日刊](https://hex2077.dev/docs/2026-08/2026-08-14/)
+**发布时间**: 2026-08-14 10:52
 
 ---
 
