@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Aug 2026 05:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 05:25:57 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 08:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:29:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-15日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-15/</link>
-      <description>&lt;![CDATA[2026-08-15日刊]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-15/</guid>
+      <title>发布即热销：大疆 Osmo 360 II 首日拿下全渠道销量 TOP1</title>
+      <link>https://www.leiphone.com/category/industrynews/WvOWhJBIPKxhzMoo.html</link>
+      <description>&lt;![CDATA[发布即热销：大疆 Osmo 360 II 首日拿下全渠道销量 TOP1]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WvOWhJBIPKxhzMoo.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>限量手办 + 实景体验，浙江人行NAVIAI2026WRC 福利提前曝光</title>
-      <link>https://www.leiphone.com/category/industrynews/YW6iXkaDum3xwwBJ.html</link>
-      <description>&lt;![CDATA[限量手办 + 实景体验，浙江人行NAVIAI2026WRC 福利提前曝光]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YW6iXkaDum3xwwBJ.html</guid>
+      <title>索塔无界：全球首家原生物理世界模型落地商超，具身智能迎来“索塔时刻”</title>
+      <link>https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html</link>
+      <description>&lt;![CDATA[索塔无界：全球首家原生物理世界模型落地商超，具身智能迎来“索塔时刻”]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>鹿明发布MOS2：全球首个双臂负载50kg轮臂式机器人，加速AI Worker进入产业现场</title>
+      <link>https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html</link>
+      <description>&lt;![CDATA[鹿明发布MOS2：全球首个双臂负载50kg轮臂式机器人，加速AI Worker进入产业现场]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%</title>
+      <link>https://www.qbitai.com/2026/08/473876.html</link>
+      <description>&lt;![CDATA[至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473876.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>根治AI音乐通病！这家国产音乐模型正面挑战SUNO</title>
+      <link>https://www.qbitai.com/2026/08/473866.html</link>
+      <description>&lt;![CDATA[根治AI音乐通病！这家国产音乐模型正面挑战SUNO]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473866.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude</title>
+      <link>https://www.qbitai.com/2026/08/473669.html</link>
+      <description>&lt;![CDATA[源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473669.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了</title>
+      <link>https://www.qbitai.com/2026/08/473597.html</link>
+      <description>&lt;![CDATA[DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 05:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473597.html</guid>
       <category>Ai</category>
     </item>
   </channel>

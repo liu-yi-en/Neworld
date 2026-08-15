@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-15 05:23
+**最后更新时间**: 2026-08-15 08:27
+
+---
+
+## 🆕 最新更新 (2026-08-15 08:27)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [发布即热销：大疆 Osmo 360 II 首日拿下全渠道销量 TOP1](https://www.leiphone.com/category/industrynews/WvOWhJBIPKxhzMoo.html)
+**发布时间**: 2026-08-15 12:07
+
+#### [索塔无界：全球首家原生物理世界模型落地商超，具身智能迎来“索塔时刻”](https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html)
+**发布时间**: 2026-08-15 12:07
+
+#### [鹿明发布MOS2：全球首个双臂负载50kg轮臂式机器人，加速AI Worker进入产业现场](https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html)
+**发布时间**: 2026-08-15 12:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%](https://www.qbitai.com/2026/08/473876.html)
+**发布时间**: 2026-08-15 06:42
+
+#### [根治AI音乐通病！这家国产音乐模型正面挑战SUNO](https://www.qbitai.com/2026/08/473866.html)
+**发布时间**: 2026-08-15 06:36
+
+#### [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
+**发布时间**: 2026-08-15 06:05
+
+#### [DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了](https://www.qbitai.com/2026/08/473597.html)
+**发布时间**: 2026-08-15 05:53
+
+#### [对话郎咸朋：用机器人创业重做一次“百万智驾量产”](https://www.qbitai.com/2026/08/473407.html)
+**发布时间**: 2026-08-15 04:21
+
+#### [高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！](https://www.qbitai.com/2026/08/473395.html)
+**发布时间**: 2026-08-15 04:03
 
 ---
 
