@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 05:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 05:36:38 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 08:41:00 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:43:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-17日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-17/</link>
-      <description>&lt;![CDATA[2026-08-17日刊]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-17/</guid>
+      <title>小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动</title>
+      <link>https://www.leiphone.com/category/industrynews/oPaTgFaL1gq7bkRC.html</link>
+      <description>&lt;![CDATA[小米在江浙沪推出免费检测、免费维修服务，为小米服务年内第三次专项行动]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/oPaTgFaL1gq7bkRC.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」</title>
+      <link>https://www.leiphone.com/category/private/xQX0laen8XifhvXD.html</link>
+      <description>&lt;![CDATA[别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/xQX0laen8XifhvXD.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代</title>
+      <link>https://www.leiphone.com/category/private/aUhbF0DAHdEEWDDY.html</link>
+      <description>&lt;![CDATA[从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/aUhbF0DAHdEEWDDY.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>中国电信领投，觅蜂科技再获数亿元融资，聚焦物理AI数据服务平台</title>
+      <link>https://www.leiphone.com/category/ai/b2S92lazehrBwmdP.html</link>
+      <description>&lt;![CDATA[中国电信领投，觅蜂科技再获数亿元融资，聚焦物理AI数据服务平台]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/b2S92lazehrBwmdP.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>拼多多“免费送货入村”惠商便民：快递进村不空返，大蒜出村不再难</title>
+      <link>https://www.leiphone.com/category/industrynews/D8SpEoNfu0mSV3VV.html</link>
+      <description>&lt;![CDATA[拼多多“免费送货入村”惠商便民：快递进村不空返，大蒜出村不再难]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/D8SpEoNfu0mSV3VV.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>具身智能开始进入「下半场」：从会干活到干完活</title>
+      <link>https://www.leiphone.com/category/ai/KW4ChhveDJVpOjl1.html</link>
+      <description>&lt;![CDATA[具身智能开始进入「下半场」：从会干活到干完活]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/KW4ChhveDJVpOjl1.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国内第一视角数据最早押注者，北大卢宗青：隐空间才是具身的路</title>
+      <link>https://www.leiphone.com/category/ai/cTpkd2xI7DZBdCRk.html</link>
+      <description>&lt;![CDATA[国内第一视角数据最早押注者，北大卢宗青：隐空间才是具身的路]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/cTpkd2xI7DZBdCRk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>裁员1600人！诺基亚计划关闭中国研发中心；DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍；Claude出现大规模服务故障</title>
+      <link>https://www.leiphone.com/category/zaobao/oRfuqgy8MLhvuQax.html</link>
+      <description>&lt;![CDATA[裁员1600人！诺基亚计划关闭中国研发中心；DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍；Claude出现大规模服务故障]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/oRfuqgy8MLhvuQax.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成</title>
+      <link>https://www.qbitai.com/2026/08/474334.html</link>
+      <description>&lt;![CDATA[终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474334.html</guid>
       <category>Ai</category>
     </item>
   </channel>
