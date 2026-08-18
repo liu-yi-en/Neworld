@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-18 08:35
+**最后更新时间**: 2026-08-18 23:20
+
+---
+
+## 🆕 最新更新 (2026-08-18 23:20)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [29.98万元起，奕境X9正式开启预售，华为乾崑携手东风打造第二代家庭旗舰](https://www.leiphone.com/category/industrynews/f5eBtu877ZOCgqNo.html)
+**发布时间**: 2026-08-18 22:37
+
+#### [百度二季度AI业务收入占比再过半 华尔街两大投资基金大幅加仓](https://www.leiphone.com/category/industrynews/16NsLacHFd1OjheK.html)
+**发布时间**: 2026-08-18 21:15
+
+#### [IJCAI-ECAI 2026 开幕：吴佳俊斩获「计算机与思想奖」，SMOTE 算法获首届时间检验奖](https://www.leiphone.com/category/private/lWZMIX4bQDrJPZ8G.html)
+**发布时间**: 2026-08-18 18:35
+
+#### [以GLM-5为例，探究九章智算云强化学习系统如何落地“训推一致”](https://www.leiphone.com/category/ai/KCpk6O5zIhswfL8M.html)
+**发布时间**: 2026-08-18 17:51
+
+#### [华尔街六巨头，为什么愿意替英伟达客户找钱？](https://www.leiphone.com/category/chips/zhDts7kHQadPaucZ.html)
+**发布时间**: 2026-08-18 16:57
+
+#### [豆包工作任务再升级，支持虚拟桌面操作Windows电脑](https://www.leiphone.com/category/industrynews/dALyYua0P0hERfto.html)
+**发布时间**: 2026-08-18 16:31
+
+#### [网易传媒发布"蜜蜂AI"：从工具到伙伴，让AI更懂人](https://www.leiphone.com/category/industrynews/NHCy3Lvit8SDTk6w.html)
+**发布时间**: 2026-08-18 16:22
+
+#### [NPU不够，诚恒微为什么还给端侧AI芯片加了GPGPU？](https://www.leiphone.com/category/chips/0QUHO5yYZiBX3JEg.html)
+**发布时间**: 2026-08-18 16:14
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+**发布时间**: 2026-08-18 18:56
+
+#### [Customize Amazon Quick embedded chat into your application](https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/)
+**发布时间**: 2026-08-18 17:13
+
+#### [Implement vector-prompt document classification using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/)
+**发布时间**: 2026-08-18 17:10
+
+#### [How Jumio built a real-time feature store on AWS](https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/)
+**发布时间**: 2026-08-18 17:05
+
+#### [Improve contract search accuracy with auto-generated filters in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/)
+**发布时间**: 2026-08-18 17:02
+
+#### [How Axonius built secure multi-tenant AI agents on Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/)
+**发布时间**: 2026-08-18 16:27
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+**发布时间**: 2026-08-18 18:09
+
+#### [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
+**发布时间**: 2026-08-18 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [When AI art has no author: Study finds generated images often can’t be traced to training data](https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818)
+**发布时间**: 2026-08-18 12:35
+
+#### [Q&A: Rethinking how innovation happens](https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817)
+**发布时间**: 2026-08-17 15:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元](https://www.qbitai.com/2026/08/474907.html)
+**发布时间**: 2026-08-18 11:07
+
+#### [比亚迪全程护航丝路万里行，深圳收官再启海外征程](https://www.qbitai.com/2026/08/474868.html)
+**发布时间**: 2026-08-18 10:40
+
+#### [网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人](https://www.qbitai.com/2026/08/474857.html)
+**发布时间**: 2026-08-18 10:04
+
+#### [π0引用的中国团队，又出手了：世界仿真器新作发布](https://www.qbitai.com/2026/08/474838.html)
+**发布时间**: 2026-08-18 09:57
+
+#### [人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp](https://www.qbitai.com/2026/08/474840.html)
+**发布时间**: 2026-08-18 09:38
 
 ---
 
