@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-18 05:27
+**最后更新时间**: 2026-08-18 08:35
+
+---
+
+## 🆕 最新更新 (2026-08-18 08:35)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [今日起，阿里“千问办公”接入企业微信](https://www.leiphone.com/category/industrynews/UfFcOesIqU4Ku5OR.html)
+**发布时间**: 2026-08-18 14:33
+
+#### [大厂押注AI办公，文库网盘正在从“通用”走向“专业](https://www.leiphone.com/category/industrynews/xhw82Iff25BriMoX.html)
+**发布时间**: 2026-08-18 14:21
+
+#### [荣耀找一个新身份](https://www.leiphone.com/category/weiwu/rFVwHaafYwTQ7cNV.html)
+**发布时间**: 2026-08-18 12:37
+
+#### [给运营做减法：童装工厂用Shopee轻出海打开跨境新市场](https://www.leiphone.com/category/industrynews/sKBXjjUlD89kuwrF.html)
+**发布时间**: 2026-08-18 11:56
+
+#### [比起让大模型写 100 万字的小说，AI 大牛们更想用 AI 拿诺贝尔奖](https://www.leiphone.com/category/industrynews/GFoylc8UfMJdyTrN.html)
+**发布时间**: 2026-08-18 11:52
+
+#### [阿里云扩建全球基础设施，韩国第三座数据中心上线](https://www.leiphone.com/category/industrynews/GDqrFku6hJnTvgwk.html)
+**发布时间**: 2026-08-18 11:49
+
+#### [101亿元大交易！阿里巴巴正式出售灵犀互娱；大疆诉美国国防部案赢得程序性胜利；李书福辞任董事会主席，吉利汽车管理层大调整](https://www.leiphone.com/category/zaobao/dNBHoP0JtJIaed0b.html)
+**发布时间**: 2026-08-18 08:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [6个Agent组团Vibe Gaming：自己生成、试玩、修Bug](https://www.qbitai.com/2026/08/474806.html)
+**发布时间**: 2026-08-18 07:33
+
+#### [今日起，阿里“千问办公”接入企业微信](https://www.qbitai.com/2026/08/474803.html)
+**发布时间**: 2026-08-18 07:17
+
+#### [吉利汽车业绩高点，李书福激流勇退](https://www.qbitai.com/2026/08/474736.html)
+**发布时间**: 2026-08-18 06:46
+
+#### [650亿美元！IPO前夕，Anthropic营收底牌曝光](https://www.qbitai.com/2026/08/474673.html)
+**发布时间**: 2026-08-18 05:58
 
 ---
 
