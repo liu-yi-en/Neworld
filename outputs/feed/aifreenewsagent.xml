@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 23:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 23:54:24 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:29:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-      <description>&lt;![CDATA[Same Cluster, 33 Points More Utilization: What Changed Was the Order]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 19:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</guid>
+      <title>2026-08-18日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-18/</link>
+      <description>&lt;![CDATA[2026-08-18日刊]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-18/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/</link>
-      <description>&lt;![CDATA[NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/</guid>
+      <title>OPPO唐凯：模型能力已经超过产业链的组织能力</title>
+      <link>https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html</link>
+      <description>&lt;![CDATA[OPPO唐凯：模型能力已经超过产业链的组织能力]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/</link>
-      <description>&lt;![CDATA[Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/</guid>
+      <title>DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了</title>
+      <link>https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html</link>
+      <description>&lt;![CDATA[DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Q&amp;A: Rethinking how innovation happens</title>
-      <link>https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818</link>
-      <description>&lt;![CDATA[Q&amp;A: Rethinking how innovation happens]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818</guid>
+      <title>阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了</title>
+      <link>https://www.qbitai.com/2026/08/474647.html</link>
+      <description>&lt;![CDATA[阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 04:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474647.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Securing the Infrastructure of Intelligence</title>
-      <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
-      <description>&lt;![CDATA[Securing the Infrastructure of Intelligence]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 12:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery</title>
-      <link>https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</link>
-      <description>&lt;![CDATA[Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</guid>
+      <title>AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂</title>
+      <link>https://www.qbitai.com/2026/08/474611.html</link>
+      <description>&lt;![CDATA[AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 03:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474611.html</guid>
       <category>Ai</category>
     </item>
   </channel>
