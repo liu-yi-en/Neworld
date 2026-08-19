@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-19 05:29
+**最后更新时间**: 2026-08-19 08:36
+
+---
+
+## 🆕 最新更新 (2026-08-19 08:36)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [英伟达 Cosmos 3 深度拆解：它想做具身智能时代的「安卓系统」| RSS 2026](https://www.leiphone.com/category/private/XVXWtcCNFb4PP233.html)
+**发布时间**: 2026-08-19 14:15
+
+#### [RSS 2026 实录：当 AGI 撞上「物理之墙」，想象力成为具身智能的第一生产力](https://www.leiphone.com/category/private/WO8DdZBccR2lD85Q.html)
+**发布时间**: 2026-08-19 14:14
+
+#### [RSS 2026现场直击｜从双臂协同到水下灵巧，机器人操作迈入「少样本时代」](https://www.leiphone.com/category/private/lr7p4rB1Iquythe0.html)
+**发布时间**: 2026-08-19 14:12
+
+#### [李飞飞高徒黄文龙：具身智能需要一次「脑内搜索」革命 | RSS 2026](https://www.leiphone.com/category/private/TUzrCbD0E9v6NtS5.html)
+**发布时间**: 2026-08-19 14:11
+
+#### [纳须弥，于芥子：大模型之后，中国厂商正在把大模型塞进复杂系统 | IJCAI 2026 前瞻](https://www.leiphone.com/category/private/S6pidAUn5lcS9X0n.html)
+**发布时间**: 2026-08-19 12:04
+
+#### [宇树科技今日上市，多只港股已抱上这条「机器人大腿」；人均557万元！寒武纪124名员工股票激励将到账；入校即入企！格力技校开启首届招生](https://www.leiphone.com/category/zaobao/4d2UMjJsoreZMbco.html)
+**发布时间**: 2026-08-19 08:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [MiniMax核心工程负责人阿岛离职](https://www.qbitai.com/2026/08/475869.html)
+**发布时间**: 2026-08-19 08:23
+
+#### [具身数据底座开卖，首发5100元：机器人训练数据有了新解法](https://www.qbitai.com/2026/08/475477.html)
+**发布时间**: 2026-08-19 07:42
+
+#### [用DeepSeek网页版就能瓜分鹅厂600万？？！](https://www.qbitai.com/2026/08/475764.html)
+**发布时间**: 2026-08-19 07:40
+
+#### [写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”](https://www.qbitai.com/2026/08/475476.html)
+**发布时间**: 2026-08-19 07:22
+
+#### [从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑](https://www.qbitai.com/2026/08/475460.html)
+**发布时间**: 2026-08-19 06:35
+
+#### [AI for Science开始“动手”了：机器人正式走进国家级实验室](https://www.qbitai.com/2026/08/475332.html)
+**发布时间**: 2026-08-19 06:29
 
 ---
 
