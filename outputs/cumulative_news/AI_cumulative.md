@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-19 08:36
+**最后更新时间**: 2026-08-19 23:21
+
+---
+
+## 🆕 最新更新 (2026-08-19 23:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Ray7全球首搭华为DriveONE芯片级驱制融合，纯电底盘技术行业领先](https://www.leiphone.com/category/industrynews/TiUZCBlzFMfGXUiK.html)
+**发布时间**: 2026-08-19 23:21
+
+#### [小米穿越周期](https://www.leiphone.com/category/weiwu/tpu5pLuZThxoZ2Mn.html)
+**发布时间**: 2026-08-19 21:16
+
+#### [营收574.93亿元 问界交付同比增长10.2%](https://www.leiphone.com/category/industrynews/nRcpqbswXKQOu11h.html)
+**发布时间**: 2026-08-19 20:58
+
+#### [挑战 1 比特！ETH Zürich 秦浩桐：如何把大模型「塞进」小设备？| IJCAI 2026](https://www.leiphone.com/category/private/e2kawO4eCgabOwBm.html)
+**发布时间**: 2026-08-19 18:38
+
+#### [独揽 IJCAI 2026 两大 Tutorial！清华王鑫团队如何用「OOD泛化」夺取生成式 AI 的国际定义权？](https://www.leiphone.com/category/private/ad3iWKJ0l4yOlUCS.html)
+**发布时间**: 2026-08-19 18:31
+
+#### [支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线](https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html)
+**发布时间**: 2026-08-19 17:59
+
+#### [豆包“工作任务”新增支持本地电脑、云电脑双模式](https://www.leiphone.com/category/industrynews/yOzZ6pmXf7KOsYYc.html)
+**发布时间**: 2026-08-19 16:57
+
+#### [百度袁佛玉：从模型进化、数据回流到应用接管，具身智能进入场景落地关键阶段](https://www.leiphone.com/category/industrynews/rTLndJsLPW7ODcdW.html)
+**发布时间**: 2026-08-19 16:49
+
+#### [以GLM-5为例，探究九章智算云强化学习系统如何落地“训推一致”](https://www.leiphone.com/category/ai/Nn76Eez52eSpxeXr.html)
+**发布时间**: 2026-08-19 15:55
+
+#### [华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex](https://www.leiphone.com/category/industrynews/3ldIRLLRue7anIFz.html)
+**发布时间**: 2026-08-19 15:27
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Domain and publish date filters for Web Search on AgentCore](https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/)
+**发布时间**: 2026-08-19 22:13
+
+#### [Automate Document Processing with Quick Automate and the IDP Accelerator](https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/)
+**发布时间**: 2026-08-19 22:09
+
+#### [Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines](https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/)
+**发布时间**: 2026-08-19 22:06
+
+#### [How Fanatics Betting and Gaming built a multi-agent customer support system](https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/)
+**发布时间**: 2026-08-19 20:40
+
+#### [KnowledgeForge: mining gold from the ITSM ticket graveyard](https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/)
+**发布时间**: 2026-08-19 20:36
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad)
+**发布时间**: 2026-08-19 13:48
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式](https://www.qbitai.com/2026/08/475931.html)
+**发布时间**: 2026-08-19 10:54
+
+#### [全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会](https://www.qbitai.com/2026/08/475907.html)
+**发布时间**: 2026-08-19 10:12
+
+#### [IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选](https://www.qbitai.com/2026/08/475901.html)
+**发布时间**: 2026-08-19 08:34
 
 ---
 
