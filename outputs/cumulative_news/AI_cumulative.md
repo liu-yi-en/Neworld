@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-18 23:20
+**最后更新时间**: 2026-08-19 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-19 05:29)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Momenta、XHEART与QNX宣布达成合作，打造全球安全标准自动驾驶平台](https://www.leiphone.com/category/industrynews/XjdDx1NPMItZXRLM.html)
+**发布时间**: 2026-08-19 11:11
+
+#### [支付宝“阿宝”跨端服务落地16家车企 新增60余家定点合作](https://www.leiphone.com/category/industrynews/cYpj15jNPU3uguvi.html)
+**发布时间**: 2026-08-19 09:40
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-19日刊](https://hex2077.dev/docs/2026-08/2026-08-19/)
+**发布时间**: 2026-08-19 10:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [郭富城换车，30万级顶配华为全家桶](https://www.qbitai.com/2026/08/475009.html)
+**发布时间**: 2026-08-19 00:59
 
 ---
 
