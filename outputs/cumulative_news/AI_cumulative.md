@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-20 05:29
+**最后更新时间**: 2026-08-20 08:36
+
+---
+
+## 🆕 最新更新 (2026-08-20 08:36)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？](https://www.leiphone.com/category/ai/RWqTJlvzkwXLamiH.html)
+**发布时间**: 2026-08-20 14:32
+
+#### [中国信通院联合淘宝闪购发布首份即时零售智能体可信规范](https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html)
+**发布时间**: 2026-08-20 13:16
+
+#### [中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景](https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html)
+**发布时间**: 2026-08-20 12:08
+
+#### [Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型](https://www.leiphone.com/category/yanxishe/EwXFwuIZiBRqbgCs.html)
+**发布时间**: 2026-08-20 11:53
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？](https://www.qbitai.com/2026/08/476120.html)
+**发布时间**: 2026-08-20 06:17
 
 ---
 
