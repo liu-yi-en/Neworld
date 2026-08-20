@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-19 23:21
+**最后更新时间**: 2026-08-20 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-20 05:29)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [欧洲五城「落子」2000辆，小马智行跨过Robotaxi出海分水岭](https://www.leiphone.com/category/transportation/B2nCxK9toeTqdkCJ.html)
+**发布时间**: 2026-08-20 10:46
+
+#### [奕境X9发布会送假Labubu？品牌方回应；宇树科技IPO名场面：王兴兴表情极为平静像「打工人」；豆包大模型，正式上车特斯拉丨雷峰早报](https://www.leiphone.com/category/zaobao/qx0OhNlDup8GY2uR.html)
+**发布时间**: 2026-08-20 08:41
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-20日刊](https://hex2077.dev/docs/2026-08/2026-08-20/)
+**发布时间**: 2026-08-20 10:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命](https://www.qbitai.com/2026/08/476078.html)
+**发布时间**: 2026-08-20 01:37
+
+#### [完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩](https://www.qbitai.com/2026/08/476075.html)
+**发布时间**: 2026-08-20 01:21
+
+#### [华尔街实测8款全球主流Agent：千问办公综合排名第一](https://www.qbitai.com/2026/08/476070.html)
+**发布时间**: 2026-08-20 01:06
 
 ---
 

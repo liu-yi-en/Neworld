@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 23:23
+**最后更新时间**: 2026-08-20 05:30
+
+---
+
+## 🆕 最新更新 (2026-08-20 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top US law firms hit by backlash over ‘crazy’ hiring of first-year students](https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [The slow sucking sound of AI](https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [Moderna pins hopes on mRNA ‘game-changer’ for cancer vaccines](https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [Demand for tankers soars as Gulf oil producers search for ways to export cargoes](https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [The box that built globalisation](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 03:00
+
+#### [North Korea dismisses Trump overture](https://www.ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e)
+**发布时间**: 2026-08-20 00:52
+
+#### [Grain prices surge after Ukraine war chokes off seaborne exports](https://www.ft.com/content/91f17b0f-9c31-483e-b828-d90dad931a2f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 16:55
 
 ---
 
