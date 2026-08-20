@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-20 08:36
+**最后更新时间**: 2026-08-20 23:24
+
+---
+
+## 🆕 最新更新 (2026-08-20 23:24)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/)
+**发布时间**: 2026-08-20 21:46
+
+#### [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/)
+**发布时间**: 2026-08-20 21:23
+
+#### [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/)
+**发布时间**: 2026-08-20 21:23
+
+#### [Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/)
+**发布时间**: 2026-08-20 21:23
+
+#### [Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-20 16:31
+
+#### [Scaling agentic AI: Enterprise patterns without vendor lock-in](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/)
+**发布时间**: 2026-08-20 16:24
+
+#### [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-20 16:11
+
+#### [AWS vector solutions: Build agentic AI where your data lives](https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/)
+**发布时间**: 2026-08-20 16:06
+
+#### [Build intelligent security for healthcare APIs with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/)
+**发布时间**: 2026-08-20 15:20
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [1×N+1：一个大脑，与更多可能相连——晨昏线科技亮相2026世界机器人大会](https://www.leiphone.com/category/industrynews/4lF5e7l4pBhX8QPS.html)
+**发布时间**: 2026-08-20 20:52
+
+#### [章鱼动力亮相WRC 2026，  携“脑-手-数据”技术体系探索具身智能未来范式](https://www.leiphone.com/category/industrynews/L6IQmDmj1sCKOrJO.html)
+**发布时间**: 2026-08-20 20:48
+
+#### [独家丨拓竹百人团队操刀激光雕刻机，C 端打法杀入 xTool 腹地](https://www.leiphone.com/category/weiwu/CHFOUkfAFyhUEByQ.html)
+**发布时间**: 2026-08-20 18:46
+
+#### [豆包上线侧边工作台，支持对话与操作同屏进行](https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html)
+**发布时间**: 2026-08-20 18:13
+
+#### [阿里财报：云收入增长45%创新高、利润暴增133%，模型发布全面提速](https://www.leiphone.com/category/industrynews/OFqcAq9Z0T4eZo4F.html)
+**发布时间**: 2026-08-20 17:52
+
+#### [携手韶音，光帆的「AI OS 野心」已经藏不住了](https://www.leiphone.com/category/industrynews/UWWitkLdnH1adhl6.html)
+**发布时间**: 2026-08-20 17:04
+
+#### [跨境圈爆火的 AI，潜入了淘宝商家的后台](https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html)
+**发布时间**: 2026-08-20 16:53
+
+#### [首个航天“影像盒子”随朱雀三号完成天地往返全过程拍摄，SmallRig斯莫格为大疆创新定制专属影像“宇航服”](https://www.leiphone.com/category/industrynews/gVXaxJldKv9NOp3A.html)
+**发布时间**: 2026-08-20 16:53
+
+#### [腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境](https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html)
+**发布时间**: 2026-08-20 16:43
+
+#### [美团买药“小黄灯”洞察：异地夜间订单3年翻倍，即时零售成出行健康刚需](https://www.leiphone.com/category/industrynews/ZEMY7aKcqvZiZRfu.html)
+**发布时间**: 2026-08-20 16:02
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Up to 3.2x Faster Inference with LFM2.5-DSpark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
+**发布时间**: 2026-08-20 16:52
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Paving the way for greener ammonia production](https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820)
+**发布时间**: 2026-08-20 14:45
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/)
+**发布时间**: 2026-08-20 13:00
 
 ---
 
