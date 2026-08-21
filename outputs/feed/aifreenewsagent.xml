@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Aug 2026 23:24:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 23:26:40 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 05:33:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:35:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,179 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 21:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/</guid>
+      <title>星动纪元陈建宇：VLA 非终局，具身大脑已进入世界模型时代 | WRC 2026</title>
+      <link>https://www.leiphone.com/category/private/KZ4IQ31NP4VB8CeP.html</link>
+      <description>&lt;![CDATA[星动纪元陈建宇：VLA 非终局，具身大脑已进入世界模型时代 | WRC 2026]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/KZ4IQ31NP4VB8CeP.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/</link>
-      <description>&lt;![CDATA[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/</guid>
+      <title>ASU 魏华：大模型智能体正在重蹈强化学习的覆辙，如何跨越「仿真到现实」的鸿沟？ | IJCAI 2026</title>
+      <link>https://www.leiphone.com/category/private/ra5HO5WX7PHYJ86b.html</link>
+      <description>&lt;![CDATA[ASU 魏华：大模型智能体正在重蹈强化学习的覆辙，如何跨越「仿真到现实」的鸿沟？ | IJCAI 2026]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/ra5HO5WX7PHYJ86b.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/</link>
-      <description>&lt;![CDATA[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/</guid>
+      <title>星海图高继扬：具身智能的终极商业模式，是售卖「物理世界 Token」 | WRC 2026</title>
+      <link>https://www.leiphone.com/category/private/89QH7JtnTlU3rKnk.html</link>
+      <description>&lt;![CDATA[星海图高继扬：具身智能的终极商业模式，是售卖「物理世界 Token」 | WRC 2026]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/89QH7JtnTlU3rKnk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/</link>
-      <description>&lt;![CDATA[Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/</guid>
+      <title>98年中科大博士段逸凡创立灵犀智涌 以“模型+Harness”架构打破工业具身“唯模型困局”</title>
+      <link>https://www.leiphone.com/category/robot/XHIUJbympcOX8dDK.html</link>
+      <description>&lt;![CDATA[98年中科大博士段逸凡创立灵犀智涌 以“模型+Harness”架构打破工业具身“唯模型困局”]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/XHIUJbympcOX8dDK.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/</guid>
+      <title>Jeff Dean离职后首次公开访谈火力有点猛。。。</title>
+      <link>https://www.qbitai.com/2026/08/476468.html</link>
+      <description>&lt;![CDATA[Jeff Dean离职后首次公开访谈火力有点猛。。。]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 04:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476468.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Scaling agentic AI: Enterprise patterns without vendor lock-in</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/</link>
-      <description>&lt;![CDATA[Scaling agentic AI: Enterprise patterns without vendor lock-in]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/</guid>
+      <title>WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…</title>
+      <link>https://www.qbitai.com/2026/08/476413.html</link>
+      <description>&lt;![CDATA[WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476413.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</guid>
+      <title>国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%</title>
+      <link>https://www.qbitai.com/2026/08/476409.html</link>
+      <description>&lt;![CDATA[国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476409.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AWS vector solutions: Build agentic AI where your data lives</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/</link>
-      <description>&lt;![CDATA[AWS vector solutions: Build agentic AI where your data lives]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/</guid>
+      <title>首批！优必选行者具身智能大模型完成生成式人工智能服务备案</title>
+      <link>https://www.qbitai.com/2026/08/476406.html</link>
+      <description>&lt;![CDATA[首批！优必选行者具身智能大模型完成生成式人工智能服务备案]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476406.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build intelligent security for healthcare APIs with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Build intelligent security for healthcare APIs with Amazon Bedrock]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/</guid>
+      <title>三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果</title>
+      <link>https://www.qbitai.com/2026/08/476403.html</link>
+      <description>&lt;![CDATA[三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476403.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1×N+1：一个大脑，与更多可能相连——晨昏线科技亮相2026世界机器人大会</title>
-      <link>https://www.leiphone.com/category/industrynews/4lF5e7l4pBhX8QPS.html</link>
-      <description>&lt;![CDATA[1×N+1：一个大脑，与更多可能相连——晨昏线科技亮相2026世界机器人大会]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4lF5e7l4pBhX8QPS.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>章鱼动力亮相WRC 2026，  携“脑-手-数据”技术体系探索具身智能未来范式</title>
-      <link>https://www.leiphone.com/category/industrynews/L6IQmDmj1sCKOrJO.html</link>
-      <description>&lt;![CDATA[章鱼动力亮相WRC 2026，  携“脑-手-数据”技术体系探索具身智能未来范式]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 20:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/L6IQmDmj1sCKOrJO.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家丨拓竹百人团队操刀激光雕刻机，C 端打法杀入 xTool 腹地</title>
-      <link>https://www.leiphone.com/category/weiwu/CHFOUkfAFyhUEByQ.html</link>
-      <description>&lt;![CDATA[独家丨拓竹百人团队操刀激光雕刻机，C 端打法杀入 xTool 腹地]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/CHFOUkfAFyhUEByQ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>豆包上线侧边工作台，支持对话与操作同屏进行</title>
-      <link>https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html</link>
-      <description>&lt;![CDATA[豆包上线侧边工作台，支持对话与操作同屏进行]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里财报：云收入增长45%创新高、利润暴增133%，模型发布全面提速</title>
-      <link>https://www.leiphone.com/category/industrynews/OFqcAq9Z0T4eZo4F.html</link>
-      <description>&lt;![CDATA[阿里财报：云收入增长45%创新高、利润暴增133%，模型发布全面提速]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/OFqcAq9Z0T4eZo4F.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>携手韶音，光帆的「AI OS 野心」已经藏不住了</title>
-      <link>https://www.leiphone.com/category/industrynews/UWWitkLdnH1adhl6.html</link>
-      <description>&lt;![CDATA[携手韶音，光帆的「AI OS 野心」已经藏不住了]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UWWitkLdnH1adhl6.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>跨境圈爆火的 AI，潜入了淘宝商家的后台</title>
-      <link>https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html</link>
-      <description>&lt;![CDATA[跨境圈爆火的 AI，潜入了淘宝商家的后台]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>首个航天“影像盒子”随朱雀三号完成天地往返全过程拍摄，SmallRig斯莫格为大疆创新定制专属影像“宇航服”</title>
-      <link>https://www.leiphone.com/category/industrynews/gVXaxJldKv9NOp3A.html</link>
-      <description>&lt;![CDATA[首个航天“影像盒子”随朱雀三号完成天地往返全过程拍摄，SmallRig斯莫格为大疆创新定制专属影像“宇航服”]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/gVXaxJldKv9NOp3A.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境</title>
-      <link>https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html</link>
-      <description>&lt;![CDATA[腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美团买药“小黄灯”洞察：异地夜间订单3年翻倍，即时零售成出行健康刚需</title>
-      <link>https://www.leiphone.com/category/industrynews/ZEMY7aKcqvZiZRfu.html</link>
-      <description>&lt;![CDATA[美团买药“小黄灯”洞察：异地夜间订单3年翻倍，即时零售成出行健康刚需]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZEMY7aKcqvZiZRfu.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Up to 3.2x Faster Inference with LFM2.5-DSpark</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-      <description>&lt;![CDATA[Up to 3.2x Faster Inference with LFM2.5-DSpark]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-dspark</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Paving the way for greener ammonia production</title>
-      <link>https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820</link>
-      <description>&lt;![CDATA[Paving the way for greener ammonia production]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</link>
-      <description>&lt;![CDATA[Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</guid>
+      <title>网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值</title>
+      <link>https://www.qbitai.com/2026/08/476400.html</link>
+      <description>&lt;![CDATA[网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476400.html</guid>
       <category>Ai</category>
     </item>
   </channel>
