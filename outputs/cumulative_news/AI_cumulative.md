@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-21 05:33
+**最后更新时间**: 2026-08-21 08:38
+
+---
+
+## 🆕 最新更新 (2026-08-21 08:38)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨可灵核心技术骨干王鑫涛离职](https://www.leiphone.com/category/CorporateServices/87Q2pIwkIFaVENkQ.html)
+**发布时间**: 2026-08-21 14:37
+
+#### [独家对话百度智能云尹英利：AI 蓬勃时代，云生态发生了哪些巨变？](https://www.leiphone.com/category/CorporateServices/2KIUmbKfDbnMV0cA.html)
+**发布时间**: 2026-08-21 14:33
+
+#### [看完阿里财报才发现，AI烧越猛，越「养肥」卖铲人](https://www.leiphone.com/category/CorporateServices/P1HvrZW6Ns8qTz5R.html)
+**发布时间**: 2026-08-21 14:28
+
+#### [希望之光组织HIE/脑瘫跨领域研讨，基础科研与临床转化多方对话](https://www.leiphone.com/category/aihealth/IUBNjcE5wSbn71oZ.html)
+**发布时间**: 2026-08-21 14:27
+
+#### [谦合益邦打造全球首款4层3D DRAM存算一体芯片](https://www.leiphone.com/category/industrynews/caaWDb05xRPiGaAd.html)
+**发布时间**: 2026-08-21 14:18
+
+#### [星炽动力亮相2026 WRC：以PULSE连接多元场景与真实世界](https://www.leiphone.com/category/industrynews/rKTHILde7ywgvn4n.html)
+**发布时间**: 2026-08-21 14:10
+
+#### [本地化+品牌化并进，阿里速卖通实现盈利](https://www.leiphone.com/category/industrynews/EPxDNq14QvrX7ZyF.html)
+**发布时间**: 2026-08-21 12:10
+
+#### [阿里最新财报：速卖通实现盈利](https://www.leiphone.com/category/industrynews/xiV07ZoynBxjMTtO.html)
+**发布时间**: 2026-08-21 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面](https://www.qbitai.com/2026/08/476591.html)
+**发布时间**: 2026-08-21 06:40
+
+#### [WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌](https://www.qbitai.com/2026/08/476532.html)
+**发布时间**: 2026-08-21 05:38
+
+#### [设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会](https://www.qbitai.com/2026/08/476525.html)
+**发布时间**: 2026-08-21 05:09
 
 ---
 

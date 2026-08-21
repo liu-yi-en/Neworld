@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-21 05:35
+**最后更新时间**: 2026-08-21 08:40
+
+---
+
+## 🆕 最新更新 (2026-08-21 08:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM](https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 07:17
+
+#### [North Korea enjoys rare ‘dash for flash’](https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 03:21
+
+#### [Founder who blamed $300mn fraud on head injury sentenced to prison](https://www.ft.com/content/dfa7c084-f997-4d76-82cb-6d45f543dc3c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 23:10
+
+#### [What is Bessent doing — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 23:08
 
 ---
 
