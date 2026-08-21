@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-21 08:38
+**最后更新时间**: 2026-08-21 23:22
+
+---
+
+## 🆕 最新更新 (2026-08-21 23:22)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026 WRC | 魔法原子“三大场景”全景亮相，“场景驱动·产需共融”主题论坛共探具身智能落](https://www.leiphone.com/category/robot/DCljjXT8jddT4PJs.html)
+**发布时间**: 2026-08-22 00:07
+
+#### [全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场](https://www.leiphone.com/category/robot/rlnc7wOi4Q7hymVJ.html)
+**发布时间**: 2026-08-21 23:27
+
+#### [SenseNova U1.5 Lite正式版发布：支持超长指令，解锁原生4K真实视觉创作流](https://www.leiphone.com/category/industrynews/6sNCkUYytWV6ixlf.html)
+**发布时间**: 2026-08-21 20:33
+
+#### [摩根大通：阿里云12%利润率被系统性低估，成熟态ROIC应接近20%](https://www.leiphone.com/category/industrynews/EPTBKWMmrk2REsbB.html)
+**发布时间**: 2026-08-21 17:47
+
+#### [明略科技吴明辉WRC主论坛演讲：机器人的下半场，需要两个“大脑”](https://www.leiphone.com/category/industrynews/DdNM82Qy8T8MQyBk.html)
+**发布时间**: 2026-08-21 15:26
+
+#### [亚信×火山引擎：6000+席位，用TRAE 跑通企业级AI研发落地](https://www.leiphone.com/category/industrynews/yh7mXNklbQxa0CLp.html)
+**发布时间**: 2026-08-21 14:53
+
+#### [独家丨程传珂接任阿里云公共云分销生态负责人，李鹏卸任](https://www.leiphone.com/category/CorporateServices/HbwCFa5238oNjTO3.html)
+**发布时间**: 2026-08-21 14:44
+
+#### [蔚来汽车 x 火山引擎：TRAE深入座舱研发，从个人效率走向组织智能](https://www.leiphone.com/category/industrynews/CqEqyOVULMky2lE5.html)
+**发布时间**: 2026-08-21 14:43
+
+#### [云大厂“亏钱卖”友商AI，重回21年恶性竞争老路](https://www.leiphone.com/category/CorporateServices/2OndXI7BTP3zV3vO.html)
+**发布时间**: 2026-08-21 14:41
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/)
+**发布时间**: 2026-08-21 17:06
+
+#### [Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/)
+**发布时间**: 2026-08-21 17:02
+
+#### [Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/)
+**发布时间**: 2026-08-21 16:59
+
+#### [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/)
+**发布时间**: 2026-08-21 16:57
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)
+**发布时间**: 2026-08-21 17:02
+
+#### [How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+**发布时间**: 2026-08-21 10:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [最大运力自动驾驶轻卡落地，来自无人车巨头](https://www.qbitai.com/2026/08/476778.html)
+**发布时间**: 2026-08-21 11:47
+
+#### [明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景](https://www.qbitai.com/2026/08/476733.html)
+**发布时间**: 2026-08-21 09:44
+
+#### [雷鸟iO发布：两天续航、全天候主动式AI，轻至34g](https://www.qbitai.com/2026/08/476628.html)
+**发布时间**: 2026-08-21 09:00
+
+#### [机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作](https://www.qbitai.com/2026/08/476596.html)
+**发布时间**: 2026-08-21 07:17
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization)
+**发布时间**: 2026-08-21 00:00
 
 ---
 
