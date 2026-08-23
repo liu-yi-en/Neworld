@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-23 08:28
+**最后更新时间**: 2026-08-23 23:19
+
+---
+
+## 🆕 最新更新 (2026-08-23 23:19)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [万兴科技全新推出AI画布工作台](https://www.leiphone.com/category/industrynews/YsrKuxqEsqebPdN5.html)
+**发布时间**: 2026-08-24 03:46
+
+#### [凯度发布幂境套系与AI智能体“小紫”，厨电竞争从参数转向体验](https://www.leiphone.com/category/smarthome/6sQrmL2F02SURvr4.html)
+**发布时间**: 2026-08-23 22:35
+
+#### [机器人首秀网球场，银河通用突破具身智能「AstraTennis时刻」](https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html)
+**发布时间**: 2026-08-23 19:19
+
+#### [浙江人形携 NAVIAI 亮相 2026 世界机器人大会， 一脑多机方案落地多场景](https://www.leiphone.com/category/industrynews/5PmgwJZ7NFR6jvie.html)
+**发布时间**: 2026-08-23 17:37
+
+#### [伽利略全新Galileo X亮相WRC：锚定 “全域移动”，重构陆行具身移动行业逻辑](https://www.leiphone.com/category/robot/bEBmOtCixChK0hrX.html)
+**发布时间**: 2026-08-23 15:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店](https://www.qbitai.com/2026/08/478319.html)
+**发布时间**: 2026-08-23 13:20
+
+#### [具身创业里的香港教授们](https://www.qbitai.com/2026/08/478289.html)
+**发布时间**: 2026-08-23 11:20
+
+#### [他给了王兴兴第一个200万，现在给下一个「宇树」当董事长](https://www.qbitai.com/2026/08/478234.html)
+**发布时间**: 2026-08-23 11:17
+
+#### [匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的](https://www.qbitai.com/2026/08/478191.html)
+**发布时间**: 2026-08-23 09:56
+
+#### [英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元](https://www.qbitai.com/2026/08/478164.html)
+**发布时间**: 2026-08-23 09:51
+
+#### [全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起](https://www.qbitai.com/2026/08/478093.html)
+**发布时间**: 2026-08-23 09:45
+
+#### [不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑](https://www.qbitai.com/2026/08/478020.html)
+**发布时间**: 2026-08-23 09:29
 
 ---
 

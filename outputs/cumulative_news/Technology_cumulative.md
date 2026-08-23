@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 08:30
+**最后更新时间**: 2026-08-23 23:22
+
+---
+
+## 🆕 最新更新 (2026-08-23 23:22)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻](http://www.geekpark.net/news/369223)
+**发布时间**: 2026-08-23 22:35
+
+#### [世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」](http://www.geekpark.net/news/369221)
+**发布时间**: 2026-08-23 22:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [豆包将推WorkBuddy类产品，飞书十年积累正在组件化](https://www.tmtpost.com/8113359.html)
+**发布时间**: 2026-08-23 20:31
+
+#### [泰康保险人事调整，陈东升卸任CEO](https://www.tmtpost.com/8113372.html)
+**发布时间**: 2026-08-23 09:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩](https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 17:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一周没逛 GitHub 不要紧，这 TOP 10 的热门开源项目整理好了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536122&idx=1&sn=b7a284d06296707235d8dde07c6f6d4e)
+**发布时间**: 2026-08-23 11:33
 
 ---
 
