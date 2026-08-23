@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-22 23:19
+**最后更新时间**: 2026-08-23 05:30
+
+---
+
+## 🆕 最新更新 (2026-08-23 05:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [上纬新材“启元机器人”正式开启预订，个人机器人叩开家庭新消费大门](https://www.leiphone.com/category/robot/0EXwdtr2oaxj5hv0.html)
+**发布时间**: 2026-08-23 10:36
+
+#### [智身科技亮相2026世界机器人大会，定义"真正干活的机器人"](https://www.leiphone.com/category/robot/O75vTRkVrLMfVEON.html)
+**发布时间**: 2026-08-23 10:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-23日刊](https://hex2077.dev/docs/2026-08/2026-08-23/)
+**发布时间**: 2026-08-23 10:34
+
+#### [2026-08-22日刊](https://hex2077.dev/docs/2026-08/2026-08-22/)
+**发布时间**: 2026-08-22 09:17
 
 ---
 
