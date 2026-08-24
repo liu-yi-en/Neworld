@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-23 23:19
+**最后更新时间**: 2026-08-24 05:37
+
+---
+
+## 🆕 最新更新 (2026-08-24 05:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [WRC 2026｜原生全模态世界模型：从模拟世界到交互世界](https://www.leiphone.com/category/ai/p3ZpuRQrXujo29fr.html)
+**发布时间**: 2026-08-24 11:28
+
+#### [王田苗三问具身大牛：大模型还在「拨号上网」，机器人靠什么拿下真实订单？| WRC 2026](https://www.leiphone.com/category/private/YOACtSjPnZwavbFo.html)
+**发布时间**: 2026-08-24 11:23
+
+#### [阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”](https://www.leiphone.com/category/industrynews/XGOehdmO7fBF2xnb.html)
+**发布时间**: 2026-08-24 11:11
+
+#### [希音开启全球发售，预计募资净额约131.23亿港元](https://www.leiphone.com/category/industrynews/C0s8Qo4obQJjUEBv.html)
+**发布时间**: 2026-08-24 10:26
+
+#### [光子跃迁亮相BIRTV 2026：以"AI+影像"重构创作范式，三大板块解码下一代影像生态](https://www.leiphone.com/category/industrynews/x0aFA1VyGB6qPmHp.html)
+**发布时间**: 2026-08-24 10:11
+
+#### [阿里拟配售800亿港元新股，全部投入AI建设；网友造谣「小红书因遭举报上市失败」被行拘；李斌：中国汽车行业三五年后玩家基本确定](https://www.leiphone.com/category/zaobao/Vqz97pOeMU2EkowJ.html)
+**发布时间**: 2026-08-24 08:39
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-24日刊](https://hex2077.dev/docs/2026-08/2026-08-24/)
+**发布时间**: 2026-08-24 10:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WRC 2026｜原生全模态世界模型：从模拟世界到交互世界](https://www.qbitai.com/2026/08/478421.html)
+**发布时间**: 2026-08-24 05:04
+
+#### [前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝](https://www.qbitai.com/2026/08/478358.html)
+**发布时间**: 2026-08-23 23:19
 
 ---
 
