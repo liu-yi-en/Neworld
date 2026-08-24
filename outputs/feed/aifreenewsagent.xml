@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Aug 2026 05:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 05:39:25 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:48:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WRC 2026｜原生全模态世界模型：从模拟世界到交互世界</title>
-      <link>https://www.leiphone.com/category/ai/p3ZpuRQrXujo29fr.html</link>
-      <description>&lt;![CDATA[WRC 2026｜原生全模态世界模型：从模拟世界到交互世界]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/p3ZpuRQrXujo29fr.html</guid>
+      <title>对话王文涛：Maker 圈老将再创业， 为什么 x86 是最好的桌面 CNC 底座？</title>
+      <link>https://www.leiphone.com/category/weiwu/ubQYvNeHTcJLMavN.html</link>
+      <description>&lt;![CDATA[对话王文涛：Maker 圈老将再创业， 为什么 x86 是最好的桌面 CNC 底座？]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ubQYvNeHTcJLMavN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>王田苗三问具身大牛：大模型还在「拨号上网」，机器人靠什么拿下真实订单？| WRC 2026</title>
-      <link>https://www.leiphone.com/category/private/YOACtSjPnZwavbFo.html</link>
-      <description>&lt;![CDATA[王田苗三问具身大牛：大模型还在「拨号上网」，机器人靠什么拿下真实订单？| WRC 2026]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/YOACtSjPnZwavbFo.html</guid>
+      <title>阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤</title>
+      <link>https://www.qbitai.com/2026/08/478473.html</link>
+      <description>&lt;![CDATA[阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 08:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478473.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”</title>
-      <link>https://www.leiphone.com/category/industrynews/XGOehdmO7fBF2xnb.html</link>
-      <description>&lt;![CDATA[阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/XGOehdmO7fBF2xnb.html</guid>
+      <title>单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布</title>
+      <link>https://www.qbitai.com/2026/08/478469.html</link>
+      <description>&lt;![CDATA[单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478469.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>希音开启全球发售，预计募资净额约131.23亿港元</title>
-      <link>https://www.leiphone.com/category/industrynews/C0s8Qo4obQJjUEBv.html</link>
-      <description>&lt;![CDATA[希音开启全球发售，预计募资净额约131.23亿港元]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/C0s8Qo4obQJjUEBv.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>光子跃迁亮相BIRTV 2026：以&quot;AI+影像&quot;重构创作范式，三大板块解码下一代影像生态</title>
-      <link>https://www.leiphone.com/category/industrynews/x0aFA1VyGB6qPmHp.html</link>
-      <description>&lt;![CDATA[光子跃迁亮相BIRTV 2026：以&quot;AI+影像&quot;重构创作范式，三大板块解码下一代影像生态]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/x0aFA1VyGB6qPmHp.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里拟配售800亿港元新股，全部投入AI建设；网友造谣「小红书因遭举报上市失败」被行拘；李斌：中国汽车行业三五年后玩家基本确定</title>
-      <link>https://www.leiphone.com/category/zaobao/Vqz97pOeMU2EkowJ.html</link>
-      <description>&lt;![CDATA[阿里拟配售800亿港元新股，全部投入AI建设；网友造谣「小红书因遭举报上市失败」被行拘；李斌：中国汽车行业三五年后玩家基本确定]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/Vqz97pOeMU2EkowJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-08-24日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-24/</link>
-      <description>&lt;![CDATA[2026-08-24日刊]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-24/</guid>
+      <title>8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！</title>
+      <link>https://www.qbitai.com/2026/08/478447.html</link>
+      <description>&lt;![CDATA[8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478447.html</guid>
       <category>Ai</category>
     </item>
   </channel>
