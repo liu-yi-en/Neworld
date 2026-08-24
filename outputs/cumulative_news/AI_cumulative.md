@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-24 08:46
+**最后更新时间**: 2026-08-24 23:21
+
+---
+
+## 🆕 最新更新 (2026-08-24 23:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [第一位“95后”获奖人产生、女性获奖人首次达两位数——第八届“科学探索奖”公布获奖名单](https://www.leiphone.com/category/industrynews/ueOhCRAt4mwIdCsz.html)
+**发布时间**: 2026-08-24 21:15
+
+#### [燧原科技启动科创板发行，全栈技术体系支撑AI芯片商业化落地](https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html)
+**发布时间**: 2026-08-24 20:27
+
+#### [拼多多发布Q2财报，“新十年高质量发展”迈向新阶段，长期主义驱动产业价值跃迁](https://www.leiphone.com/category/industrynews/Ruh4vQloxk6yvuQH.html)
+**发布时间**: 2026-08-24 18:34
+
+#### [第二届世界人形机器人运动会火热进行中 京东“机器人之家”全周期保障参赛机器人](https://www.leiphone.com/category/industrynews/cxgGoqQ1ysJ7mCFe.html)
+**发布时间**: 2026-08-24 18:31
+
+#### [WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线](https://www.leiphone.com/category/industrynews/LZWCQyVI2s6jSIr3.html)
+**发布时间**: 2026-08-24 18:09
+
+#### [比亚迪王朝双旗舰亮相成都车展：大汉EV预售24.99万起，第三代唐首秀](https://www.leiphone.com/category/transportation/2kwgjAcPGL0zxlrn.html)
+**发布时间**: 2026-08-24 17:10
+
+#### [为什么手机内存进入英伟达机柜后，贵过HBM？](https://www.leiphone.com/category/chips/ZqmXnIyBKGDpHOJl.html)
+**发布时间**: 2026-08-24 16:41
+
+#### [从汽车到机器人、太空，五一视界复制十年仿真经验](https://www.leiphone.com/category/transportation/pulPK5rlrvofLaJH.html)
+**发布时间**: 2026-08-24 16:13
+
+#### [打破人类记录，狂揽5金2银6铜！合作共赢 助力天工交出硬核答卷](https://www.leiphone.com/category/industrynews/DzgGt3aWbUq9HYqC.html)
+**发布时间**: 2026-08-24 16:09
+
+#### [小米机器人，闷声干大事](https://www.leiphone.com/category/industrynews/Y2iGKMHBj6jXCOWz.html)
+**发布时间**: 2026-08-24 15:07
+
+#### [WRC 2026：具身数采凶猛，千军万马集体入场](https://www.leiphone.com/category/robot/TRIWEbSG2zukT2vp.html)
+**发布时间**: 2026-08-24 14:46
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/)
+**发布时间**: 2026-08-24 19:32
+
+#### [Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS](https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/)
+**发布时间**: 2026-08-24 18:59
+
+#### [Agentic Resource Discovery (ARD): An open specification for agent discovery](https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/)
+**发布时间**: 2026-08-24 16:22
+
+#### [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/)
+**发布时间**: 2026-08-24 16:13
+
+#### [AI-powered metadata correction and harmonization](https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/)
+**发布时间**: 2026-08-24 15:53
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How XPUs Meet a World-Class AI Factory](https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/)
+**发布时间**: 2026-08-24 15:00
+
+#### [With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents](https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/)
+**发布时间**: 2026-08-24 15:00
+
+#### [Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents](https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/)
+**发布时间**: 2026-08-24 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Generating scenarios for extreme events, without extreme data](https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824)
+**发布时间**: 2026-08-24 14:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊](https://www.qbitai.com/2026/08/478670.html)
+**发布时间**: 2026-08-24 13:32
+
+#### [一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一](https://www.qbitai.com/2026/08/478568.html)
+**发布时间**: 2026-08-24 13:21
 
 ---
 
