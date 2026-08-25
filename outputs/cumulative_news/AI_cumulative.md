@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-24 23:21
+**最后更新时间**: 2026-08-25 05:30
+
+---
+
+## 🆕 最新更新 (2026-08-25 05:30)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-25日刊](https://hex2077.dev/docs/2026-08/2026-08-25/)
+**发布时间**: 2026-08-25 10:54
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Meoo打通AI做App全链路，“一句话”就能做出安卓与iOS应用](https://www.leiphone.com/category/industrynews/lMrMgzHoUVOGceOK.html)
+**发布时间**: 2026-08-25 10:32
+
+#### [豆包工作正式发布：让 AI 从生成内容到完成工作](https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html)
+**发布时间**: 2026-08-25 10:30
+
+#### [李飞飞押注的空间智能：生成的世界，如何「经得起折腾」？](https://www.leiphone.com/category/academic/cFG5JACmqzkxWGDb.html)
+**发布时间**: 2026-08-25 10:23
+
+#### [通用模型竟然比医疗专用模型更懂医疗？一篇 ACL 论文的两个反直觉发现 | GAIR Paper 123](https://www.leiphone.com/category/academic/bWyxqU8pelb4TNJg.html)
+**发布时间**: 2026-08-25 10:18
+
+#### [IJCAI 2026 复盘局：中国人投了最多的稿，却到不了最多的场](https://www.leiphone.com/category/academic/PwTwlHYVu0ZCHAuW.html)
+**发布时间**: 2026-08-25 10:11
+
+#### [IJCAI 2026 四项论文奖、三项个人成就奖，回答 AI 的「来路」与「去路」](https://www.leiphone.com/category/private/tuJcJrenqJuB2Isk.html)
+**发布时间**: 2026-08-25 10:06
+
+#### [承泰科技CTO周珂：AI雷达的时代已经到来](https://www.leiphone.com/category/transportation/Nfqbj40LKk9Lb4KL.html)
+**发布时间**: 2026-08-25 09:44
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜](https://www.qbitai.com/2026/08/478791.html)
+**发布时间**: 2026-08-25 02:22
+
+#### [VC开始靠AI预测未来了](https://www.qbitai.com/2026/08/478774.html)
+**发布时间**: 2026-08-25 02:16
+
+#### [WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线](https://www.qbitai.com/2026/08/478690.html)
+**发布时间**: 2026-08-25 01:46
+
+#### [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
+**发布时间**: 2026-08-25 00:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
+**发布时间**: 2026-08-25 00:00
 
 ---
 
