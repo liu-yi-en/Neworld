@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Aug 2026 08:40:00 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 08:42:41 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 23:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:29:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,99 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>越疆2026中报：营收翻倍、具身收入激增20倍，Physical AI进入商业化兑现期</title>
-      <link>https://www.leiphone.com/category/industrynews/dKNT8oYzmw5hsVgL.html</link>
-      <description>&lt;![CDATA[越疆2026中报：营收翻倍、具身收入激增20倍，Physical AI进入商业化兑现期]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dKNT8oYzmw5hsVgL.html</guid>
+      <title>AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR</title>
+      <link>https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/</link>
+      <description>&lt;![CDATA[AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司</title>
-      <link>https://www.qbitai.com/2026/08/479132.html</link>
-      <description>&lt;![CDATA[半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479132.html</guid>
+      <title>Agentic observability with Amazon OpenSearch Service MCP Apps</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/</link>
+      <description>&lt;![CDATA[Agentic observability with Amazon OpenSearch Service MCP Apps]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project</title>
-      <link>https://www.qbitai.com/2026/08/479096.html</link>
-      <description>&lt;![CDATA[AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 05:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479096.html</guid>
+      <title>Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/</link>
+      <description>&lt;![CDATA[Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>基于阿里千问，路透社推出首个自研大模型</title>
+      <link>https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html</link>
+      <description>&lt;![CDATA[基于阿里千问，路透社推出首个自研大模型]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全球精品轿车零跑A05正式上市 起售价6.39万元</title>
+      <link>https://www.leiphone.com/category/transportation/hmN8xhtUMyzP3w5I.html</link>
+      <description>&lt;![CDATA[全球精品轿车零跑A05正式上市 起售价6.39万元]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/hmN8xhtUMyzP3w5I.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>将25万级产品力全面打到15万级，荣威家越07首秀亮出“顶格”实力</title>
+      <link>https://www.leiphone.com/category/transportation/fbQUsomC9qaa7lsg.html</link>
+      <description>&lt;![CDATA[将25万级产品力全面打到15万级，荣威家越07首秀亮出“顶格”实力]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/fbQUsomC9qaa7lsg.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026</title>
+      <link>https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html</link>
+      <description>&lt;![CDATA[BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破</title>
+      <link>https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html</link>
+      <description>&lt;![CDATA[突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark</title>
+      <link>https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</link>
+      <description>&lt;![CDATA[Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Granite 4.2 LLMs: How They're Built</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+      <description>&lt;![CDATA[Granite 4.2 LLMs: How They're Built]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+      <description>&lt;![CDATA[Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划</title>
+      <link>https://www.qbitai.com/2026/08/479314.html</link>
+      <description>&lt;![CDATA[从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479314.html</guid>
       <category>Ai</category>
     </item>
   </channel>

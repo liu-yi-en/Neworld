@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-25 08:40
+**最后更新时间**: 2026-08-25 23:26
+
+---
+
+## 🆕 最新更新 (2026-08-25 23:26)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
+**发布时间**: 2026-08-25 19:10
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Agentic observability with Amazon OpenSearch Service MCP Apps](https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/)
+**发布时间**: 2026-08-25 19:00
+
+#### [Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/)
+**发布时间**: 2026-08-25 16:35
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [基于阿里千问，路透社推出首个自研大模型](https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html)
+**发布时间**: 2026-08-25 18:19
+
+#### [全球精品轿车零跑A05正式上市 起售价6.39万元](https://www.leiphone.com/category/transportation/hmN8xhtUMyzP3w5I.html)
+**发布时间**: 2026-08-25 14:57
+
+#### [将25万级产品力全面打到15万级，荣威家越07首秀亮出“顶格”实力](https://www.leiphone.com/category/transportation/fbQUsomC9qaa7lsg.html)
+**发布时间**: 2026-08-25 14:45
+
+#### [BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026](https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html)
+**发布时间**: 2026-08-25 14:44
+
+#### [突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破](https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html)
+**发布时间**: 2026-08-25 14:42
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark](https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/)
+**发布时间**: 2026-08-25 15:30
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
+**发布时间**: 2026-08-25 15:14
+
+#### [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing)
+**发布时间**: 2026-08-25 11:39
+
+#### [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search)
+**发布时间**: 2026-08-21 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划](https://www.qbitai.com/2026/08/479314.html)
+**发布时间**: 2026-08-25 09:31
+
+#### [开源国产8B模型，比肩闭源Image 2了！](https://www.qbitai.com/2026/08/479192.html)
+**发布时间**: 2026-08-25 06:53
 
 ---
 
