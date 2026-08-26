@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-26 05:37
+**最后更新时间**: 2026-08-26 08:45
+
+---
+
+## 🆕 最新更新 (2026-08-26 08:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist](https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 08:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules](https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 07:52
+
+#### [Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI](https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 07:01
 
 ---
 

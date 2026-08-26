@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-26 05:35
+**最后更新时间**: 2026-08-26 08:43
+
+---
+
+## 🆕 最新更新 (2026-08-26 08:43)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨王云鹤创业估值数亿美元，押注多模型 Harness和 Agent-Native Model](https://www.leiphone.com/category/yanxishe/HLyK0NtwB0N082Fl.html)
+**发布时间**: 2026-08-26 14:13
+
+#### [Agent 走向具身世界：从语言智能到机器人「大脑指挥官」](https://www.leiphone.com/category/ai/vE6z6buPMecczPrc.html)
+**发布时间**: 2026-08-26 14:11
+
+#### [IJCAI 2026 专访：动作指挥计算，VLA 加速不降准 | GAIR Paper 125](https://www.leiphone.com/category/private/hJ6IDm4NImDU3590.html)
+**发布时间**: 2026-08-26 14:09
+
+#### [大厂AI To B大战，这回战场为什么是办公？](https://www.leiphone.com/category/industrynews/Yb1V9SGtTUdBUamr.html)
+**发布时间**: 2026-08-26 11:58
+
+#### [具身智能走进千行百业，浙江人形 WRC2026 诠释 "具身在场"](https://www.leiphone.com/category/industrynews/fg1r01an843kYNdp.html)
+**发布时间**: 2026-08-26 11:50
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》](https://www.qbitai.com/2026/08/479670.html)
+**发布时间**: 2026-08-26 05:56
+
+#### [宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底](https://www.qbitai.com/2026/08/479634.html)
+**发布时间**: 2026-08-26 05:52
 
 ---
 
