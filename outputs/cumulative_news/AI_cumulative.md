@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-25 23:26
+**最后更新时间**: 2026-08-26 05:35
+
+---
+
+## 🆕 最新更新 (2026-08-26 05:35)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-26日刊](https://hex2077.dev/docs/2026-08/2026-08-26/)
+**发布时间**: 2026-08-26 10:20
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [小米玄戒，磨剑十二年](https://www.leiphone.com/category/chips/pCFXrVFRVThCfSMl.html)
+**发布时间**: 2026-08-26 09:40
+
+#### [数据中心人去楼空！网友曝特斯拉FSD入华无望：博主称6.4万白花了；道路交通法新草案：自动驾驶出事故车企负责！马云买入阿里超6亿港元](https://www.leiphone.com/category/zaobao/IBcrOQ12e2rU0P8y.html)
+**发布时间**: 2026-08-26 08:21
+
+#### [赚翻了！董宇辉等大主播出走后，东方甄选净利润反而暴涨86倍；字节将推统一办公品牌「豆包工作」；宇树跌至全球人形机器人市值榜第二](https://www.leiphone.com/category/zaobao/D1KtEScbGvyayZ6W.html)
+**发布时间**: 2026-08-25 08:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用](https://www.qbitai.com/2026/08/479631.html)
+**发布时间**: 2026-08-26 03:25
+
+#### [WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法](https://www.qbitai.com/2026/08/478860.html)
+**发布时间**: 2026-08-26 03:02
+
+#### [深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案](https://www.qbitai.com/2026/08/479348.html)
+**发布时间**: 2026-08-26 02:59
+
+#### [OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨](https://www.qbitai.com/2026/08/479320.html)
+**发布时间**: 2026-08-26 01:24
 
 ---
 
