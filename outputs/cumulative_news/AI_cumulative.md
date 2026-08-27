@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-26 08:43
+**最后更新时间**: 2026-08-27 04:17
+
+---
+
+## 🆕 最新更新 (2026-08-27 04:17)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.leiphone.com/category/industrynews/EuIUKfSp07nAYG7r.html)
+**发布时间**: 2026-08-27 09:18
+
+#### [吃瓜！苹果为库克举办告别派对：罕见公开同性伴侣；DeepSeek前7个月营收达去年10倍，竟还亏损超7亿；腾讯高管回应「腾讯做AI慢了」质疑](https://www.leiphone.com/category/zaobao/5ofNaBQ6uGCe1odA.html)
+**发布时间**: 2026-08-27 08:26
+
+#### [全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源](https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html)
+**发布时间**: 2026-08-26 20:46
+
+#### [对话寻影李亮：一年半是影像技术护城河的极限，真正的竞争在场景](https://www.leiphone.com/category/weiwu/YlRdmdtUlgqa4XC7.html)
+**发布时间**: 2026-08-26 19:05
+
+#### [商汤2026上半年首度盈利6.2亿元，经常性收入与毛利率持续提升](https://www.leiphone.com/category/industrynews/V1CAUxI7qST0x7pX.html)
+**发布时间**: 2026-08-26 18:52
+
+#### [ECCV 2026｜4步去噪实现12.66 FPS，清华、港科大提出实时流式视频编辑框架LiveEdit](https://www.leiphone.com/category/private/qrCx7pEm5vT7uoYm.html)
+**发布时间**: 2026-08-26 17:20
+
+#### [达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子](https://www.leiphone.com/category/ai/9f46BNXl0tsxlS0F.html)
+**发布时间**: 2026-08-26 17:19
+
+#### [欧美七国首次有了“必吃榜”](https://www.leiphone.com/category/industrynews/45xgcEF1iH4H5r5U.html)
+**发布时间**: 2026-08-26 16:30
+
+#### [2026世界机器人大会落幕，谁在物理AI赛道抢跑？](https://www.leiphone.com/category/transportation/D7jJzjiKAFgoKr5U.html)
+**发布时间**: 2026-08-26 16:22
+
+#### [即梦 AI 推出内容厂牌“即梦片场”，探索 AI 影像发行新路径](https://www.leiphone.com/category/industrynews/bVlL8Bsgh6GURrf7.html)
+**发布时间**: 2026-08-26 16:12
+
+#### [一台GPU用了三年，为什么租金反而更贵了？](https://www.leiphone.com/category/chips/iKmV7NhGx4fLAb4v.html)
+**发布时间**: 2026-08-26 16:00
+
+#### [英伟达Vera Rubin的Agent吞吐暴涨最高提升30倍，却不只靠GPU | Hot Chips 2026](https://www.leiphone.com/category/chips/LIUBrHLsZcZlyHwv.html)
+**发布时间**: 2026-08-26 15:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI](https://www.qbitai.com/2026/08/480005.html)
+**发布时间**: 2026-08-27 02:46
+
+#### [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
+**发布时间**: 2026-08-27 01:45
+
+#### [神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡](https://www.qbitai.com/2026/08/479919.html)
+**发布时间**: 2026-08-26 16:48
+
+#### [AI视频应用井喷，美图打开新的增长空间](https://www.qbitai.com/2026/08/479895.html)
+**发布时间**: 2026-08-26 10:18
+
+#### [小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势](https://www.qbitai.com/2026/08/479811.html)
+**发布时间**: 2026-08-26 10:17
+
+#### [硅谷今日最热具身模型！不用后训练，看一遍就学会](https://www.qbitai.com/2026/08/479834.html)
+**发布时间**: 2026-08-26 10:07
+
+#### [达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子](https://www.qbitai.com/2026/08/479808.html)
+**发布时间**: 2026-08-26 09:17
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/)
+**发布时间**: 2026-08-26 21:05
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/)
+**发布时间**: 2026-08-26 19:13
+
+#### [How GoDaddy transformed its analytics with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/)
+**发布时间**: 2026-08-26 16:51
+
+#### [Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-26 16:36
+
+#### [Bring your own model with Amazon SageMaker AI: Script mode in SDK v3](https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/)
+**发布时间**: 2026-08-26 16:31
+
+#### [Preparing data for supervised fine-tuning Part 2: Advanced data strategies](https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/)
+**发布时间**: 2026-08-26 16:24
+
+#### [Preparing data for supervised fine-tuning Part 1: Formatting and quality](https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/)
+**发布时间**: 2026-08-26 16:24
+
+#### [Connect Amazon Bedrock AgentCore to cross-account knowledge bases](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/)
+**发布时间**: 2026-08-26 15:48
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+**发布时间**: 2026-08-26 18:42
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI helps design new materials that work in the real world](https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826)
+**发布时间**: 2026-08-26 05:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
+**发布时间**: 2026-08-26 00:00
 
 ---
 
