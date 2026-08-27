@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-27 04:17
+**最后更新时间**: 2026-08-27 16:10
+
+---
+
+## 🆕 最新更新 (2026-08-27 16:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代](https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html)
+**发布时间**: 2026-08-27 20:50
+
+#### [百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准](https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html)
+**发布时间**: 2026-08-27 19:27
+
+#### [像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口](https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html)
+**发布时间**: 2026-08-27 19:01
+
+#### [具身新贵昆仑行斩获 WorldArena单项冠军全球亚军，世界模型全面领先](https://www.leiphone.com/category/industrynews/gAKPpkpq87I5Oo3d.html)
+**发布时间**: 2026-08-27 18:08
+
+#### [00后跨境卖家自救，做了一款AI放大镜](https://www.leiphone.com/category/weiwu/L0uTNvgh6p0tIHZR.html)
+**发布时间**: 2026-08-27 17:58
+
+#### [连续两年增速突破100%，追觅扫地机新兴市场高速增长](https://www.leiphone.com/category/industrynews/EYCeYXezDIKp3L9g.html)
+**发布时间**: 2026-08-27 17:49
+
+#### [追觅洗地机欧洲市场营收增长超50%，多国市场份额第一](https://www.leiphone.com/category/industrynews/vM2lMKhmqGQ1X7nH.html)
+**发布时间**: 2026-08-27 17:45
+
+#### [ECCV 2026 倒计时 12 天：LeCun 压轴、中国 71M 模型、CMU 一键修 3D，顶会三大爆点抢先看](https://www.leiphone.com/category/private/jGUPgQOqPQyCJMMw.html)
+**发布时间**: 2026-08-27 16:13
+
+#### [独家 | 乐聚发布垂域具身模型：一倍工业提效，两项榜单第一](https://www.leiphone.com/category/industrynews/s4P2kDrMcM1yfSYw.html)
+**发布时间**: 2026-08-27 15:52
+
+#### [无人配送下半场：三大派系对决，“真无图”改写行业规则](https://www.leiphone.com/category/industrynews/BK4ChhYFZWiKVLry.html)
+**发布时间**: 2026-08-27 15:44
+
+#### [阿里发布全新Qoder ，面向所有人的智能体工作台来了](https://www.leiphone.com/category/industrynews/KvKr1b6gPOwqZW3f.html)
+**发布时间**: 2026-08-27 15:40
+
+#### [欣旺达上半年营收381.79亿元，HEV电池二季度装机量升至全球第一](https://www.leiphone.com/category/industrynews/0Z6n8ySHqLD98RLe.html)
+**发布时间**: 2026-08-27 15:26
+
+#### [OceanBase以20.2%市场份额居首，中国分布式数据库迈入规模化竞争](https://www.leiphone.com/category/industrynews/lMHYJCy1Ib8X9TT5.html)
+**发布时间**: 2026-08-27 14:59
+
+#### [中国飞鹤×火山引擎：436个智能体走进乳业生产一线](https://www.leiphone.com/category/industrynews/8JAbV4WxtPfFTCaz.html)
+**发布时间**: 2026-08-27 14:32
+
+#### [中科通量推出OmniMate BOX，以"边缘智算主机+存量屏幕"模式降低AI数字员工落地门槛](https://www.leiphone.com/category/industrynews/HtkFHzPaTw8MU090.html)
+**发布时间**: 2026-08-27 13:43
+
+#### [关税之下，速卖通Brand+在欧盟逆势大涨97%](https://www.leiphone.com/category/industrynews/Rqty4sAwNZM1RMfL.html)
+**发布时间**: 2026-08-27 11:42
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2](https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/)
+**发布时间**: 2026-08-27 16:05
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-27日刊](https://hex2077.dev/docs/2026-08/2026-08-27/)
+**发布时间**: 2026-08-27 13:52
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/)
+**发布时间**: 2026-08-27 13:00
+
+#### [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](https://blogs.nvidia.com/blog/vera-cpu-delivery/)
+**发布时间**: 2026-08-27 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧](https://www.qbitai.com/2026/08/480092.html)
+**发布时间**: 2026-08-27 12:16
+
+#### [基元律动累计融资数千万美元，推出“中国版OpenRouter”](https://www.qbitai.com/2026/08/480079.html)
+**发布时间**: 2026-08-27 05:43
 
 ---
 
