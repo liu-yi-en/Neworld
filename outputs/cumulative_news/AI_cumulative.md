@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-28 06:49
+**最后更新时间**: 2026-08-28 19:57
+
+---
+
+## 🆕 最新更新 (2026-08-28 19:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [上半年营收增30%，毛利增55%，佑驾创新盈利能力持续改善](https://www.leiphone.com/category/industrynews/813poadxB0Dhb82w.html)
+**发布时间**: 2026-08-28 23:04
+
+#### [Anthropic 再定统一标准：MHS，打通 AI 与物理世界的统一接口](https://www.leiphone.com/category/yanxishe/N12vFHlsL2JrdKYR.html)
+**发布时间**: 2026-08-28 19:28
+
+#### [WRC2026 | 别急着给机器人更强「大脑」，先补上更省电的神经系统](https://www.leiphone.com/category/iot/wSd8yNXuuYwSg9hp.html)
+**发布时间**: 2026-08-28 19:23
+
+#### [新云厂商发现，最赚钱的可能不是卖GPU](https://www.leiphone.com/category/chips/3WOuErnlJ5cLepP7.html)
+**发布时间**: 2026-08-28 19:17
+
+#### [Anthropic、Moderna先后引爆舆论场，AI制药到底该奖励什么？](https://www.leiphone.com/category/aihealth/rJaUKQDWe0u0pfDt.html)
+**发布时间**: 2026-08-28 17:36
+
+#### [威科集团与蚂蚁健康达成战略合作，JCO等28本医学顶刊上线阿福医生版](https://www.leiphone.com/category/aihealth/KTUmk96pCdHsO4R5.html)
+**发布时间**: 2026-08-28 15:51
+
+#### [老黄把CPU机柜搬上台，一场五年混战开始了](https://www.leiphone.com/category/chips/HXcJQubeLhbCrXOL.html)
+**发布时间**: 2026-08-28 15:51
+
+#### [首家“碰一下”机器人租赁体验店落地上海徐家汇！支付宝“碰一下”解锁机器人互动与租赁新体验](https://www.leiphone.com/category/industrynews/gE5Am1JMBQG2AjNJ.html)
+**发布时间**: 2026-08-28 15:35
+
+#### [Jalapeño 跑分炸场，GPU 推理路线开始分裂？](https://www.leiphone.com/category/ai/B0TkvWHMs5AJIym6.html)
+**发布时间**: 2026-08-28 15:27
+
+#### [Sora 为什么输给 Codex？](https://www.leiphone.com/category/ai/aolA6aSnqLoYTm3d.html)
+**发布时间**: 2026-08-28 15:25
+
+#### [一段视频，让机器人学会开门并穿越：Video2DoorTraversal 如何打通 Real-to-Sim-to-Real](https://www.leiphone.com/category/industrynews/H2PFxmf25qYtFbee.html)
+**发布时间**: 2026-08-28 15:24
+
+#### [Claude Code 额度回落：Agent 正在制造新的「祖传代码屎山」？](https://www.leiphone.com/category/ai/5weAutjetefMob2a.html)
+**发布时间**: 2026-08-28 15:23
+
+#### [Cursor Origin 上线，GitHub 的老玩法还够用吗？](https://www.leiphone.com/category/ai/BkzW0yPibWRl8D7U.html)
+**发布时间**: 2026-08-28 15:21
+
+#### [Anthropic 技术栈里的「五宗罪」由何而来？](https://www.leiphone.com/category/ai/aOdmq7dqZFokTCzh.html)
+**发布时间**: 2026-08-28 15:20
+
+#### [大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能](https://www.leiphone.com/category/ai/ncVQF4d9AckBMZwP.html)
+**发布时间**: 2026-08-28 15:17
+
+#### [华润啤酒即时零售劲增50%，与歪马送酒合作产品日销量超16万罐](https://www.leiphone.com/category/industrynews/y6G2DUWMrPw9R32v.html)
+**发布时间**: 2026-08-28 15:16
+
+#### [GPT、Claude 遭遇窃听门：换个模型就能让思维链不再隐身？](https://www.leiphone.com/category/ai/SXiTNHh5eeN9ntTt.html)
+**发布时间**: 2026-08-28 15:12
+
+#### [深度拆解 Muse Glimmer，24GB 显存跑 30B Agent，Meta 到底做了什么？](https://www.leiphone.com/category/ai/88ezT7fiFNPJKWGx.html)
+**发布时间**: 2026-08-28 15:10
+
+#### [深度拆解 Claude 新功能：多个 Session 如何实现直接「对话」？](https://www.leiphone.com/category/ai/dSoCcUg6tkrWeMwB.html)
+**发布时间**: 2026-08-28 15:07
+
+#### [103μs 降到 18μs 背后，Cursor 为何剑指英伟达，重写 GPU？](https://www.leiphone.com/category/ai/3rOI5glxQEMnfWkL.html)
+**发布时间**: 2026-08-28 15:05
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Batch write and discover records in Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/)
+**发布时间**: 2026-08-28 19:31
+
+#### [How Decathlon runs demand forecasting at scale with Chronos-2](https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/)
+**发布时间**: 2026-08-28 16:22
+
+#### [Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components](https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/)
+**发布时间**: 2026-08-28 16:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [我的自媒体搭子太能卷，一顿饭功夫17份成品](https://www.qbitai.com/2026/08/480700.html)
+**发布时间**: 2026-08-28 15:36
+
+#### [《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板](https://www.qbitai.com/2026/08/480666.html)
+**发布时间**: 2026-08-28 11:13
+
+#### [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html)
+**发布时间**: 2026-08-28 09:45
+
+#### [e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛](https://www.qbitai.com/2026/08/480591.html)
+**发布时间**: 2026-08-28 07:20
+
+#### [首款癌症疫苗，一针300万？？？](https://www.qbitai.com/2026/08/480557.html)
+**发布时间**: 2026-08-28 06:22
+
+#### [Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣](https://www.qbitai.com/2026/08/480482.html)
+**发布时间**: 2026-08-28 06:22
+
+#### [Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了](https://www.qbitai.com/2026/08/480487.html)
+**发布时间**: 2026-08-28 06:13
+
+#### [被高估的视触觉：容易复制的生意，有多大投资价值？](https://www.qbitai.com/2026/08/480236.html)
+**发布时间**: 2026-08-28 05:49
 
 ---
 
