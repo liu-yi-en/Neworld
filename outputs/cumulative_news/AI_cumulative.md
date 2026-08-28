@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-27 16:10
+**最后更新时间**: 2026-08-28 06:49
+
+---
+
+## 🆕 最新更新 (2026-08-28 06:49)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [功夫朋克，跃然眼前：VITURE ×《影之刃零》收藏级联名 XR 眼镜科隆全球首发，今日开启预购](https://www.leiphone.com/category/industrynews/Gb6HM8eVg91nwgFg.html)
+**发布时间**: 2026-08-28 11:26
+
+#### [WRC 2026 大复盘：具身智能告别「表演时代」，全面进入「算账时代」](https://www.leiphone.com/category/private/2zBk2GOuqMkjYsSy.html)
+**发布时间**: 2026-08-28 10:59
+
+#### [Formnext 2026现场：创想三维K3首次亮相](https://www.leiphone.com/category/industrynews/2BZinCAnBVXtTuJs.html)
+**发布时间**: 2026-08-28 10:47
+
+#### [阿里云启用巴西数据中心，加速拉美市场布局](https://www.leiphone.com/category/industrynews/MA18484wUPSZMlAb.html)
+**发布时间**: 2026-08-28 10:00
+
+#### [科技守护！腾讯、百度、阿里、滴滴、等多家公司驰援西藏吉隆受灾地区](https://www.leiphone.com/category/industrynews/DpAO6CwSWzTO0vKK.html)
+**发布时间**: 2026-08-27 22:17
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-28日刊](https://hex2077.dev/docs/2026-08/2026-08-28/)
+**发布时间**: 2026-08-28 10:41
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移](https://www.qbitai.com/2026/08/480227.html)
+**发布时间**: 2026-08-28 04:09
+
+#### [智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持](https://www.qbitai.com/2026/08/480223.html)
+**发布时间**: 2026-08-28 04:06
+
+#### [高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景](https://www.qbitai.com/2026/08/480208.html)
+**发布时间**: 2026-08-28 03:45
+
+#### [34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及](https://www.qbitai.com/2026/08/480202.html)
+**发布时间**: 2026-08-28 03:03
+
+#### [全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力](https://www.qbitai.com/2026/08/480083.html)
+**发布时间**: 2026-08-28 02:48
+
+#### [HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄](https://www.qbitai.com/2026/08/480186.html)
+**发布时间**: 2026-08-28 01:40
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build agentic creative workflows with Amazon Quick and fal](https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/)
+**发布时间**: 2026-08-27 23:04
+
+#### [Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/)
+**发布时间**: 2026-08-27 18:36
+
+#### [Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics](https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/)
+**发布时间**: 2026-08-27 16:11
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+**发布时间**: 2026-08-27 17:37
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Looking beyond natural sequences](https://news.mit.edu/2026/looking-beyond-natural-sequences-0827)
+**发布时间**: 2026-08-27 15:20
 
 ---
 
