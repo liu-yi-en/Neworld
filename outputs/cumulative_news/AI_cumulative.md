@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-28 19:57
+**最后更新时间**: 2026-08-29 04:04
+
+---
+
+## 🆕 最新更新 (2026-08-29 04:04)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-29日刊](https://hex2077.dev/docs/2026-08/2026-08-29/)
+**发布时间**: 2026-08-29 10:27
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south)
+**发布时间**: 2026-08-28 00:00
 
 ---
 
