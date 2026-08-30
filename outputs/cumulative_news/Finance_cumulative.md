@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-29 11:33
+**最后更新时间**: 2026-08-30 10:21
+
+---
+
+## 🆕 最新更新 (2026-08-30 10:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘New York loves Canada’: US cities want their Canadian tourists back](https://www.ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a)
+**发布时间**: 2026-08-30 10:00
+
+#### [Iceland rejects reopening talks on EU entry](https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 09:40
+
+#### [Nepal rescue effort intensifies as death toll passes 700](https://www.ft.com/content/32978145-d33e-4ee3-957b-39fcc722d2be?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 09:25
+
+#### [What’s the fiscal hit from higher yields?](https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5)
+**发布时间**: 2026-08-30 04:12
+
+#### [Rising bond yields add tens of billions to G7 countries’ debt costs](https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [Summer might be ending, but we can hold on to some of its magic](https://www.ft.com/content/ba323075-bf96-4acf-af32-1e5967be0590?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [Your body is not a machine](https://www.ft.com/content/360e9a56-287d-4d94-8a90-9cc88d49c807)
+**发布时间**: 2026-08-30 04:00
+
+#### [‘SmashCos’: Europe’s oil majors create new generation of independent companies](https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [EU to help tourism hotspots crack down on Airbnb-style holiday rentals](https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [US oil deal denounced by both sides of Venezuelan politics](https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 22:38
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why would someone lock up money by rolling it into a 401(k)?](https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 13:00
+
+#### [5 affordable cities to retire in the U.S. right now](https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:50
+
+#### [Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead](https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:30
+
+#### [Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.](https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:00
+
+#### [I’m managing a pathological liar who never does her work. How do I deal with her?](https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:00
 
 ---
 

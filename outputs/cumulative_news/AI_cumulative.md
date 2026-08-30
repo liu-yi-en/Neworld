@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-29 11:31
+**最后更新时间**: 2026-08-30 10:19
+
+---
+
+## 🆕 最新更新 (2026-08-30 10:19)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-30日刊](https://hex2077.dev/docs/2026-08/2026-08-30/)
+**发布时间**: 2026-08-30 10:45
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [展翼三折叠即将登场，余承东首曝真机彰显旗舰格调](https://www.leiphone.com/category/industrynews/OzAOLaQ9jMbJU4XK.html)
+**发布时间**: 2026-08-29 19:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑](https://www.qbitai.com/2026/08/481372.html)
+**发布时间**: 2026-08-29 13:11
+
+#### [去年归国的徐梦迪，成了清华姚班班主任](https://www.qbitai.com/2026/08/481318.html)
+**发布时间**: 2026-08-29 13:01
+
+#### [Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员](https://www.qbitai.com/2026/08/481223.html)
+**发布时间**: 2026-08-29 12:50
+
+#### [20ms把PDF变成Markdown！开源OCR神器快了近300倍](https://www.qbitai.com/2026/08/481075.html)
+**发布时间**: 2026-08-29 12:26
+
+#### [Coding不再是程序员专属！阿里Qoder这波有点绝](https://www.qbitai.com/2026/08/480940.html)
+**发布时间**: 2026-08-29 12:11
+
+#### [OpenClaw：红过，爱过，散了](https://www.qbitai.com/2026/08/480855.html)
+**发布时间**: 2026-08-29 12:00
+
+#### [32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作](https://www.qbitai.com/2026/08/480787.html)
+**发布时间**: 2026-08-29 11:35
 
 ---
 
