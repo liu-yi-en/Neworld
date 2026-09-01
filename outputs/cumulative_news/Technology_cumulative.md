@@ -1,7 +1,168 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-31 01:10
+**最后更新时间**: 2026-09-01 01:47
+
+---
+
+## 🆕 最新更新 (2026-09-01 01:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [暑期档125亿，惊喜大于遗憾](https://www.tmtpost.com/8123481.html)
+**发布时间**: 2026-09-01 09:35
+
+#### [3D NAND闪存，藏了三张底牌](https://www.tmtpost.com/8123403.html)
+**发布时间**: 2026-09-01 09:26
+
+#### [零售电商行业的AI落地困境](https://www.tmtpost.com/8123378.html)
+**发布时间**: 2026-09-01 09:11
+
+#### [你看，连银行都很难在震荡行情中赚到钱](https://www.tmtpost.com/8123351.html)
+**发布时间**: 2026-09-01 09:04
+
+#### [“生产力市场”大博弈](https://www.tmtpost.com/8123293.html)
+**发布时间**: 2026-09-01 08:51
+
+#### [一周砸出140亿美元，黄仁勋的千亿AI版图](https://www.tmtpost.com/8123117.html)
+**发布时间**: 2026-09-01 08:44
+
+#### [OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了](https://www.tmtpost.com/8123802.html)
+**发布时间**: 2026-09-01 08:40
+
+#### [家电三巨头，集体“造人”](https://www.tmtpost.com/8123261.html)
+**发布时间**: 2026-09-01 08:40
+
+#### [马斯克还不愁中国内地的新车订单吗？](https://www.tmtpost.com/8123252.html)
+**发布时间**: 2026-09-01 08:33
+
+#### [Edge AI Daily 早报（9月1日）](https://www.tmtpost.com/8123640.html)
+**发布时间**: 2026-09-01 08:28
+
+#### [比亚迪，把便宜卖贵了](https://www.tmtpost.com/8123250.html)
+**发布时间**: 2026-09-01 08:26
+
+#### [新茶饮红利退潮后：蜜雪向左、古茗向下、霸王茶姬向右](https://www.tmtpost.com/8123120.html)
+**发布时间**: 2026-09-01 08:15
+
+#### [煤、镍、棕榈油告急：印尼的“黑天鹅”为何成群起飞？](https://www.tmtpost.com/8123095.html)
+**发布时间**: 2026-09-01 08:01
+
+#### [【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定](https://www.tmtpost.com/8123455.html)
+**发布时间**: 2026-09-01 07:26
+
+#### [Momenta上市首份半年报：技术故事讲完之后，资本市场开始算账](https://www.tmtpost.com/8123399.html)
+**发布时间**: 2026-08-31 22:13
+
+#### [中国电视的“坏日子”，还没结束](https://www.tmtpost.com/8123457.html)
+**发布时间**: 2026-08-31 22:12
+
+#### [独家对话江口达雄：芯片涨价与AI热夹击，PlayStation如何守主机阵地](https://www.tmtpost.com/8123349.html)
+**发布时间**: 2026-08-31 21:04
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道](http://www.geekpark.net/news/369634)
+**发布时间**: 2026-09-01 08:20
+
+#### [流量红利退潮，快手想用 AI 和老友们破局](http://www.geekpark.net/news/369631)
+**发布时间**: 2026-08-31 20:01
+
+#### [AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道](http://www.geekpark.net/news/369559)
+**发布时间**: 2026-08-31 16:40
+
+#### [OpenAI 内部，AI 建立了三代「文明」](http://www.geekpark.net/news/369610)
+**发布时间**: 2026-08-31 15:16
+
+#### [人类，越来越难理解 AI](http://www.geekpark.net/news/369609)
+**发布时间**: 2026-08-31 15:12
+
+#### [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](http://www.geekpark.net/news/369608)
+**发布时间**: 2026-08-31 15:09
+
+#### [编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结](http://www.geekpark.net/news/369517)
+**发布时间**: 2026-08-31 09:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
+**发布时间**: 2026-09-01 08:17
+
+#### [本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2](https://sspai.com/post/114043)
+**发布时间**: 2026-08-31 18:48
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/114041)
+**发布时间**: 2026-08-31 18:05
+
+#### [家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方](https://sspai.com/prime/story/home-made-beverages-4)
+**发布时间**: 2026-08-31 17:09
+
+#### [屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能](https://sspai.com/post/114027)
+**发布时间**: 2026-08-31 14:57
+
+#### [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
+**发布时间**: 2026-08-31 10:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法](https://www.infoq.cn/article/WGj2Jx0K2sbP3dhUXeC5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 07:00
+
+#### [从出片到出海：AI MediaKit 重塑短剧全链路生产力](https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 18:27
+
+#### [AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践](https://www.infoq.cn/article/l88X1azz8wfwphDyECoP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:48
+
+#### [智能体适应度函数：将演进式架构扩展至确定性规则之外](https://www.infoq.cn/article/8iWWrov7bkk1hz5CcFft?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:45
+
+#### [AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践](https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:39
+
+#### [当数采设备不再稀缺，具身数据下一步拼什么？](https://www.infoq.cn/article/D2r6SJ2oYVAXGMBkPcRM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 16:04
+
+#### [OpenClaw 从意外爆红到“无人问津”：一个开源 AI Agent 的八个月过山车](https://www.infoq.cn/article/4KQHJC49t8J8FPqaEVLv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:27
+
+#### [“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱](https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:19
+
+#### [“烂代码”转正？Bun稳定版终落地：跳票一个半月，2900个问题清零](https://www.infoq.cn/article/olsG3w9zkyKRqbQesB1g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:14
+
+#### [不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法](https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:03
+
+#### [坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了](https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:03
+
+#### [Rx.NET 7.0 拆分 Windows UI 支持，大幅缩减应用部署体积](https://www.infoq.cn/article/tiJTwoTI7Z0pI6huyRPW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 15:00
+
+#### [Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成](https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:56
+
+#### [自研Runtime、Agent Loop、Infra：一家通用Agent公司的全栈赌注](https://www.infoq.cn/article/NUGYDLvivgYXMV9u637z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:47
+
+#### [Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事](https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:20
+
+#### [OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款](https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 14:16
+
+#### [Kubeflow扩展了AI功能，项目临近CNCF毕业](https://www.infoq.cn/article/grb2X7v7fr6kUNuuRkvt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 13:31
+
+#### [Netflix采用云原生作业队列系统Kueue替代内部解决方案](https://www.infoq.cn/article/d1qT2acYJodVCcKaBe4u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 12:00
+
+#### [长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报](https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 10:20
+
+#### [InfoQ 2026 年云计算与 DevOps 趋势报告](https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-31 09:53
 
 ---
 

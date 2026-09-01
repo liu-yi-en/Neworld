@@ -1,7 +1,130 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-31 01:08
+**最后更新时间**: 2026-09-01 01:42
+
+---
+
+## 🆕 最新更新 (2026-09-01 01:42)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)
+**发布时间**: 2026-08-31 22:47
+
+#### [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)
+**发布时间**: 2026-08-31 19:50
+
+#### [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+**发布时间**: 2026-08-31 19:18
+
+#### [Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/)
+**发布时间**: 2026-08-31 19:08
+
+#### [Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-08-31 18:56
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项](https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html)
+**发布时间**: 2026-08-31 20:49
+
+#### [具身智能规模化落地的解法，鹿明摸索出来了](https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html)
+**发布时间**: 2026-08-31 20:46
+
+#### [WRC 上，我们看到的关于灵巧手的真相](https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html)
+**发布时间**: 2026-08-31 20:44
+
+#### [瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0](https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html)
+**发布时间**: 2026-08-31 18:35
+
+#### [自变量杨倩出席APEC活动，分享具身智能开源赋能中小企业数智转型](https://www.leiphone.com/category/industrynews/pLpgF05WRqQ6VJdA.html)
+**发布时间**: 2026-08-31 18:31
+
+#### [8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026](https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html)
+**发布时间**: 2026-08-31 17:13
+
+#### [没有全科优秀，具身模型别想进入百万小时](https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html)
+**发布时间**: 2026-08-31 17:11
+
+#### [横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠](https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html)
+**发布时间**: 2026-08-31 17:05
+
+#### [滴滴自动驾驶新一代车型开启载客测试服务](https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html)
+**发布时间**: 2026-08-31 16:43
+
+#### [比亚迪第10000座闪充站落成，闪充中国达成关键里程碑](https://www.leiphone.com/category/industrynews/9VMJqlYnxIbcafy5.html)
+**发布时间**: 2026-08-31 16:24
+
+#### [「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解](https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html)
+**发布时间**: 2026-08-31 16:12
+
+#### [海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”](https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html)
+**发布时间**: 2026-08-31 16:09
+
+#### [小象超市华南首店8月28日开门迎客](https://www.leiphone.com/category/smartretailing/acrCrtejlIl7Kjgg.html)
+**发布时间**: 2026-08-31 16:02
+
+#### [「全栈AI」第一股来了！百度双重主要上市后值多少钱？](https://www.leiphone.com/category/ai/HCYpADwlsglraaSO.html)
+**发布时间**: 2026-08-31 15:51
+
+#### [Cadence滕晋庆：AI有望让芯片设计时间减半，但资深工程师仍是核心竞争力](https://www.leiphone.com/category/chips/ARHh6hZXIzvBZq5z.html)
+**发布时间**: 2026-08-31 13:54
+
+#### [豆包推出开学季学生优惠，送大学生3个月免费订阅权益](https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html)
+**发布时间**: 2026-08-31 13:40
+
+#### [7月车市销量解读：比亚迪一骑绝尘，零跑首破10万，奇瑞出海封神](https://www.leiphone.com/category/transportation/efUEAfDlUpDzOnXz.html)
+**发布时间**: 2026-08-31 11:50
+
+#### [智己新任副总经理敲定，徐崟的使命](https://www.leiphone.com/category/transportation/TSEsQbqAIqee6qdp.html)
+**发布时间**: 2026-08-31 11:47
+
+#### [独家丨下半年还有数亿元保时捷收入，小鹏不只靠卖车赚钱](https://www.leiphone.com/category/transportation/EKhqd5EEZHzAzaVW.html)
+**发布时间**: 2026-08-31 11:45
+
+#### [要真正读懂吉利，先从这份半年报开始](https://www.leiphone.com/category/transportation/pCglci5j0vBBjUjx.html)
+**发布时间**: 2026-08-31 11:43
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+**发布时间**: 2026-08-31 17:19
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT Quantum Initiative launches postdoctoral fellowship program](https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831)
+**发布时间**: 2026-08-31 15:30
+
+#### [How an MIT research project became a global programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)
+**发布时间**: 2026-08-31 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」](https://www.qbitai.com/2026/08/481928.html)
+**发布时间**: 2026-08-31 13:20
+
+#### [滴滴自动驾驶新一代车型开启载客测试服务](https://www.qbitai.com/2026/08/481923.html)
+**发布时间**: 2026-08-31 07:53
+
+#### [范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业](https://www.qbitai.com/2026/08/481919.html)
+**发布时间**: 2026-08-31 07:34
+
+#### [「GPT-6」灰测demo刷屏！周四发布在即](https://www.qbitai.com/2026/08/481893.html)
+**发布时间**: 2026-08-31 04:47
+
+#### [OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了](https://www.qbitai.com/2026/08/481759.html)
+**发布时间**: 2026-08-31 03:24
+
+#### [全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队](https://www.qbitai.com/2026/08/481750.html)
+**发布时间**: 2026-08-31 03:11
+
+#### [AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验](https://www.qbitai.com/2026/08/481475.html)
+**发布时间**: 2026-08-31 03:01
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-31日刊](https://hex2077.dev/docs/2026-08/2026-08-31/)
+**发布时间**: 2026-08-31 10:41
 
 ---
 

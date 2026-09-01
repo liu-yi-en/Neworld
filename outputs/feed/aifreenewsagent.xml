@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 31 Aug 2026 01:08:00 GMT</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 01:10:40 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 01:42:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:47:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,275 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026快手光合创作者大会：深耕多元特色生态，让好内容、好作者获得确定性成长</title>
-      <link>https://www.leiphone.com/category/industrynews/8wlxQKXkFOUWfHjJ.html</link>
-      <description>&lt;![CDATA[2026快手光合创作者大会：深耕多元特色生态，让好内容、好作者获得确定性成长]]&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/8wlxQKXkFOUWfHjJ.html</guid>
+      <title>Connect an AgentCore Runtime hosted MCP server to Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/</link>
+      <description>&lt;![CDATA[Connect an AgentCore Runtime hosted MCP server to Amazon Quick]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/</link>
+      <description>&lt;![CDATA[AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Manage agents, tools and skills at scale with AWS Agent Registry</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/</link>
+      <description>&lt;![CDATA[Manage agents, tools and skills at scale with AWS Agent Registry]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/</link>
+      <description>&lt;![CDATA[Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/</link>
+      <description>&lt;![CDATA[Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 18:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项</title>
+      <link>https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html</link>
+      <description>&lt;![CDATA[对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 20:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>具身智能规模化落地的解法，鹿明摸索出来了</title>
+      <link>https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html</link>
+      <description>&lt;![CDATA[具身智能规模化落地的解法，鹿明摸索出来了]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 20:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WRC 上，我们看到的关于灵巧手的真相</title>
+      <link>https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html</link>
+      <description>&lt;![CDATA[WRC 上，我们看到的关于灵巧手的真相]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 20:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0</title>
+      <link>https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html</link>
+      <description>&lt;![CDATA[瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>自变量杨倩出席APEC活动，分享具身智能开源赋能中小企业数智转型</title>
+      <link>https://www.leiphone.com/category/industrynews/pLpgF05WRqQ6VJdA.html</link>
+      <description>&lt;![CDATA[自变量杨倩出席APEC活动，分享具身智能开源赋能中小企业数智转型]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pLpgF05WRqQ6VJdA.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026</title>
+      <link>https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html</link>
+      <description>&lt;![CDATA[8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>没有全科优秀，具身模型别想进入百万小时</title>
+      <link>https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html</link>
+      <description>&lt;![CDATA[没有全科优秀，具身模型别想进入百万小时]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠</title>
+      <link>https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html</link>
+      <description>&lt;![CDATA[横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>滴滴自动驾驶新一代车型开启载客测试服务</title>
+      <link>https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html</link>
+      <description>&lt;![CDATA[滴滴自动驾驶新一代车型开启载客测试服务]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>比亚迪第10000座闪充站落成，闪充中国达成关键里程碑</title>
+      <link>https://www.leiphone.com/category/industrynews/9VMJqlYnxIbcafy5.html</link>
+      <description>&lt;![CDATA[比亚迪第10000座闪充站落成，闪充中国达成关键里程碑]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9VMJqlYnxIbcafy5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解</title>
+      <link>https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html</link>
+      <description>&lt;![CDATA[「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”</title>
+      <link>https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html</link>
+      <description>&lt;![CDATA[海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小象超市华南首店8月28日开门迎客</title>
+      <link>https://www.leiphone.com/category/smartretailing/acrCrtejlIl7Kjgg.html</link>
+      <description>&lt;![CDATA[小象超市华南首店8月28日开门迎客]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/smartretailing/acrCrtejlIl7Kjgg.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>「全栈AI」第一股来了！百度双重主要上市后值多少钱？</title>
+      <link>https://www.leiphone.com/category/ai/HCYpADwlsglraaSO.html</link>
+      <description>&lt;![CDATA[「全栈AI」第一股来了！百度双重主要上市后值多少钱？]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/HCYpADwlsglraaSO.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Cadence滕晋庆：AI有望让芯片设计时间减半，但资深工程师仍是核心竞争力</title>
+      <link>https://www.leiphone.com/category/chips/ARHh6hZXIzvBZq5z.html</link>
+      <description>&lt;![CDATA[Cadence滕晋庆：AI有望让芯片设计时间减半，但资深工程师仍是核心竞争力]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/ARHh6hZXIzvBZq5z.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>豆包推出开学季学生优惠，送大学生3个月免费订阅权益</title>
+      <link>https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html</link>
+      <description>&lt;![CDATA[豆包推出开学季学生优惠，送大学生3个月免费订阅权益]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>7月车市销量解读：比亚迪一骑绝尘，零跑首破10万，奇瑞出海封神</title>
+      <link>https://www.leiphone.com/category/transportation/efUEAfDlUpDzOnXz.html</link>
+      <description>&lt;![CDATA[7月车市销量解读：比亚迪一骑绝尘，零跑首破10万，奇瑞出海封神]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/efUEAfDlUpDzOnXz.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智己新任副总经理敲定，徐崟的使命</title>
+      <link>https://www.leiphone.com/category/transportation/TSEsQbqAIqee6qdp.html</link>
+      <description>&lt;![CDATA[智己新任副总经理敲定，徐崟的使命]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/TSEsQbqAIqee6qdp.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家丨下半年还有数亿元保时捷收入，小鹏不只靠卖车赚钱</title>
+      <link>https://www.leiphone.com/category/transportation/EKhqd5EEZHzAzaVW.html</link>
+      <description>&lt;![CDATA[独家丨下半年还有数亿元保时捷收入，小鹏不只靠卖车赚钱]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/EKhqd5EEZHzAzaVW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>要真正读懂吉利，先从这份半年报开始</title>
+      <link>https://www.leiphone.com/category/transportation/pCglci5j0vBBjUjx.html</link>
+      <description>&lt;![CDATA[要真正读懂吉利，先从这份半年报开始]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/pCglci5j0vBBjUjx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>TimesFM-3: A zero-shot foundation model for multivariate forecasting</title>
+      <link>https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</link>
+      <description>&lt;![CDATA[TimesFM-3: A zero-shot foundation model for multivariate forecasting]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>MIT Quantum Initiative launches postdoctoral fellowship program</title>
+      <link>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</link>
+      <description>&lt;![CDATA[MIT Quantum Initiative launches postdoctoral fellowship program]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」</title>
+      <link>https://www.qbitai.com/2026/08/481928.html</link>
+      <description>&lt;![CDATA[VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481928.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业</title>
+      <link>https://www.qbitai.com/2026/08/481919.html</link>
+      <description>&lt;![CDATA[范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481919.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>「GPT-6」灰测demo刷屏！周四发布在即</title>
+      <link>https://www.qbitai.com/2026/08/481893.html</link>
+      <description>&lt;![CDATA[「GPT-6」灰测demo刷屏！周四发布在即]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481893.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了</title>
+      <link>https://www.qbitai.com/2026/08/481759.html</link>
+      <description>&lt;![CDATA[OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 03:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481759.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队</title>
+      <link>https://www.qbitai.com/2026/08/481750.html</link>
+      <description>&lt;![CDATA[全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481750.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验</title>
+      <link>https://www.qbitai.com/2026/08/481475.html</link>
+      <description>&lt;![CDATA[AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 03:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481475.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-08-31日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-31/</link>
+      <description>&lt;![CDATA[2026-08-31日刊]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-31/</guid>
       <category>Ai</category>
     </item>
   </channel>
