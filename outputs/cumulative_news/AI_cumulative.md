@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-01 01:42
+**最后更新时间**: 2026-09-01 09:48
+
+---
+
+## 🆕 最新更新 (2026-09-01 09:48)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [VAST完成约30亿元B和B+轮融资，经纬创投领投，多元产业资本集体加注](https://www.leiphone.com/category/industrynews/aGEO2nY1YSv9NGAD.html)
+**发布时间**: 2026-09-01 14:05
+
+#### [Violoop完成亿元级融资：让AI在真实工作中学会一个人](https://www.leiphone.com/category/industrynews/7PXLDeu5ZmrxynHT.html)
+**发布时间**: 2026-09-01 14:02
+
+#### [存算一体进入「产业化时刻」，谁在领跑规模化交付？](https://www.leiphone.com/category/chips/xtIydm5BXbGcQCfI.html)
+**发布时间**: 2026-09-01 13:42
+
+#### [AI 读过一切，却没经历过任何事：Ropedia 发布 HOMIE Gen2，给具身智能补「经验」这一课](https://www.leiphone.com/category/ai/ztrF1BywGGvrxQHt.html)
+**发布时间**: 2026-09-01 12:34
+
+#### [业绩连跳20级，这家芯片公司做对了什么？](https://www.leiphone.com/category/chips/toaKlXrYMYi6MRsq.html)
+**发布时间**: 2026-09-01 12:25
+
+#### [AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？](https://www.leiphone.com/category/industrynews/LbCpQmYtAXGpD1Ob.html)
+**发布时间**: 2026-09-01 12:03
+
+#### [360公益基金会捐赠款项，支持西藏吉隆抗灾救助工作](https://www.leiphone.com/category/industrynews/dQ50EEfvzuplln92.html)
+**发布时间**: 2026-09-01 11:11
+
+#### [李飞飞、吴佳俊再联手，打破世界模型和机器人动作的「巴别塔」](https://www.leiphone.com/category/academic/LF4mbUTko5bRYDky.html)
+**发布时间**: 2026-09-01 10:56
+
+#### [TUM 黎子玥：模型这么大这么强，为什么还是「上不了路」？| IJCAI 2026](https://www.leiphone.com/category/academic/CvDmFZhq2DCqxOh8.html)
+**发布时间**: 2026-09-01 10:54
+
+#### [卖B70显卡，只是英特尔本地AIGC生意的开始](https://www.leiphone.com/category/chips/KkkOnq0B7sxuvkyo.html)
+**发布时间**: 2026-09-01 10:49
+
+#### [独家丨地瓜机器人扩招NPU研发团队，或将强化下一代芯片布局](https://www.leiphone.com/category/yanxishe/lCoT3AFJymcnxZVR.html)
+**发布时间**: 2026-09-01 10:27
+
+#### [MWA™霸榜全球第一后：无界动力用真实咖啡厅展现物理AI的落地之径](https://www.leiphone.com/category/robot/vHAwtD32AVVe2W9V.html)
+**发布时间**: 2026-09-01 10:23
+
+#### [从一颗芯片到万卡集群，燧原的八年算力长跑](https://www.leiphone.com/category/chipdesign/MKHeALfWYSjLwG6X.html)
+**发布时间**: 2026-09-01 10:19
+
+#### [希音正式登陆港交所，全球发售顺利完成](https://www.leiphone.com/category/industrynews/XAU9yiYYFBHNSg3h.html)
+**发布时间**: 2026-09-01 10:16
+
+#### [年假30天！东方甄选前CEO孙东旭宣布新公司福利，网友：还缺人吗；曝某上市公司高管被解除职务，疑似私德有亏；库克最后一封CEO内部信曝光](https://www.leiphone.com/category/zaobao/qhrlw42SDriTpAfv.html)
+**发布时间**: 2026-09-01 08:39
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-01日刊](https://hex2077.dev/docs/2026-09/2026-09-01/)
+**发布时间**: 2026-09-01 11:02
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning](https://www.qbitai.com/2026/09/482337.html)
+**发布时间**: 2026-09-01 05:12
+
+#### [AIVC只是前菜！复旦提出生命算子，统一生命建模](https://www.qbitai.com/2026/09/482300.html)
+**发布时间**: 2026-09-01 04:12
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Ila Kumar: Innovating with communities](https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901)
+**发布时间**: 2026-09-01 00:00
 
 ---
 
