@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-01 09:48
+**最后更新时间**: 2026-09-02 00:52
+
+---
+
+## 🆕 最新更新 (2026-09-02 00:52)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
+**发布时间**: 2026-09-01 21:39
+
+#### [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels)
+**发布时间**: 2026-09-01 00:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/)
+**发布时间**: 2026-09-01 21:19
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude Fable 5.1 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/)
+**发布时间**: 2026-09-01 19:12
+
+#### [From theory to delivery: How Atos upskilled 400 engineers in agentic AI](https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/)
+**发布时间**: 2026-09-01 16:17
+
+#### [Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/)
+**发布时间**: 2026-09-01 16:03
+
+#### [Securing Amazon Quick from POC to production: Agents, Flows, and Spaces](https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/)
+**发布时间**: 2026-09-01 16:02
+
+#### [How t54 built a trust layer with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-09-01 15:50
+
+#### [How ZS democratized secure ad-hoc analytics with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/)
+**发布时间**: 2026-09-01 15:47
+
+#### [How Boomi Scribe streamlines documentation using AWS](https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/)
+**发布时间**: 2026-09-01 15:45
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [追觅旗下户外庭院板块将亮相IFA 2026，AI与机器人重构户外多场景应用](https://www.leiphone.com/category/industrynews/eMaiv5y4bdAYbIha.html)
+**发布时间**: 2026-09-01 19:07
+
+#### [从中国走向柏林，追觅旗下智能出行板块滑板车业务即将亮相IFA 2026](https://www.leiphone.com/category/industrynews/8J1edIXdxnR1LlvW.html)
+**发布时间**: 2026-09-01 19:04
+
+#### [DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍](https://www.leiphone.com/category/ai/Bixp8MkRrWzo3KZj.html)
+**发布时间**: 2026-09-01 18:38
+
+#### [从生成工具到专业创作伙伴，小云雀AI官宣品牌升级](https://www.leiphone.com/category/industrynews/oHJHEFk0qoUC0JDQ.html)
+**发布时间**: 2026-09-01 17:33
+
+#### [耐士劳IFA 2026：能感知、会理解、可执行的下一代户外庭院](https://www.leiphone.com/category/industrynews/Wbq8tMqwIUuJ9xJv.html)
+**发布时间**: 2026-09-01 17:15
+
+#### [流沙之上：陈冕、景鲲、倪正民和中国 AI 应用创业者的三种选择](https://www.leiphone.com/category/yanxishe/p3yK0mQAxDeZILcy.html)
+**发布时间**: 2026-09-01 16:45
+
+#### [我们拆了 1.1 万个 DeepSeek Harness 插件，发现官方几乎没有建立插件治理机制](https://www.leiphone.com/category/yanxishe/h2dcTqNQlUhVuEXx.html)
+**发布时间**: 2026-09-01 16:43
+
+#### [万字长文拆解DeepSeek V4 Pro与Harness：从后训练到「代理自进化」，更大的变化在开源框架里](https://www.leiphone.com/category/yanxishe/dufRSsU0sr3hCOII.html)
+**发布时间**: 2026-09-01 16:41
+
+#### [GLM 5.3 更强却更难用了？我们让它和 5.2 做了同一个北京城市驾驶游戏](https://www.leiphone.com/category/yanxishe/31ByEdzxZC7DMqoR.html)
+**发布时间**: 2026-09-01 16:38
+
+#### [我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？](https://www.leiphone.com/category/yanxishe/hFaRe5oZ7oF0U1XC.html)
+**发布时间**: 2026-09-01 16:36
+
+#### [阿里开源 Qwen3.8-27B 本地实测：性能很强，但 Agent 适配仍待补课](https://www.leiphone.com/category/yanxishe/LyUNV8iNxl2VuE3X.html)
+**发布时间**: 2026-09-01 16:34
+
+#### [Qwen3.8-27B 登顶全球开源榜第一，曾经的「源神」又回来了！](https://www.leiphone.com/category/yanxishe/jjqYW7SvQ8B6BH2u.html)
+**发布时间**: 2026-09-01 16:33
+
+#### [给 AI 一张陶罐碎片图，它能还原破裂过程吗？Minimax H3 vs Seedance 2.0 Fast 实测](https://www.leiphone.com/category/academic/GV7BIMpcbKcba6Qe.html)
+**发布时间**: 2026-09-01 16:31
+
+#### [DeepSeek Harness 的插件体验短板：安全权限未生效，好插件用户找不到](https://www.leiphone.com/category/yanxishe/nTnT9RZW5p5Q23hG.html)
+**发布时间**: 2026-09-01 16:29
+
+#### [吴恩达开源的OpenWorker，为什么「不 Work」了？](https://www.leiphone.com/category/yanxishe/HIGpHGf3ko6B1osw.html)
+**发布时间**: 2026-09-01 16:28
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/)
+**发布时间**: 2026-09-01 18:40
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Walter Torous named executive director of MIT Center for Real Estate](https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901)
+**发布时间**: 2026-09-01 17:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径](https://www.qbitai.com/2026/09/482512.html)
+**发布时间**: 2026-09-01 12:02
+
+#### [GitHub最热架构图Agent，开发者故事看哭了](https://www.qbitai.com/2026/09/482469.html)
+**发布时间**: 2026-09-01 08:26
+
+#### [急急急用电！马斯克开造燃气轮机叶片](https://www.qbitai.com/2026/09/482451.html)
+**发布时间**: 2026-09-01 08:24
+
+#### [A社化身A割！Claude官宣永久提额25%，结果到手反而少17%](https://www.qbitai.com/2026/09/482406.html)
+**发布时间**: 2026-09-01 08:15
 
 ---
 
