@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-02 00:52
+**最后更新时间**: 2026-09-02 09:21
+
+---
+
+## 🆕 最新更新 (2026-09-02 09:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座](https://www.leiphone.com/category/industrynews/3BBOm1CluS1kcwFf.html)
+**发布时间**: 2026-09-02 15:15
+
+#### [AIROBO联手中科院力学所，机器人运营技术注入国家科研力量](https://www.leiphone.com/category/industrynews/em9VVsPQwYhn37XN.html)
+**发布时间**: 2026-09-02 14:11
+
+#### [阿里云企业级Agent协作平台万有无界开启公测](https://www.leiphone.com/category/industrynews/zMhNkoPgV5CMzeVi.html)
+**发布时间**: 2026-09-02 14:02
+
+#### [IFA 2026：添可诠释智能清洁的未来图景](https://www.leiphone.com/category/industrynews/lvLdTbtKhDpHXyjA.html)
+**发布时间**: 2026-09-02 11:56
+
+#### [建立AI时代“度量衡”：OPPO联合OpenKG推出首个端侧AI记忆评测基准MobileMem](https://www.leiphone.com/category/industrynews/PXii3It1SuG1KANO.html)
+**发布时间**: 2026-09-02 11:05
+
+#### [阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一](https://www.leiphone.com/category/industrynews/Yubz8Ft9lJUQ46S1.html)
+**发布时间**: 2026-09-02 10:51
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-02日刊](https://hex2077.dev/docs/2026-09/2026-09-02/)
+**发布时间**: 2026-09-02 14:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍](https://www.qbitai.com/2026/09/483104.html)
+**发布时间**: 2026-09-02 06:20
+
+#### [阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一](https://www.qbitai.com/2026/09/483101.html)
+**发布时间**: 2026-09-02 06:10
+
+#### [前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局](https://www.qbitai.com/2026/09/483097.html)
+**发布时间**: 2026-09-02 06:06
+
+#### [企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资](https://www.qbitai.com/2026/09/482967.html)
+**发布时间**: 2026-09-02 02:48
+
+#### [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
+**发布时间**: 2026-09-02 02:18
+
+#### [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
+**发布时间**: 2026-09-02 02:06
+
+#### [巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS](https://www.qbitai.com/2026/09/482699.html)
+**发布时间**: 2026-09-02 01:44
+
+#### [李飞飞发布：全球首个多模态世界模型](https://www.qbitai.com/2026/09/482586.html)
+**发布时间**: 2026-09-02 01:07
 
 ---
 
