@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-03 01:00
+**最后更新时间**: 2026-09-03 09:30
+
+---
+
+## 🆕 最新更新 (2026-09-03 09:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [「小」鸭子火了之后，端侧 AI 还有一个更「大」的问题](https://www.leiphone.com/category/chips/pIN6zFvPEB91R6uC.html)
+**发布时间**: 2026-09-03 13:56
+
+#### [全场景智享硬核SUV 传祺越7开启预售 权益价17.18万-21.78万](https://www.leiphone.com/category/industrynews/ZL7ZZUYj1Wxczg7D.html)
+**发布时间**: 2026-09-03 13:47
+
+#### [跨境生意越做越“大”：Shopee卖家如何打开东南亚运动户外新机会？](https://www.leiphone.com/category/industrynews/SJJ2QWwahNrFicHA.html)
+**发布时间**: 2026-09-03 11:32
+
+#### [连尚集团入选上海市首批算力生态合作伙伴名单](https://www.leiphone.com/category/ai/L2kvpqr4fseLUbUN.html)
+**发布时间**: 2026-09-03 10:58
+
+#### [WorkBuddy金融版正式发布，让Agent真正进入金融业务现场](https://www.leiphone.com/category/industrynews/zr0zxn8R9MVT4y7n.html)
+**发布时间**: 2026-09-03 10:49
+
+#### [千问办公落地长安汽车，“研产供销服”都在用](https://www.leiphone.com/category/industrynews/QvD9ITqjzVcafOeu.html)
+**发布时间**: 2026-09-03 09:23
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-03日刊](https://hex2077.dev/docs/2026-09/2026-09-03/)
+**发布时间**: 2026-09-03 12:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠](https://www.qbitai.com/2026/09/483565.html)
+**发布时间**: 2026-09-03 03:16
+
+#### [神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光](https://www.qbitai.com/2026/09/483552.html)
+**发布时间**: 2026-09-03 01:31
+
+#### [50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满](https://www.qbitai.com/2026/09/483462.html)
+**发布时间**: 2026-09-03 01:27
+
+#### [今年最难的机器人Demo，“机器人含量”为0](https://www.qbitai.com/2026/09/483351.html)
+**发布时间**: 2026-09-03 00:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code)
+**发布时间**: 2026-09-03 00:00
 
 ---
 
