@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-02 09:21
+**最后更新时间**: 2026-09-03 01:00
+
+---
+
+## 🆕 最新更新 (2026-09-03 01:00)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [北京协和医学院与SKG签署合作协议，开展睡眠呼吸暂停检测算法临床研究](https://www.leiphone.com/category/weiwu/66bHoBvGJOjv7lV0.html)
+**发布时间**: 2026-09-02 22:42
+
+#### [燧原科技9月2日申购：腾讯、小米、兆易创新等参与战略配售](https://www.leiphone.com/category/chips/QbzBn7gSqxwocGbo.html)
+**发布时间**: 2026-09-02 20:23
+
+#### [独家解读丨字节 Seed 大调整，分支背后谁在操盘？](https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html)
+**发布时间**: 2026-09-02 18:49
+
+#### [我所知道的李博杰](https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html)
+**发布时间**: 2026-09-02 18:42
+
+#### [勇夺 18 块金牌：机器人运动会「金牌王」走出赛场，还能派上用场吗？](https://www.leiphone.com/category/industrynews/eqoi4e4nz7h4lJZi.html)
+**发布时间**: 2026-09-02 18:20
+
+#### [Zeroth 元点机器人预告发布 OpenBridge 生态：具身智能的「安卓时刻」来了](https://www.leiphone.com/category/industrynews/7XuKxVmxPG0rwM3f.html)
+**发布时间**: 2026-09-02 18:15
+
+#### [上线物业缴费专属入口，支付宝以数字化助力物业行业服务力长效落地](https://www.leiphone.com/category/industrynews/GwoJgC9qbA8VvfZC.html)
+**发布时间**: 2026-09-02 18:04
+
+#### [添可洗地机定义每一代：在IFA看见智能清洁的未来](https://www.leiphone.com/category/industrynews/lnfJe4YxEO5DBK5d.html)
+**发布时间**: 2026-09-02 17:28
+
+#### [苹果新CEO上任首日！曝新iPhone恢复赠送充电头，官方回应；宇树回应「超100元报销需王兴兴审批」等传闻；华为、小米、荣耀手机集体涨价](https://www.leiphone.com/category/zaobao/8VM0tsh1bX3X7luW.html)
+**发布时间**: 2026-09-02 08:35
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/)
+**发布时间**: 2026-09-02 21:22
+
+#### [Modernizing and scaling support operations with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/)
+**发布时间**: 2026-09-02 18:26
+
+#### [How an AWS team detects dashboard content failures at scale using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/)
+**发布时间**: 2026-09-02 18:21
+
+#### [From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-02 18:18
+
+#### [Trinity: Agentic AI-powered transition planning for students with disabilities](https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/)
+**发布时间**: 2026-09-02 18:14
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [From MIT to IBM, expediting AI and quantum deployment](https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902)
+**发布时间**: 2026-09-02 16:25
+
+#### [System helps humans predict when self-driving cars will make mistakes](https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902)
+**发布时间**: 2026-09-02 11:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
+**发布时间**: 2026-09-02 13:49
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来](https://www.qbitai.com/2026/09/483274.html)
+**发布时间**: 2026-09-02 09:22
 
 ---
 
