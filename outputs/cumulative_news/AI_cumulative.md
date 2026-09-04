@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-04 00:50
+**最后更新时间**: 2026-09-04 09:22
+
+---
+
+## 🆕 最新更新 (2026-09-04 09:22)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [IDC首次发布零售云份额报告：腾讯云解决方案市场居首](https://www.leiphone.com/category/industrynews/c9bjscH3acbWUBNO.html)
+**发布时间**: 2026-09-04 15:14
+
+#### [超越增程插混，乐道L90获新能源大型SUV保值率第一](https://www.leiphone.com/category/industrynews/IqdaujiXRbxqfNiY.html)
+**发布时间**: 2026-09-04 14:04
+
+#### [具身智能落地的最后20%，藏在「云」里](https://www.leiphone.com/category/industrycloud/31pSSHUoPdFy7U3E.html)
+**发布时间**: 2026-09-04 11:32
+
+#### [速卖通Brand+加速新市场拓展，韩国多个重点类目三位数增长](https://www.leiphone.com/category/industrynews/nThrz1xUlYPuje7E.html)
+**发布时间**: 2026-09-04 10:42
+
+#### [一池水，困住了中国机器人](https://www.leiphone.com/category/robot/GUsHwBXVwOMwzSZG.html)
+**发布时间**: 2026-09-04 10:36
+
+#### [千问办公上线首月用户数突破 3000万，企业用户占比过半](https://www.leiphone.com/category/industrynews/rECnXLpHow0zwG0p.html)
+**发布时间**: 2026-09-04 10:25
+
+#### [从无线麦克风到AI语音入口：猛玛 LARK A2 原生联动 WorkBuddy](https://www.leiphone.com/category/industrynews/TV9HPfzjSA1Aq6Bt.html)
+**发布时间**: 2026-09-04 09:19
+
+#### [和苹果比肯定物超所值！卢伟冰确认小米18 Fold起售价过万；GPT-6 震撼发布！能自主操作电脑；字节跳动将获得约296亿美元银团贷款](https://www.leiphone.com/category/zaobao/ufE0wwRendYKuvDo.html)
+**发布时间**: 2026-09-04 08:49
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-04日刊](https://hex2077.dev/docs/2026-09/2026-09-04/)
+**发布时间**: 2026-09-04 10:49
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源](https://www.qbitai.com/2026/09/484203.html)
+**发布时间**: 2026-09-04 07:09
+
+#### [李飞飞刚发Atlas，中国开源“同款”已抢跑半年？](https://www.qbitai.com/2026/09/484163.html)
+**发布时间**: 2026-09-04 06:54
+
+#### [2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先](https://www.qbitai.com/2026/09/484159.html)
+**发布时间**: 2026-09-04 05:53
+
+#### [千问办公上线首月用户数突破 3000万，企业用户占比过半](https://www.qbitai.com/2026/09/484155.html)
+**发布时间**: 2026-09-04 05:48
+
+#### [常州女首富机器人转型才开始，先因裁应届生上了热搜](https://www.qbitai.com/2026/09/483984.html)
+**发布时间**: 2026-09-04 04:03
+
+#### [卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”](https://www.qbitai.com/2026/09/483598.html)
+**发布时间**: 2026-09-04 01:40
 
 ---
 
