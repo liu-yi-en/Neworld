@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-03 09:32
+**最后更新时间**: 2026-09-04 00:50
+
+---
+
+## 🆕 最新更新 (2026-09-04 00:50)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Snowflake has a secret weapon that’s powering its stock toward a huge gain](https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 00:35
+
+#### [Adobe just announced its next CEO. Here’s why its stock is dropping.](https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 00:25
+
+#### [Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings](https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 00:24
+
+#### [Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’](https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 23:45
+
+#### [My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?](https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 23:36
+
+#### [Goldfish crackers are getting a makeover as new health trends reshape the snack aisle](https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 21:54
+
+#### [Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors](https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 21:52
+
+#### [Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates](https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 21:49
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [What are the latest claims against Nigel Farage?](https://www.ft.com/content/06c157ee-aa37-485c-9e5b-0f3045beb01e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 23:39
+
+#### [US charges ICE agent with lying about shooting of Venezuelan immigrant](https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 22:16
+
+#### [Nigel Farage and Reform UK hit by illicit-funding sting](https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 22:11
+
+#### [Volkswagen to slash up to 50,000 jobs in historic restructuring](https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 20:03
+
+#### [OpenAI says it has overtaken Anthropic with its latest AI model](https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 18:00
+
+#### [Star Citadel trader to step down amid tumult in energy markets](https://www.ft.com/content/b4c17a07-f684-44c7-b334-8b7bcb1a21d6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 17:29
+
+#### [Hugging Face attack is a wake-up call about the risks of AI](https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 16:54
+
+#### [Feminist icon Gloria Steinem dies at 92](https://www.ft.com/content/34813f31-aaa0-4bd2-9c87-b1b258dab872?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 12:20
+
+#### [‘People are going to get screwed’: Pennsylvania voters unite against data centres](https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 10:00
+
+#### [How AI can put out its PR dumpster fire](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
 
 ---
 

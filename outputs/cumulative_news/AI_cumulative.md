@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-03 09:30
+**最后更新时间**: 2026-09-04 00:50
+
+---
+
+## 🆕 最新更新 (2026-09-04 00:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [品牌归一，承诺不变：安克开启新篇章](https://www.leiphone.com/category/industrynews/m7AcHrgaBQ4kZpq0.html)
+**发布时间**: 2026-09-03 22:05
+
+#### [GPT-6 砍掉思考 Token，俄罗斯人砍掉通信 Token，Token 经济开始崩了？](https://www.leiphone.com/category/yanxishe/XcJ2N9YalKyDRJd8.html)
+**发布时间**: 2026-09-03 20:17
+
+#### [AI 群星闪耀之前，商汤先相信那群少年](https://www.leiphone.com/category/industrynews/cRsziJ80F20CFOYo.html)
+**发布时间**: 2026-09-03 19:39
+
+#### [全栈自研+生态协同：灵心巧手与产业链核心伙伴共建中国具身智能Tier1产业联盟](https://www.leiphone.com/category/robot/JjxeXP5ggz1y4t36.html)
+**发布时间**: 2026-09-03 19:05
+
+#### [ZINOVA携手逐际动力，探索机器人在复杂建筑施工中的应用](https://www.leiphone.com/category/robot/TaL9FUorWHBFyKzT.html)
+**发布时间**: 2026-09-03 18:59
+
+#### [地平线征程智驾芯片量产突破1500万！](https://www.leiphone.com/category/industrynews/7eOdoPpzrxPgWnso.html)
+**发布时间**: 2026-09-03 18:40
+
+#### [机械臂做到第10步就容易出错？一个 2B 模型靠动态调整注意力解决了 | IJCAI 2026](https://www.leiphone.com/category/private/wTgqKxi0pIXPuau0.html)
+**发布时间**: 2026-09-03 18:10
+
+#### [把 Gemini 和 GPT 放到《我的世界》当教练，谁能看懂机器人的微操？](https://www.leiphone.com/category/private/Q0PAUayVomQIhiFv.html)
+**发布时间**: 2026-09-03 18:09
+
+#### [打破黑盒猜想：大模型通往真正「空间智能」的破局之路](https://www.leiphone.com/category/private/f8Yfubtfrorhpr9b.html)
+**发布时间**: 2026-09-03 18:07
+
+#### [26g 无边框带扬声器，加南打造面向日常的屏显 AI 眼镜](https://www.leiphone.com/category/weiwu/oXe4EhufKyvZZZvU.html)
+**发布时间**: 2026-09-03 17:39
+
+#### [IFA 2026 倒计时 ｜ 魔法原子以“本体+大脑+场景”全栈能力叩开欧洲工业大门](https://www.leiphone.com/category/industrynews/0Cte01VJaZrqfSjH.html)
+**发布时间**: 2026-09-03 17:19
+
+#### [拆解 Claude 5.1：38 小时不睡觉的背后，Anthropic 正在终结「模型论」](https://www.leiphone.com/category/ai/3jco87mQoA9LK9jx.html)
+**发布时间**: 2026-09-03 17:11
+
+#### [实测飞猪AI：真正的突围才刚刚开始？](https://www.leiphone.com/category/industrynews/lcOdvJkQhY9i6TJ1.html)
+**发布时间**: 2026-09-03 16:59
+
+#### [视频生成算力新选择：SmarCo GC3如何绕过“存储墙”这道硬门槛](https://www.leiphone.com/category/industrynews/P8cdU7kEF0KPadAJ.html)
+**发布时间**: 2026-09-03 16:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [新版GPT Image 2.5已经能伪造GPT-6发布会了](https://www.qbitai.com/2026/09/483948.html)
+**发布时间**: 2026-09-03 21:57
+
+#### [刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代](https://www.qbitai.com/2026/09/483898.html)
+**发布时间**: 2026-09-03 21:50
+
+#### [“没有Token的CS学生，应立即退学”](https://www.qbitai.com/2026/09/483839.html)
+**发布时间**: 2026-09-03 11:32
+
+#### [腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场](https://www.qbitai.com/2026/09/483786.html)
+**发布时间**: 2026-09-03 11:25
+
+#### [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
+**发布时间**: 2026-09-03 10:18
+
+#### [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
+**发布时间**: 2026-09-03 10:13
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)
+**发布时间**: 2026-09-03 18:20
+
+#### [A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)
+**发布时间**: 2026-09-03 16:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-03 16:16
+
+#### [Migrate agentic workloads to Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-03 16:14
+
+#### [Integrating Outlook with Amazon Quick for AI-powered email automation](https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/)
+**发布时间**: 2026-09-03 16:11
+
+#### [Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/)
+**发布时间**: 2026-09-03 16:10
+
+#### [Best practices for building agentic automations with Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/)
+**发布时间**: 2026-09-03 16:08
+
+#### [Embed Quick Sight visuals using Cognito user authentication](https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/)
+**发布时间**: 2026-09-03 16:01
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/)
+**发布时间**: 2026-09-03 16:00
+
+#### [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/)
+**发布时间**: 2026-09-03 13:00
+
+#### [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+**发布时间**: 2026-09-03 11:56
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
+**发布时间**: 2026-09-03 13:13
+
+#### [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+**发布时间**: 2026-09-03 00:00
+
+#### [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes)
+**发布时间**: 2026-09-03 00:00
 
 ---
 
