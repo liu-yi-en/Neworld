@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-04 09:22
+**最后更新时间**: 2026-09-05 00:40
+
+---
+
+## 🆕 最新更新 (2026-09-05 00:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [理想汽车26.5亿元增资欣旺达动力，电池自研战略再落一子](https://www.leiphone.com/category/industrynews/j6pAp3LhwmFqVvUW.html)
+**发布时间**: 2026-09-04 21:50
+
+#### [打穿 AI 智商测试！GPT-6 Astra 的符号世界模型，是突破还是钞能力刷分？](https://www.leiphone.com/category/yanxishe/FQUliuw9lt15UH54.html)
+**发布时间**: 2026-09-04 19:07
+
+#### [谁在为人形机器人铺「全开源生态」？](https://www.leiphone.com/category/academic/P00P7aQceC56Vz5r.html)
+**发布时间**: 2026-09-04 18:32
+
+#### [全生态物理 AI 落地，小米的主场攻防战](https://www.leiphone.com/category/robot/e96zyiLA9MYshHvY.html)
+**发布时间**: 2026-09-04 17:57
+
+#### [完成4000万美金融资，ACE成为AI音乐赛道融资额最高的华人团队](https://www.leiphone.com/category/industrynews/iaMeof0D4sd0DFB2.html)
+**发布时间**: 2026-09-04 15:50
+
+#### [云鲸2026秋季全球品牌发布会：以用户为原点，探索智能清洁的下一个十年](https://www.leiphone.com/category/industrynews/eIDGppU09hMWW0Nm.html)
+**发布时间**: 2026-09-04 15:31
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-04 21:45
+
+#### [Designing lifecycle policies for AgentCore memory](https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/)
+**发布时间**: 2026-09-04 17:20
+
+#### [Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/)
+**发布时间**: 2026-09-04 16:16
+
+#### [Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/)
+**发布时间**: 2026-09-04 16:12
+
+#### [Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract](https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/)
+**发布时间**: 2026-09-04 16:08
+
+#### [How Intuit built an agentic disaster recovery assistant with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/)
+**发布时间**: 2026-09-04 16:06
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力](https://www.qbitai.com/2026/09/484547.html)
+**发布时间**: 2026-09-04 09:23
+
+#### [机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理](https://www.qbitai.com/2026/09/484437.html)
+**发布时间**: 2026-09-04 09:19
+
+#### [九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律](https://www.qbitai.com/2026/09/484293.html)
+**发布时间**: 2026-09-04 08:57
 
 ---
 
