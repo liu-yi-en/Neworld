@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-05 08:51
+**最后更新时间**: 2026-09-06 00:37
+
+---
+
+## 🆕 最新更新 (2026-09-06 00:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [首驱启动首批2000台核心车型排产，优先保障重点门店补货](https://www.leiphone.com/category/industrynews/eiGJgVh8lKALishI.html)
+**发布时间**: 2026-09-05 16:56
+
+#### [首驱科技启动核心车型滚动交付，渠道经营转向质量提升](https://www.leiphone.com/category/industrynews/x53v3PlEDPcUKF3V.html)
+**发布时间**: 2026-09-05 16:53
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-6带火循环Transformer，阿里早已布局](https://www.qbitai.com/2026/09/484726.html)
+**发布时间**: 2026-09-05 15:07
+
+#### [押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司](https://www.qbitai.com/2026/09/484683.html)
+**发布时间**: 2026-09-05 14:46
 
 ---
 
