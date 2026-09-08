@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-08 00:57
+**最后更新时间**: 2026-09-08 09:25
+
+---
+
+## 🆕 最新更新 (2026-09-08 09:25)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“ONE FOR ALL”背后，帕西尼正在构建怎样的物理AI闭环？](https://www.leiphone.com/category/industrynews/PxJP8yUXOgv9VMnb.html)
+**发布时间**: 2026-09-08 14:49
+
+#### [基元律动发布模型NeoHorse，探索Harness驱动的RSI路径](https://www.leiphone.com/category/industrynews/E7j0Qq5zBynzWv64.html)
+**发布时间**: 2026-09-08 14:31
+
+#### [硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent](https://www.leiphone.com/category/industrynews/1fUYK0dGQLzXssbl.html)
+**发布时间**: 2026-09-08 13:59
+
+#### [IFA观察：智能IoT进入「精耕」时代，萤石的技术储备开始兑现](https://www.leiphone.com/category/smarthome/lFpY44Qc1OIof1I6.html)
+**发布时间**: 2026-09-08 09:53
+
+#### [在IFA重新认识安克：从技术底座到场景贯通](https://www.leiphone.com/category/weiwu/cz6jZP7DUUYFEcSl.html)
+**发布时间**: 2026-09-08 09:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+**发布时间**: 2026-09-08 06:05
+
+#### [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+**发布时间**: 2026-09-08 05:05
+
+#### [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+**发布时间**: 2026-09-08 03:22
+
+#### [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+**发布时间**: 2026-09-08 02:42
+
+#### [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+**发布时间**: 2026-09-08 02:14
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-08日刊](https://hex2077.dev/docs/2026-09/2026-09-08/)
+**发布时间**: 2026-09-08 03:16
 
 ---
 
