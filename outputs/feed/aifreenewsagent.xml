@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Sep 2026 09:25:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 09:29:52 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 01:05:00 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:08:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,91 +14,115 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“ONE FOR ALL”背后，帕西尼正在构建怎样的物理AI闭环？</title>
-      <link>https://www.leiphone.com/category/industrynews/PxJP8yUXOgv9VMnb.html</link>
-      <description>&lt;![CDATA[“ONE FOR ALL”背后，帕西尼正在构建怎样的物理AI闭环？]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PxJP8yUXOgv9VMnb.html</guid>
+      <title>Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>基元律动发布模型NeoHorse，探索Harness驱动的RSI路径</title>
-      <link>https://www.leiphone.com/category/industrynews/E7j0Qq5zBynzWv64.html</link>
-      <description>&lt;![CDATA[基元律动发布模型NeoHorse，探索Harness驱动的RSI路径]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/E7j0Qq5zBynzWv64.html</guid>
+      <title>Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/</link>
+      <description>&lt;![CDATA[Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent</title>
-      <link>https://www.leiphone.com/category/industrynews/1fUYK0dGQLzXssbl.html</link>
-      <description>&lt;![CDATA[硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 13:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/1fUYK0dGQLzXssbl.html</guid>
+      <title>Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/</link>
+      <description>&lt;![CDATA[Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>IFA观察：智能IoT进入「精耕」时代，萤石的技术储备开始兑现</title>
-      <link>https://www.leiphone.com/category/smarthome/lFpY44Qc1OIof1I6.html</link>
-      <description>&lt;![CDATA[IFA观察：智能IoT进入「精耕」时代，萤石的技术储备开始兑现]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/smarthome/lFpY44Qc1OIof1I6.html</guid>
+      <title>Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/</link>
+      <description>&lt;![CDATA[Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>在IFA重新认识安克：从技术底座到场景贯通</title>
-      <link>https://www.leiphone.com/category/weiwu/cz6jZP7DUUYFEcSl.html</link>
-      <description>&lt;![CDATA[在IFA重新认识安克：从技术底座到场景贯通]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/cz6jZP7DUUYFEcSl.html</guid>
+      <title>Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/</link>
+      <description>&lt;![CDATA[Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置</title>
-      <link>https://www.qbitai.com/2026/09/485854.html</link>
-      <description>&lt;![CDATA[感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485854.html</guid>
+      <title>Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/</link>
+      <description>&lt;![CDATA[Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>现场围观金融AI决赛，大厂挑人的逻辑我悟了</title>
-      <link>https://www.qbitai.com/2026/09/485794.html</link>
-      <description>&lt;![CDATA[现场围观金融AI决赛，大厂挑人的逻辑我悟了]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 05:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485794.html</guid>
+      <title>How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座</title>
-      <link>https://www.qbitai.com/2026/09/485784.html</link>
-      <description>&lt;![CDATA[深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 03:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485784.html</guid>
+      <title>How DiDi built intelligent contact center QA with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How DiDi built intelligent contact center QA with Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递</title>
-      <link>https://www.qbitai.com/2026/09/485630.html</link>
-      <description>&lt;![CDATA[深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485630.html</guid>
+      <title>AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注</title>
+      <link>https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html</link>
+      <description>&lt;![CDATA[AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>王云鹤创业后交出首个模型</title>
-      <link>https://www.qbitai.com/2026/09/485555.html</link>
-      <description>&lt;![CDATA[王云鹤创业后交出首个模型]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 02:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485555.html</guid>
+      <title>华为Mate XT 2 非凡大师发布：刘德华现身发布会再叙非凡精神</title>
+      <link>https://www.leiphone.com/category/industrynews/Sx5FX3SdH4cZd0nk.html</link>
+      <description>&lt;![CDATA[华为Mate XT 2 非凡大师发布：刘德华现身发布会再叙非凡精神]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Sx5FX3SdH4cZd0nk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-09-08日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-08/</link>
-      <description>&lt;![CDATA[2026-09-08日刊]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 03:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-08/</guid>
+      <title>中国品牌出海的「清洁机器人答案」</title>
+      <link>https://www.leiphone.com/category/weiwu/n2l3zx3Xv4mZK2Cr.html</link>
+      <description>&lt;![CDATA[中国品牌出海的「清洁机器人答案」]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/n2l3zx3Xv4mZK2Cr.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>CPU加速AI普及，GPU首次加AI，Arm为何把NPU留给伙伴？</title>
+      <link>https://www.leiphone.com/category/chipdesign/E3ZbypZiS817Q2G8.html</link>
+      <description>&lt;![CDATA[CPU加速AI普及，GPU首次加AI，Arm为何把NPU留给伙伴？]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chipdesign/E3ZbypZiS817Q2G8.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度搭子全面接入小度硬件，百度智能体进驻家庭空间</title>
+      <link>https://www.leiphone.com/category/industrynews/pCuoyLeIaqbo1J0L.html</link>
+      <description>&lt;![CDATA[百度搭子全面接入小度硬件，百度智能体进驻家庭空间]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pCuoyLeIaqbo1J0L.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
+      <description>&lt;![CDATA[Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
       <category>Ai</category>
     </item>
   </channel>
