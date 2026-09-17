@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Sep 2026 09:43:00 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 09:46:07 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 01:08:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:10:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,147 +14,131 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能</title>
-      <link>https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html</link>
-      <description>&lt;![CDATA[AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html</guid>
+      <title>Improving HCLS AI reasoning with open-source agent skills</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/</link>
+      <description>&lt;![CDATA[Improving HCLS AI reasoning with open-source agent skills]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与</title>
-      <link>https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html</link>
-      <description>&lt;![CDATA[Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html</guid>
+      <title>Fault tolerant distributed training on Amazon EKS using NVRx</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/</link>
+      <description>&lt;![CDATA[Fault tolerant distributed training on Amazon EKS using NVRx]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包 2.1 Pro模型更新，已接入豆包工作</title>
-      <link>https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html</link>
-      <description>&lt;![CDATA[豆包 2.1 Pro模型更新，已接入豆包工作]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html</guid>
+      <title>Optimizing agent system prompts with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Optimizing agent system prompts with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉</title>
-      <link>https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html</link>
-      <description>&lt;![CDATA[奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html</guid>
+      <title>Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/</link>
+      <description>&lt;![CDATA[Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir</title>
-      <link>https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html</link>
-      <description>&lt;![CDATA[王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html</guid>
+      <title>芯片从业者拆解OpenAI造芯，还能再快3个月？</title>
+      <link>https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html</link>
+      <description>&lt;![CDATA[芯片从业者拆解OpenAI造芯，还能再快3个月？]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导</title>
-      <link>https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html</link>
-      <description>&lt;![CDATA[510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html</guid>
+      <title>被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大</title>
+      <link>https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html</link>
+      <description>&lt;![CDATA[被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生</title>
-      <link>https://www.qbitai.com/2026/09/490760.html</link>
-      <description>&lt;![CDATA[AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490760.html</guid>
+      <title>2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」</title>
+      <link>https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html</link>
+      <description>&lt;![CDATA[2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代</title>
-      <link>https://www.qbitai.com/2026/09/490756.html</link>
-      <description>&lt;![CDATA[高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490756.html</guid>
+      <title>华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点</title>
+      <link>https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html</link>
+      <description>&lt;![CDATA[华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆</title>
+      <link>https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html</link>
+      <description>&lt;![CDATA[碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html</guid>
       <category>Ai</category>
     </item>
     <item>
       <title>基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用</title>
-      <link>https://www.qbitai.com/2026/09/490750.html</link>
+      <link>https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html</link>
       <description>&lt;![CDATA[基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490750.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>协同办公进入Agent时代，飞书+豆包工作跑在了最前面</title>
-      <link>https://www.qbitai.com/2026/09/490686.html</link>
-      <description>&lt;![CDATA[协同办公进入Agent时代，飞书+豆包工作跑在了最前面]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 07:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490686.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>西门子不造机器人，为什么机器人进厂的故事里总有它？</title>
-      <link>https://www.qbitai.com/2026/09/490416.html</link>
-      <description>&lt;![CDATA[西门子不造机器人，为什么机器人进厂的故事里总有它？]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 07:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490416.html</guid>
+      <pubDate>Wed, 16 Sep 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html</guid>
       <category>Ai</category>
     </item>
     <item>
       <title>清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单</title>
-      <link>https://www.qbitai.com/2026/09/490400.html</link>
+      <link>https://www.leiphone.com/category/industrynews/HQ8yti3MYREtevrN.html</link>
       <description>&lt;![CDATA[清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 06:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490400.html</guid>
+      <pubDate>Wed, 16 Sep 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/HQ8yti3MYREtevrN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首</title>
-      <link>https://www.qbitai.com/2026/09/490396.html</link>
-      <description>&lt;![CDATA[B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490396.html</guid>
+      <title>大促GMV猛涨500%：激光雕刻设备靠&quot;创意落地&quot;出海东南亚</title>
+      <link>https://www.leiphone.com/category/industrynews/wGbfydEJOj5JiHMR.html</link>
+      <description>&lt;![CDATA[大促GMV猛涨500%：激光雕刻设备靠&quot;创意落地&quot;出海东南亚]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wGbfydEJOj5JiHMR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>量子位2026人工智能年度榜单，正式启动！</title>
-      <link>https://www.qbitai.com/2026/09/490329.html</link>
-      <description>&lt;![CDATA[量子位2026人工智能年度榜单，正式启动！]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490329.html</guid>
+      <title>NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</link>
+      <description>&lt;![CDATA[NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」</title>
-      <link>https://www.qbitai.com/2026/09/490185.html</link>
-      <description>&lt;![CDATA[被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 03:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490185.html</guid>
+      <title>Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers</title>
+      <link>https://blogs.nvidia.com/blog/ai-energy-management-alliance/</link>
+      <description>&lt;![CDATA[Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-energy-management-alliance/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>把记忆交给CPU，大模型会变快</title>
-      <link>https://www.qbitai.com/2026/09/489724.html</link>
-      <description>&lt;![CDATA[把记忆交给CPU，大模型会变快]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 03:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489724.html</guid>
+      <title>通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队</title>
+      <link>https://www.qbitai.com/2026/09/490839.html</link>
+      <description>&lt;![CDATA[通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490839.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK</title>
-      <link>https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</link>
-      <description>&lt;![CDATA[University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-09-16日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-16/</link>
-      <description>&lt;![CDATA[2026-09-16日刊]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 03:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-16/</guid>
+      <title>New AI technique could make minimally invasive surgeries safer and more precise</title>
+      <link>https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916</link>
+      <description>&lt;![CDATA[New AI technique could make minimally invasive surgeries safer and more precise]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916</guid>
       <category>Ai</category>
     </item>
   </channel>
