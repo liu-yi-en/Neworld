@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Sep 2026 02:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 02:32:00 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 11:07:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:09:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,139 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地</title>
-      <link>https://www.qbitai.com/2026/09/499098.html</link>
-      <description>&lt;![CDATA[李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 00:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499098.html</guid>
+      <title>比预售再降2万，第二代家庭旗舰奕境X9正式上市，限时优惠价27.98万元起</title>
+      <link>https://www.leiphone.com/category/industrynews/qkE0oirHeUJTchON.html</link>
+      <description>&lt;![CDATA[比预售再降2万，第二代家庭旗舰奕境X9正式上市，限时优惠价27.98万元起]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qkE0oirHeUJTchON.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路</title>
-      <link>https://www.qbitai.com/2026/09/498877.html</link>
-      <description>&lt;![CDATA[工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 12:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498877.html</guid>
+      <title>靳玉志：华为乾崑智驾研发从180亿上调到190多亿</title>
+      <link>https://www.leiphone.com/category/industrynews/ppM6ntb0VaApQsN7.html</link>
+      <description>&lt;![CDATA[靳玉志：华为乾崑智驾研发从180亿上调到190多亿]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ppM6ntb0VaApQsN7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Grok 4.7 is now available on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Grok 4.7 is now available on Amazon Bedrock]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 22:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/</guid>
+      <title>动易科技刘晨澔：人形机器人羽毛球对拉 40 拍背后的分层革命 | IROS 2026</title>
+      <link>https://www.leiphone.com/category/private/zoJ7chGiDi7IPHvN.html</link>
+      <description>&lt;![CDATA[动易科技刘晨澔：人形机器人羽毛球对拉 40 拍背后的分层革命 | IROS 2026]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/zoJ7chGiDi7IPHvN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing Claude Sonnet 5.5 on AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/</link>
-      <description>&lt;![CDATA[Introducing Claude Sonnet 5.5 on AWS]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 18:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/</guid>
+      <title>希音上市后的第一份财报，回答了两个关键问题</title>
+      <link>https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html</link>
+      <description>&lt;![CDATA[希音上市后的第一份财报，回答了两个关键问题]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/</link>
-      <description>&lt;![CDATA[Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/</guid>
+      <title>华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”</title>
+      <link>https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html</link>
+      <description>&lt;![CDATA[华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Generate images and video with vLLM-Omni on SageMaker AI – Part 2</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/</link>
-      <description>&lt;![CDATA[Generate images and video with vLLM-Omni on SageMaker AI – Part 2]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/</guid>
+      <title>从创意落地到创业起步，嘉立创延长AI硬件创新支持链条</title>
+      <link>https://www.leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html</link>
+      <description>&lt;![CDATA[从创意落地到创业起步，嘉立创延长AI硬件创新支持链条]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Implementing synthetic monitoring using Amazon Nova Act</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/</link>
-      <description>&lt;![CDATA[Implementing synthetic monitoring using Amazon Nova Act]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/</guid>
+      <title>正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展</title>
+      <link>https://www.qbitai.com/2026/09/499239.html</link>
+      <description>&lt;![CDATA[正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499239.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Automating Amazon Textract adapter lifecycle management across accounts</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/</link>
-      <description>&lt;![CDATA[Automating Amazon Textract adapter lifecycle management across accounts]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/</guid>
+      <title>精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！</title>
+      <link>https://www.qbitai.com/2026/09/499188.html</link>
+      <description>&lt;![CDATA[精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499188.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨上汽集团高层换防：俞经民升职，尚界一把手换人</title>
-      <link>https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html</link>
-      <description>&lt;![CDATA[独家丨上汽集团高层换防：俞经民升职，尚界一把手换人]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html</guid>
+      <title>OpenAI因新模型太强叫停发布</title>
+      <link>https://www.qbitai.com/2026/09/499140.html</link>
+      <description>&lt;![CDATA[OpenAI因新模型太强叫停发布]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499140.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>解读丨吉利入股蔚来能源，李斌的换电生意有了新算法</title>
-      <link>https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html</link>
-      <description>&lt;![CDATA[解读丨吉利入股蔚来能源，李斌的换电生意有了新算法]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html</guid>
+      <title>成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元</title>
+      <link>https://www.qbitai.com/2026/09/499135.html</link>
+      <description>&lt;![CDATA[成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 07:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499135.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场</title>
-      <link>https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html</link>
-      <description>&lt;![CDATA[中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 20:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>海尔洗空气空调AI科技将巴马好空气搬回家</title>
-      <link>https://www.leiphone.com/category/industrynews/q7QGrV66x125kB8m.html</link>
-      <description>&lt;![CDATA[海尔洗空气空调AI科技将巴马好空气搬回家]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 19:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/q7QGrV66x125kB8m.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录</title>
-      <link>https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html</link>
-      <description>&lt;![CDATA[“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 19:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>售价25.98万-38.98万元，智界RX正式上市，为驾驶而生，为价值而造</title>
-      <link>https://www.leiphone.com/category/industrynews/mBZRTV2kKjzdqqJZ.html</link>
-      <description>&lt;![CDATA[售价25.98万-38.98万元，智界RX正式上市，为驾驶而生，为价值而造]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mBZRTV2kKjzdqqJZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里Qwen-Audio-3.1-TTS拿下权威语音榜全球冠军</title>
-      <link>https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html</link>
-      <description>&lt;![CDATA[阿里Qwen-Audio-3.1-TTS拿下权威语音榜全球冠军]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建</title>
-      <link>https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html</link>
-      <description>&lt;![CDATA[枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全新一代智己LS6上市，起售价19.79万元</title>
-      <link>https://www.leiphone.com/category/transportation/ZnEoArCRJDVa3yzO.html</link>
-      <description>&lt;![CDATA[全新一代智己LS6上市，起售价19.79万元]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/ZnEoArCRJDVa3yzO.html</guid>
+      <title>2026-09-29日刊</title>
+      <link>https://hex2077.dev/docs/2026-09/2026-09-29/</link>
+      <description>&lt;![CDATA[2026-09-29日刊]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-29/</guid>
       <category>Ai</category>
     </item>
   </channel>
