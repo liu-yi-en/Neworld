@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Sep 2026 01:51:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 01:53:42 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 10:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:57:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,123 +14,211 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amazon Bedrock expands Claude model availability to in-country inferencing in India</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/</link>
-      <description>&lt;![CDATA[Amazon Bedrock expands Claude model availability to in-country inferencing in India]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 01:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/</guid>
+      <title>Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口</title>
+      <link>https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html</link>
+      <description>&lt;![CDATA[Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/</link>
-      <description>&lt;![CDATA[Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 01:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/</guid>
+      <title>2000座高速闪充站落成，比亚迪如何扛住国庆车流？</title>
+      <link>https://www.leiphone.com/category/transportation/GE7BYDthsIqb4nA8.html</link>
+      <description>&lt;![CDATA[2000座高速闪充站落成，比亚迪如何扛住国庆车流？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/GE7BYDthsIqb4nA8.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/</guid>
+      <title>实测 Qwen-3.8 与 GLM-5.3 的 Flash 版：谁能让我提前下班半小时？</title>
+      <link>https://www.leiphone.com/category/yanxishe/Dp2FW4Pb6iLUvdhf.html</link>
+      <description>&lt;![CDATA[实测 Qwen-3.8 与 GLM-5.3 的 Flash 版：谁能让我提前下班半小时？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/Dp2FW4Pb6iLUvdhf.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Prompt engineering fundamentals for Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/</link>
-      <description>&lt;![CDATA[Prompt engineering fundamentals for Amazon Quick]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/</guid>
+      <title>从 Codex Harness 开源，看 AI 公司的护城河是什么？</title>
+      <link>https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html</link>
+      <description>&lt;![CDATA[从 Codex Harness 开源，看 AI 公司的护城河是什么？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Prompt engineering by Quick component: Patterns and pitfalls</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/</link>
-      <description>&lt;![CDATA[Prompt engineering by Quick component: Patterns and pitfalls]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/</guid>
+      <title>全网最硬核 OpenClaw 2.0 实测：从 ToC 到 ToB 的试探，Agent 网关能重塑工作流边界吗？</title>
+      <link>https://www.leiphone.com/category/yanxishe/7bPyLlZDfncTOw5B.html</link>
+      <description>&lt;![CDATA[全网最硬核 OpenClaw 2.0 实测：从 ToC 到 ToB 的试探，Agent 网关能重塑工作流边界吗？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/7bPyLlZDfncTOw5B.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/</guid>
+      <title>5500颗光引擎如何撑起4096卡超节点？华为NPO的故事还没讲完</title>
+      <link>https://www.leiphone.com/category/chips/kgknicdWxIIoulL9.html</link>
+      <description>&lt;![CDATA[5500颗光引擎如何撑起4096卡超节点？华为NPO的故事还没讲完]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/kgknicdWxIIoulL9.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Condé Nast built multimodal video discovery with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/</link>
-      <description>&lt;![CDATA[How Condé Nast built multimodal video discovery with Amazon Bedrock]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/</guid>
+      <title>对比 Codex，免费的 AgnesCode 也能在底层算子优化任务中打得有来有回</title>
+      <link>https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html</link>
+      <description>&lt;![CDATA[对比 Codex，免费的 AgnesCode 也能在底层算子优化任务中打得有来有回]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了</title>
-      <link>https://www.qbitai.com/2026/09/499246.html</link>
-      <description>&lt;![CDATA[OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 23:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499246.html</guid>
+      <title>从海拉鲁到现实世界：视频模型如何理解「变化」</title>
+      <link>https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html</link>
+      <description>&lt;![CDATA[从海拉鲁到现实世界：视频模型如何理解「变化」]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1000台售罄后又被做成&quot;韩立同款&quot;，元点机器人如何把具身智能做进家庭？</title>
-      <link>https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html</link>
-      <description>&lt;![CDATA[1000台售罄后又被做成&quot;韩立同款&quot;，元点机器人如何把具身智能做进家庭？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 19:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html</guid>
+      <title>在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻</title>
+      <link>https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html</link>
+      <description>&lt;![CDATA[在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>重新定义一款FPS的上限</title>
-      <link>https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html</link>
-      <description>&lt;![CDATA[重新定义一款FPS的上限]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html</guid>
+      <title>全球开源前二，阶跃终于回来了</title>
+      <link>https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html</link>
+      <description>&lt;![CDATA[全球开源前二，阶跃终于回来了]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>北京现代新车上市，限时售价9.99万元起</title>
-      <link>https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html</link>
-      <description>&lt;![CDATA[北京现代新车上市，限时售价9.99万元起]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html</guid>
+      <title>世界制造业大会丨国轩高科重磅发布低空飞行高功率电池等三大创新成果</title>
+      <link>https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html</link>
+      <description>&lt;![CDATA[世界制造业大会丨国轩高科重磅发布低空飞行高功率电池等三大创新成果]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从 App 到服务，腾讯 Marvis 为什么认准「管家」</title>
-      <link>https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html</link>
-      <description>&lt;![CDATA[从 App 到服务，腾讯 Marvis 为什么认准「管家」]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html</guid>
+      <title>越大越强，不再是 LLM 的专利：PixVerse R2 攻克实时世界模型 Scaling 难题</title>
+      <link>https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html</link>
+      <description>&lt;![CDATA[越大越强，不再是 LLM 的专利：PixVerse R2 攻克实时世界模型 Scaling 难题]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Diffusion Controller unifies and simplifies AI image generation</title>
-      <link>https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/</link>
-      <description>&lt;![CDATA[How Diffusion Controller unifies and simplifies AI image generation]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/</guid>
+      <title>GPT-6 Astra 上手体验：花了一周，它真在电脑里建了座曼哈顿！</title>
+      <link>https://www.leiphone.com/category/yanxishe/dlrewTdG7xNo2gFo.html</link>
+      <description>&lt;![CDATA[GPT-6 Astra 上手体验：花了一周，它真在电脑里建了座曼哈顿！]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/dlrewTdG7xNo2gFo.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-      <description>&lt;![CDATA[NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <title>Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？</title>
+      <link>https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html</link>
+      <description>&lt;![CDATA[Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-      <description>&lt;![CDATA[Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+      <title>我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？</title>
+      <link>https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html</link>
+      <description>&lt;![CDATA[我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>拆解 WorkBuddy、千问办公和豆包工作，它们其实不是同一种产品</title>
+      <link>https://www.leiphone.com/category/yanxishe/d4mykzxmMYWWwHNk.html</link>
+      <description>&lt;![CDATA[拆解 WorkBuddy、千问办公和豆包工作，它们其实不是同一种产品]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/d4mykzxmMYWWwHNk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>实测 Seedance 2.5 vs 可灵 3.0，谁能让我们无痛当上视频导演？</title>
+      <link>https://www.leiphone.com/category/academic/Fsil8u9HyNOPW4Du.html</link>
+      <description>&lt;![CDATA[实测 Seedance 2.5 vs 可灵 3.0，谁能让我们无痛当上视频导演？]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/Fsil8u9HyNOPW4Du.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从 Dreamore 到 CreaXene：AI 生成工具正在走向创作工作流</title>
+      <link>https://www.leiphone.com/category/industrynews/b7WL9zxqi4D4icMv.html</link>
+      <description>&lt;![CDATA[从 Dreamore 到 CreaXene：AI 生成工具正在走向创作工作流]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/b7WL9zxqi4D4icMv.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>具身智能不只在地上跑：给无人机装上机械臂，它们要去天上「拧螺栓」了 | IROS 2026</title>
+      <link>https://www.leiphone.com/category/academic/XSVcStujND4eWLFZ.html</link>
+      <description>&lt;![CDATA[具身智能不只在地上跑：给无人机装上机械臂，它们要去天上「拧螺栓」了 | IROS 2026]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/XSVcStujND4eWLFZ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从三维视觉到世界模型：空间智能为何成为 AI 走向物理世界的共同主线？| ECCV 2026复盘</title>
+      <link>https://www.leiphone.com/category/academic/hxpVB01n8UMq6NDS.html</link>
+      <description>&lt;![CDATA[从三维视觉到世界模型：空间智能为何成为 AI 走向物理世界的共同主线？| ECCV 2026复盘]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/hxpVB01n8UMq6NDS.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活</title>
+      <link>https://www.qbitai.com/2026/09/499592.html</link>
+      <description>&lt;![CDATA[Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499592.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！</title>
+      <link>https://www.qbitai.com/2026/09/499493.html</link>
+      <description>&lt;![CDATA[刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499493.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec</title>
+      <link>https://www.qbitai.com/2026/09/499308.html</link>
+      <description>&lt;![CDATA[DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 05:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499308.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了</title>
+      <link>https://www.qbitai.com/2026/09/499280.html</link>
+      <description>&lt;![CDATA[36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 04:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499280.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态</title>
+      <link>https://www.qbitai.com/2026/09/499263.html</link>
+      <description>&lt;![CDATA[DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 02:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499263.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-09-30日刊</title>
+      <link>https://hex2077.dev/docs/2026-09/2026-09-30/</link>
+      <description>&lt;![CDATA[2026-09-30日刊]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 02:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-30/</guid>
       <category>Ai</category>
     </item>
   </channel>
