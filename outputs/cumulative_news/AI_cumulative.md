@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-01 01:49
+**最后更新时间**: 2026-10-02 02:02
+
+---
+
+## 🆕 最新更新 (2026-10-02 02:02)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/)
+**发布时间**: 2026-10-01 23:44
+
+#### [Fall Into 25 New Games on GeForce NOW This October](https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/)
+**发布时间**: 2026-10-01 13:00
+
+#### [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/)
+**发布时间**: 2026-10-01 13:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)
+**发布时间**: 2026-10-01 19:49
+
+#### [Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors](https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/)
+**发布时间**: 2026-10-01 17:34
+
+#### [Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS](https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/)
+**发布时间**: 2026-10-01 16:51
+
+#### [Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows](https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/)
+**发布时间**: 2026-10-01 16:40
+
+#### [Implementing Multi-Environment Access for Claude Platform on AWS](https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/)
+**发布时间**: 2026-10-01 16:32
+
+#### [Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter](https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/)
+**发布时间**: 2026-10-01 16:28
+
+#### [How uniopen customized Amazon Nova to their retail moderation policies for production deployment](https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/)
+**发布时间**: 2026-10-01 15:33
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New tool lets users repair AI-generated 3D models, then fabricate them just the way they want](https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001)
+**发布时间**: 2026-10-01 18:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/499812.html)
+**发布时间**: 2026-10-01 15:06
+
+#### [谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让](https://www.qbitai.com/2026/10/499663.html)
+**发布时间**: 2026-10-01 15:02
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
+**发布时间**: 2026-10-01 15:01
 
 ---
 
