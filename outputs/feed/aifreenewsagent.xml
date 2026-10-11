@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 01:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 01:35:47 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 11:13:00 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:15:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors</title>
-      <link>https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/</link>
-      <description>&lt;![CDATA[Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 22:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/</guid>
+      <title>OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context</title>
+      <link>https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</link>
+      <description>&lt;![CDATA[OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
-      <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
-      <description>&lt;![CDATA[When the Safety Test Became the Threat: The Machine That Found Its Own Way Out]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</guid>
+      <title>王的猜想，刚刚扩展到四维</title>
+      <link>https://www.qbitai.com/2026/10/502584.html</link>
+      <description>&lt;![CDATA[王的猜想，刚刚扩展到四维]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502584.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车</title>
-      <link>https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html</link>
-      <description>&lt;![CDATA[字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 19:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html</guid>
+      <title>硅谷AI现状：谁有算力谁是爹</title>
+      <link>https://www.qbitai.com/2026/10/502585.html</link>
+      <description>&lt;![CDATA[硅谷AI现状：谁有算力谁是爹]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502585.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>下架8个月，GPT-4o的拯救行动居然还在继续</title>
+      <link>https://www.qbitai.com/2026/10/502550.html</link>
+      <description>&lt;![CDATA[下架8个月，GPT-4o的拯救行动居然还在继续]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502550.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
+      <link>https://www.qbitai.com/2026/10/502544.html</link>
+      <description>&lt;![CDATA[DeepSeek Bot来了！民间版，DSH装个插件就能用]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 03:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502544.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-11日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-11/</link>
+      <description>&lt;![CDATA[2026-10-11日刊]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-11/</guid>
       <category>Ai</category>
     </item>
   </channel>
