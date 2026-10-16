@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-16 01:01
+**最后更新时间**: 2026-10-16 09:30
+
+---
+
+## 🆕 最新更新 (2026-10-16 09:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温](https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html)
+**发布时间**: 2026-10-16 12:32
+
+#### [医美消费走向专业化、个性化，美团发布2026北极星医美榜](https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html)
+**发布时间**: 2026-10-16 12:10
+
+#### [Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准](https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html)
+**发布时间**: 2026-10-16 10:37
+
+#### [阿里千问上车宝马iX3](https://www.leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html)
+**发布时间**: 2026-10-16 10:36
+
+#### [无人机表演十年后，大漠大想做「会干活」的机群](https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html)
+**发布时间**: 2026-10-16 10:31
+
+#### [付费用户占比超 20%，电商商家「涌入」千问办公](https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html)
+**发布时间**: 2026-10-16 10:24
+
+#### [5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了](https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html)
+**发布时间**: 2026-10-16 07:55
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index](https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/)
+**发布时间**: 2026-10-16 06:26
+
+#### [Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context](https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/)
+**发布时间**: 2026-10-16 02:26
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-16日刊](https://hex2077.dev/docs/2026-10/2026-10-16/)
+**发布时间**: 2026-10-16 05:52
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
+**发布时间**: 2026-10-16 01:44
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相](https://www.qbitai.com/2026/10/503645.html)
+**发布时间**: 2026-10-15 10:07
+
+#### [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.qbitai.com/2026/10/503640.html)
+**发布时间**: 2026-10-15 09:43
+
+#### [量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架](https://www.qbitai.com/2026/10/503614.html)
+**发布时间**: 2026-10-15 08:48
+
+#### [2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者](https://www.qbitai.com/2026/10/503611.html)
+**发布时间**: 2026-10-15 08:16
+
+#### [这个双十一，百灵新模型干起活来不烧心](https://www.qbitai.com/2026/10/503532.html)
+**发布时间**: 2026-10-15 07:35
+
+#### [AI时代，商学院这样培养未来商业领袖](https://www.qbitai.com/2026/10/503504.html)
+**发布时间**: 2026-10-15 07:22
+
+#### [基元律动宣布开发者入驻超30万，开启双11预售福利](https://www.qbitai.com/2026/10/503501.html)
+**发布时间**: 2026-10-15 06:59
+
+#### [苹果AI国内上线，阿里百度浮出水面](https://www.qbitai.com/2026/10/503497.html)
+**发布时间**: 2026-10-15 06:52
+
+#### [前华为小艺大模型负责人创业，押注“主动式物理AI”](https://www.qbitai.com/2026/10/503446.html)
+**发布时间**: 2026-10-15 06:35
+
+#### [刚刚，苹果正式迈入5万亿美元时代](https://www.qbitai.com/2026/10/503434.html)
+**发布时间**: 2026-10-15 05:36
 
 ---
 
