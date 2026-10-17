@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-16 09:30
+**最后更新时间**: 2026-10-17 01:04
+
+---
+
+## 🆕 最新更新 (2026-10-17 01:04)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents](https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/)
+**发布时间**: 2026-10-17 00:09
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%](https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html)
+**发布时间**: 2026-10-16 20:50
+
+#### [JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”](https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html)
+**发布时间**: 2026-10-16 20:17
+
+#### [推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见](https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html)
+**发布时间**: 2026-10-16 19:33
+
+#### [长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报](https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html)
+**发布时间**: 2026-10-16 18:39
+
+#### [京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉](https://www.leiphone.com/category/industrynews/s92jb2hngPJlF9Gj.html)
+**发布时间**: 2026-10-16 17:02
+
+#### [中控技术接入千问办公，打造流程工业领域AI Native标杆企业](https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html)
+**发布时间**: 2026-10-16 15:51
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-16 20:48
+
+#### [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
+**发布时间**: 2026-10-16 15:23
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/)
+**发布时间**: 2026-10-16 18:11
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Fostering community amid Kendall Square’s innovation](https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016)
+**发布时间**: 2026-10-16 12:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
+**发布时间**: 2026-10-16 00:00
 
 ---
 
