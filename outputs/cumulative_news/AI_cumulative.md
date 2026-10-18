@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-18 00:40
+**最后更新时间**: 2026-10-18 09:20
+
+---
+
+## 🆕 最新更新 (2026-10-18 09:20)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众](https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html)
+**发布时间**: 2026-10-18 12:47
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models](https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/)
+**发布时间**: 2026-10-18 05:56
+
+#### [Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI](https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/)
+**发布时间**: 2026-10-18 04:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-18日刊](https://hex2077.dev/docs/2026-10/2026-10-18/)
+**发布时间**: 2026-10-18 02:58
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Giving AI a “crystal clear” view of the materials world](https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018)
+**发布时间**: 2026-10-18 00:00
 
 ---
 
