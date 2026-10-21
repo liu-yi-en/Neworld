@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-21 01:18
+**最后更新时间**: 2026-10-21 09:50
+
+---
+
+## 🆕 最新更新 (2026-10-21 09:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？](https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html)
+**发布时间**: 2026-10-21 14:53
+
+#### [一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？](https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html)
+**发布时间**: 2026-10-21 14:29
+
+#### [当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？](https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html)
+**发布时间**: 2026-10-21 14:14
+
+#### [双11大促火热开局，千川多重产品助力生意爆发](https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html)
+**发布时间**: 2026-10-21 13:13
+
+#### [大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了](https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html)
+**发布时间**: 2026-10-21 12:09
+
+#### [不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」](https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html)
+**发布时间**: 2026-10-21 11:07
+
+#### [从安防到工业，海康威视底气从何而来](https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html)
+**发布时间**: 2026-10-21 10:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
+**发布时间**: 2026-10-21 09:30
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK](https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/)
+**发布时间**: 2026-10-21 06:03
+
+#### [Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets](https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/)
+**发布时间**: 2026-10-21 04:33
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-21日刊](https://hex2077.dev/docs/2026-10/2026-10-21/)
+**发布时间**: 2026-10-21 03:18
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人](https://www.qbitai.com/2026/10/504608.html)
+**发布时间**: 2026-10-21 02:37
+
+#### [理想宣布：电池自燃报废赔新车！自研6年后有底气了](https://www.qbitai.com/2026/10/504551.html)
+**发布时间**: 2026-10-21 01:04
 
 ---
 
