@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Oct 2026 09:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 09:57:44 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 01:13:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:16:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,171 +14,227 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>火山引擎启动Seedance 2.5 4K模型首批企业试用，定向供应全球20家工作室和导演</title>
-      <link>https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html</link>
-      <description>&lt;![CDATA[火山引擎启动Seedance 2.5 4K模型首批企业试用，定向供应全球20家工作室和导演]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html</guid>
+      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+      <description>&lt;![CDATA[Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 22:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>靳玉志：自动驾驶将重构新的出行方式</title>
-      <link>https://www.leiphone.com/category/industrynews/PlEsyIhjrOGsxbYo.html</link>
-      <description>&lt;![CDATA[靳玉志：自动驾驶将重构新的出行方式]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PlEsyIhjrOGsxbYo.html</guid>
+      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+      <description>&lt;![CDATA[OlmoEarth v1.3: State-of-the-art embeddings for the whole planet]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身记忆赛道持续升温，长记忆迎来新 SOTA</title>
-      <link>https://www.leiphone.com/category/ai/jvyFCFgqJxJtOvjo.html</link>
-      <description>&lt;![CDATA[具身记忆赛道持续升温，长记忆迎来新 SOTA]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/jvyFCFgqJxJtOvjo.html</guid>
+      <title>当车企抢着自研电池，智己为什么反着来？</title>
+      <link>https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html</link>
+      <description>&lt;![CDATA[当车企抢着自研电池，智己为什么反着来？]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球算力价格指数启动 九章云极核心共建算力定价基准</title>
-      <link>https://www.leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html</link>
-      <description>&lt;![CDATA[全球算力价格指数启动 九章云极核心共建算力定价基准]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html</guid>
+      <title>百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径</title>
+      <link>https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html</link>
+      <description>&lt;![CDATA[百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 20:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>10-50万级全覆盖，千里智驾量产进入放量期</title>
-      <link>https://www.leiphone.com/category/transportation/yM0HZ6Vj1HWAptLb.html</link>
-      <description>&lt;![CDATA[10-50万级全覆盖，千里智驾量产进入放量期]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/yM0HZ6Vj1HWAptLb.html</guid>
+      <title>深度解读全球 72 小时安全风暴：PHP 事件只是第一枪</title>
+      <link>https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html</link>
+      <description>&lt;![CDATA[深度解读全球 72 小时安全风暴：PHP 事件只是第一枪]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>好逛又好买！抖音商城双11热卖商品榜发布</title>
-      <link>https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html</link>
-      <description>&lt;![CDATA[好逛又好买！抖音商城双11热卖商品榜发布]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 09:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html</guid>
+      <title>超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办</title>
+      <link>https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html</link>
+      <description>&lt;![CDATA[超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Ensemble forecasting with IBM Granite time-series models</title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <description>&lt;![CDATA[Ensemble forecasting with IBM Granite time-series models]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+      <title>又一国产决策模型发布！准确率超过微软和Jev等决策模型</title>
+      <link>https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</link>
+      <description>&lt;![CDATA[又一国产决策模型发布！准确率超过微软和Jev等决策模型]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先</title>
-      <link>https://www.qbitai.com/2026/10/504841.html</link>
-      <description>&lt;![CDATA[特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504841.html</guid>
+      <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
+      <link>https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html</link>
+      <description>&lt;![CDATA[《2026千川乘方投放宝典》出炉！助力商家迎战双11]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布</title>
-      <link>https://www.qbitai.com/2026/10/504832.html</link>
-      <description>&lt;![CDATA[既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504832.html</guid>
+      <title>独家丨灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资</title>
+      <link>https://www.leiphone.com/category/weiwu/ofJthQTqIHVZaF0M.html</link>
+      <description>&lt;![CDATA[独家丨灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ofJthQTqIHVZaF0M.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谁在给OpenAI供应具身数据？</title>
-      <link>https://www.qbitai.com/2026/10/504800.html</link>
-      <description>&lt;![CDATA[谁在给OpenAI供应具身数据？]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504800.html</guid>
+      <title>Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人</title>
+      <link>https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html</link>
+      <description>&lt;![CDATA[Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</title>
-      <link>https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/</link>
-      <description>&lt;![CDATA[IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/</guid>
+      <title>独家丨徕芬副总联手苹果核心研发，创业移动出行咖啡智能硬件</title>
+      <link>https://www.leiphone.com/category/weiwu/kcT0Gob16vBuSwSl.html</link>
+      <description>&lt;![CDATA[独家丨徕芬副总联手苹果核心研发，创业移动出行咖啡智能硬件]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/kcT0Gob16vBuSwSl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method</title>
-      <link>https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/</link>
-      <description>&lt;![CDATA[Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 04:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/</guid>
+      <title>Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优</title>
+      <link>https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html</link>
+      <description>&lt;![CDATA[Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU</title>
-      <link>https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/</link>
-      <description>&lt;![CDATA[A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/</guid>
+      <title>千问AI硬件：一副眼镜的「越界」，与一个Agent的野心</title>
+      <link>https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html</link>
+      <description>&lt;![CDATA[千问AI硬件：一副眼镜的「越界」，与一个Agent的野心]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels</title>
-      <link>https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/</link>
-      <description>&lt;![CDATA[NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 03:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/</guid>
+      <title>Amazon Polly delivers a major upgrade to its Generative engine</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</link>
+      <description>&lt;![CDATA[Amazon Polly delivers a major upgrade to its Generative engine]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence</title>
-      <link>https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</link>
-      <description>&lt;![CDATA[Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</guid>
+      <title>How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</link>
+      <description>&lt;![CDATA[How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models</title>
-      <link>https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/</link>
-      <description>&lt;![CDATA[NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/</guid>
+      <title>Announcing new ways to customize models with SageMaker AI, without managing GPUs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</link>
+      <description>&lt;![CDATA[Announcing new ways to customize models with SageMaker AI, without managing GPUs]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Companies Are Using NVIDIA DSX to Break the Power Bottleneck</title>
-      <link>https://blogs.nvidia.com/blog/dsx-power/</link>
-      <description>&lt;![CDATA[How Companies Are Using NVIDIA DSX to Break the Power Bottleneck]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/dsx-power/</guid>
+      <title>Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/</link>
+      <description>&lt;![CDATA[Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations</title>
-      <link>https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</link>
-      <description>&lt;![CDATA[NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</guid>
+      <title>Deploy AI in a HIPAA-eligible environment with Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/</link>
+      <description>&lt;![CDATA[Deploy AI in a HIPAA-eligible environment with Amazon Quick]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction</title>
-      <link>https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</link>
-      <description>&lt;![CDATA[Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</guid>
+      <title>Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Open Models Power a New Wave of European Public Sector Projects</title>
-      <link>https://blogs.nvidia.com/blog/european-public-sector-open-models/</link>
-      <description>&lt;![CDATA[NVIDIA Open Models Power a New Wave of European Public Sector Projects]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/european-public-sector-open-models/</guid>
+      <title>Stop guessing auto scaling targets for TTS on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Stop guessing auto scaling targets for TTS on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-22日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-22/</link>
-      <description>&lt;![CDATA[2026-10-22日刊]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 02:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-22/</guid>
+      <title>How Rescale built an AI triage agent with Strands Agents and AI-DLC</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</link>
+      <description>&lt;![CDATA[How Rescale built an AI triage agent with Strands Agents and AI-DLC]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</title>
+      <link>https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</link>
+      <description>&lt;![CDATA[Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0</title>
+      <link>https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</link>
+      <description>&lt;![CDATA[Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores</title>
+      <link>https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/</link>
+      <description>&lt;![CDATA[Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing</title>
+      <link>https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/</link>
+      <description>&lt;![CDATA[A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>This design software reimagines everyday objects as self-aware devices</title>
+      <link>https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022</link>
+      <description>&lt;![CDATA[This design software reimagines everyday objects as self-aware devices]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories</title>
+      <link>https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</link>
+      <description>&lt;![CDATA[NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</link>
+      <description>&lt;![CDATA[Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</guid>
       <category>Ai</category>
     </item>
   </channel>
