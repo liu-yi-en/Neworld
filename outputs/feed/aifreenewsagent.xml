@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 01:50:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 01:52:11 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 10:13:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:15:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,115 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%</title>
-      <link>https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</link>
-      <description>&lt;![CDATA[腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</guid>
+      <title>GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型</title>
+      <link>https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html</link>
+      <description>&lt;![CDATA[GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台</title>
-      <link>https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</link>
-      <description>&lt;![CDATA[即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</guid>
+      <title>10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看</title>
+      <link>https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html</link>
+      <description>&lt;![CDATA[10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</link>
-      <description>&lt;![CDATA[Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</guid>
+      <title>OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”</title>
+      <link>https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html</link>
+      <description>&lt;![CDATA[OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</guid>
+      <title>源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线</title>
+      <link>https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html</link>
+      <description>&lt;![CDATA[源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</link>
-      <description>&lt;![CDATA[Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</guid>
+      <title>国家人工智能应用中试基地（家居家电方向）在青启动</title>
+      <link>https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html</link>
+      <description>&lt;![CDATA[国家人工智能应用中试基地（家居家电方向）在青启动]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 13:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</title>
-      <link>https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</link>
-      <description>&lt;![CDATA[Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</guid>
+      <title>上新风向标，抖音商城双 11 年度新品必买榜出炉</title>
+      <link>https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html</link>
+      <description>&lt;![CDATA[上新风向标，抖音商城双 11 年度新品必买榜出炉]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>At New York Climate Week 2026, MIT connects with a global network</title>
-      <link>https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</link>
-      <description>&lt;![CDATA[At New York Climate Week 2026, MIT connects with a global network]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</guid>
+      <title>新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”</title>
+      <link>https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html</link>
+      <description>&lt;![CDATA[新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
+      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
+      <description>&lt;![CDATA[蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」</title>
+      <link>https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html</link>
+      <description>&lt;![CDATA[iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model</title>
+      <link>https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</link>
+      <description>&lt;![CDATA[vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing</title>
+      <link>https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/</link>
+      <description>&lt;![CDATA[Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 05:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
+      <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
+      <description>&lt;![CDATA[OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 02:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会</title>
+      <link>https://www.qbitai.com/2026/10/505580.html</link>
+      <description>&lt;![CDATA[钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 03:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505580.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-27日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-27/</link>
+      <description>&lt;![CDATA[2026-10-27日刊]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 02:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-27/</guid>
       <category>Ai</category>
     </item>
   </channel>

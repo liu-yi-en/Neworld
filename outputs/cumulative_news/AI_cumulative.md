@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-27 01:50
+**最后更新时间**: 2026-10-27 10:13
+
+---
+
+## 🆕 最新更新 (2026-10-27 10:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型](https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html)
+**发布时间**: 2026-10-27 15:43
+
+#### [10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看](https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html)
+**发布时间**: 2026-10-27 14:25
+
+#### [OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”](https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html)
+**发布时间**: 2026-10-27 14:21
+
+#### [源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线](https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html)
+**发布时间**: 2026-10-27 14:15
+
+#### [国家人工智能应用中试基地（家居家电方向）在青启动](https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html)
+**发布时间**: 2026-10-27 13:55
+
+#### [上新风向标，抖音商城双 11 年度新品必买榜出炉](https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html)
+**发布时间**: 2026-10-27 10:09
+
+#### [新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”](https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html)
+**发布时间**: 2026-10-27 10:05
+
+#### [蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了](https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html)
+**发布时间**: 2026-10-27 09:55
+
+#### [iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」](https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html)
+**发布时间**: 2026-10-27 08:20
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model](https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/)
+**发布时间**: 2026-10-27 05:50
+
+#### [Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing](https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/)
+**发布时间**: 2026-10-27 05:26
+
+#### [OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
+**发布时间**: 2026-10-27 02:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.qbitai.com/2026/10/505580.html)
+**发布时间**: 2026-10-27 03:23
+
+#### [刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司](https://www.qbitai.com/2026/10/505551.html)
+**发布时间**: 2026-10-26 16:06
+
+#### [AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验](https://www.qbitai.com/2026/10/505539.html)
+**发布时间**: 2026-10-26 09:46
+
+#### [OpenAI开始断网训练最强模型：“安全起见”](https://www.qbitai.com/2026/10/505529.html)
+**发布时间**: 2026-10-26 09:37
+
+#### [A社联创演讲：AI奇点已来](https://www.qbitai.com/2026/10/505521.html)
+**发布时间**: 2026-10-26 09:35
+
+#### [NeoLab第一个商业模式：转售GPU](https://www.qbitai.com/2026/10/505478.html)
+**发布时间**: 2026-10-26 09:31
+
+#### [中国近50%的新云生意，竟被这家公司包揽！](https://www.qbitai.com/2026/10/505454.html)
+**发布时间**: 2026-10-26 09:02
+
+#### [从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”](https://www.qbitai.com/2026/10/505443.html)
+**发布时间**: 2026-10-26 08:38
+
+#### [长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会](https://www.qbitai.com/2026/10/505436.html)
+**发布时间**: 2026-10-26 08:04
+
+#### [趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付](https://www.qbitai.com/2026/10/505429.html)
+**发布时间**: 2026-10-26 06:50
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-27日刊](https://hex2077.dev/docs/2026-10/2026-10-27/)
+**发布时间**: 2026-10-27 02:38
 
 ---
 
