@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 10:13:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 10:15:30 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 02:01:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:04:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,115 +14,131 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型</title>
-      <link>https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html</link>
-      <description>&lt;![CDATA[GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html</guid>
+      <title>Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB</title>
+      <link>https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/</link>
+      <description>&lt;![CDATA[Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看</title>
-      <link>https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html</link>
-      <description>&lt;![CDATA[10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html</guid>
+      <title>Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</title>
+      <link>https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</link>
+      <description>&lt;![CDATA[Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”</title>
-      <link>https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html</link>
-      <description>&lt;![CDATA[OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html</guid>
+      <title>Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</title>
+      <link>https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</link>
+      <description>&lt;![CDATA[Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线</title>
-      <link>https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html</link>
-      <description>&lt;![CDATA[源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html</guid>
+      <title>AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</link>
+      <description>&lt;![CDATA[AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国家人工智能应用中试基地（家居家电方向）在青启动</title>
-      <link>https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html</link>
-      <description>&lt;![CDATA[国家人工智能应用中试基地（家居家电方向）在青启动]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 13:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html</guid>
+      <title>Announcing SOCI-indexed images for faster SageMaker AI jobs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</link>
+      <description>&lt;![CDATA[Announcing SOCI-indexed images for faster SageMaker AI jobs]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>上新风向标，抖音商城双 11 年度新品必买榜出炉</title>
-      <link>https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html</link>
-      <description>&lt;![CDATA[上新风向标，抖音商城双 11 年度新品必买榜出炉]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html</guid>
+      <title>Fix evaluation bias to unlock better models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Fix evaluation bias to unlock better models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”</title>
-      <link>https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html</link>
-      <description>&lt;![CDATA[新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 10:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html</guid>
+      <title>Exowatt beats frontier models on accuracy with SageMaker serverless model customization</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</link>
+      <description>&lt;![CDATA[Exowatt beats frontier models on accuracy with SageMaker serverless model customization]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
-      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
-      <description>&lt;![CDATA[蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</guid>
+      <title>Muse之后，灵光2.0让Personal Agent接手中国式日常</title>
+      <link>https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html</link>
+      <description>&lt;![CDATA[Muse之后，灵光2.0让Personal Agent接手中国式日常]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」</title>
-      <link>https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html</link>
-      <description>&lt;![CDATA[iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html</guid>
+      <title>长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应</title>
+      <link>https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html</link>
+      <description>&lt;![CDATA[长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model</title>
-      <link>https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</link>
-      <description>&lt;![CDATA[vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 05:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/</guid>
+      <title>千问办公接入乐奇AI眼镜，一句话发起任务</title>
+      <link>https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html</link>
+      <description>&lt;![CDATA[千问办公接入乐奇AI眼镜，一句话发起任务]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing</title>
-      <link>https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/</link>
-      <description>&lt;![CDATA[Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 05:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/</guid>
+      <title>超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛</title>
+      <link>https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html</link>
+      <description>&lt;![CDATA[超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work</title>
-      <link>https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</link>
-      <description>&lt;![CDATA[OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 02:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/</guid>
+      <title>The sleep framework: A new way for LLMs to retain knowledge in continual learning</title>
+      <link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link>
+      <description>&lt;![CDATA[The sleep framework: A new way for LLMs to retain knowledge in continual learning]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会</title>
-      <link>https://www.qbitai.com/2026/10/505580.html</link>
-      <description>&lt;![CDATA[钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505580.html</guid>
+      <title>Build specialized multimodal models with LFM3</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+      <description>&lt;![CDATA[Build specialized multimodal models with LFM3]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-27日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-27/</link>
-      <description>&lt;![CDATA[2026-10-27日刊]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 02:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-27/</guid>
+      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
+      <description>&lt;![CDATA[Can we trust LLMs to judge whether a research idea is novel?]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Learner collaborates with MIT peers to develop book of AI insights</title>
+      <link>https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027</link>
+      <description>&lt;![CDATA[Learner collaborates with MIT peers to develop book of AI insights]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How AI Is Changing the Pace of Discovery for Millions Living With Dementia</title>
+      <link>https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</link>
+      <description>&lt;![CDATA[How AI Is Changing the Pace of Discovery for Millions Living With Dementia]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</guid>
       <category>Ai</category>
     </item>
   </channel>

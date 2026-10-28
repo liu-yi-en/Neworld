@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-27 10:13
+**最后更新时间**: 2026-10-28 02:01
+
+---
+
+## 🆕 最新更新 (2026-10-28 02:01)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB](https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/)
+**发布时间**: 2026-10-27 21:54
+
+#### [Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models](https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/)
+**发布时间**: 2026-10-27 21:08
+
+#### [Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context](https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/)
+**发布时间**: 2026-10-27 12:57
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service](https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/)
+**发布时间**: 2026-10-27 18:03
+
+#### [Announcing SOCI-indexed images for faster SageMaker AI jobs](https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/)
+**发布时间**: 2026-10-27 17:00
+
+#### [Fix evaluation bias to unlock better models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/)
+**发布时间**: 2026-10-27 16:53
+
+#### [Exowatt beats frontier models on accuracy with SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/)
+**发布时间**: 2026-10-27 16:50
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Muse之后，灵光2.0让Personal Agent接手中国式日常](https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html)
+**发布时间**: 2026-10-27 17:56
+
+#### [长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应](https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html)
+**发布时间**: 2026-10-27 17:34
+
+#### [千问办公接入乐奇AI眼镜，一句话发起任务](https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html)
+**发布时间**: 2026-10-27 17:03
+
+#### [超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛](https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html)
+**发布时间**: 2026-10-27 17:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
+**发布时间**: 2026-10-27 17:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
+**发布时间**: 2026-10-27 17:16
+
+#### [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
+**发布时间**: 2026-10-27 16:12
+
+#### [Kimina-Prover-RL](https://huggingface.co/blog/project-numina/kimina-prover-rl)
+**发布时间**: 2025-08-14 12:13
+
+#### [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](https://huggingface.co/blog/project-numina/kimina-prover)
+**发布时间**: 2025-07-10 12:54
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Learner collaborates with MIT peers to develop book of AI insights](https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027)
+**发布时间**: 2026-10-27 16:55
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/)
+**发布时间**: 2026-10-27 15:00
 
 ---
 
