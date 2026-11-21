@@ -2,150 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "583f3ac1167abd9e6e98078cd4f3a7f0bf3373b36fd62357b6ef5472a7b71f84": {
-        "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
-        "link": "http://www.geekpark.net/news/372711",
-        "published_date": "Thu, 22 Oct 2026 08:48:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429776"
-      },
-      "04253e37f10d1752859b49e172731695e6b67f6c6f486952ac0cc46af9fb2564": {
-        "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-        "link": "http://www.geekpark.net/news/372710",
-        "published_date": "Thu, 22 Oct 2026 08:14:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429785"
-      },
-      "cc4827ab5ca816171aed4a0442544bf961d01a2edd06d39785f3ca2169b683ab": {
-        "title": "奇瑞说，中国家庭的下一台车是摩托",
-        "link": "http://www.geekpark.net/news/372692",
-        "published_date": "Wed, 21 Oct 2026 22:26:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429787"
-      },
-      "1a31a2a72edc13b791cf59fab306c6d5a13649bd38375888ccaca5b21eaf5fa9": {
-        "title": "Edge AI Daily 早报（10月22日）",
-        "link": "https://www.tmtpost.com/8177010.html",
-        "published_date": "Thu, 22 Oct 2026 08:44:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429789"
-      },
-      "35e758ea0492b7e3ae15adae34b372af3d0c15eea4c1df497de183b9e8a74210": {
-        "title": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位",
-        "link": "https://www.tmtpost.com/8176585.html",
-        "published_date": "Thu, 22 Oct 2026 08:41:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429791"
-      },
-      "3fe6ac46e19d6a7013681df554358df315b4abdf84e79de91a7cde8075a319f1": {
-        "title": "美国最大车企，做成小而美了",
-        "link": "https://www.tmtpost.com/8176888.html",
-        "published_date": "Thu, 22 Oct 2026 08:39:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429793"
-      },
-      "67b23f0f4d29583ec3da04643cd685d7522a594b8f3bad22b2325f73d1ec3aa2": {
-        "title": "朱华荣卸任，赵非接棒，长安汽车要重新找回增长",
-        "link": "https://www.tmtpost.com/8176445.html",
-        "published_date": "Thu, 22 Oct 2026 08:07:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429794"
-      },
-      "8c8cc5d328826a321d9b7a682b2b0bd1d584c7f24cfa5952017a417724b69129": {
-        "title": "200人的中国团队，正在改变雷诺的造车方式",
-        "link": "https://www.tmtpost.com/8172051.html",
-        "published_date": "Thu, 22 Oct 2026 08:06:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429795"
-      },
-      "dd603f7d7ff3f27c7023781f95dd0923b073cc234b2673862963d9e8d872a886": {
-        "title": "【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF",
-        "link": "https://www.tmtpost.com/8176877.html",
-        "published_date": "Thu, 22 Oct 2026 07:20:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429797"
-      },
-      "f3a5b8a7f107f4f2d5a666edf177c3351807af1e5a023723e01d953e57af7fdf": {
-        "title": "首都在线：账面扭亏，AI算力持续投入｜看财报",
-        "link": "https://www.tmtpost.com/8176619.html",
-        "published_date": "Wed, 21 Oct 2026 21:11:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429798"
-      },
-      "cc5c223446a18c28013bfbfa4ab8aa5768dc074e624a7eebd6d173781cb90683": {
-        "title": "昔日4倍妖股三季报又大亏，QFII和北上资金逆市加仓｜看财报",
-        "link": "https://www.tmtpost.com/8176769.html",
-        "published_date": "Wed, 21 Oct 2026 21:09:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429800"
-      },
-      "55a91e304a976c1b40ef5531a4fef898455fb21d3c5506ffc49dd70ebe4828f4": {
-        "title": "Chinese Sellers Learn Latin America the Hard Way",
-        "link": "https://www.tmtpost.com/8176844.html",
-        "published_date": "Wed, 21 Oct 2026 20:38:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429801"
-      },
-      "ed126b1ac8ab00c30b4611f5bd19ee46a25d168034a339ce8f4bdba099818a6b": {
-        "title": "电竞手机比拼逻辑变了，荣耀WIN2选择“用价换量”",
-        "link": "https://www.tmtpost.com/8176772.html",
-        "published_date": "Wed, 21 Oct 2026 19:34:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429802"
-      },
-      "d192636125619513e50cb84185b25eaa4092790dc02ff27a1221ce702ce19e4e": {
-        "title": "“乌镇峰会观众预约平台”，正式上线！",
-        "link": "https://www.tmtpost.com/8176791.html",
-        "published_date": "Wed, 21 Oct 2026 19:31:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429804"
-      },
-      "e46e81f3756affa594430874b50bdfb4f65dc5b680a3c82d1206d3f445e04a62": {
-        "title": "Open Inference Code Narrows the Gap Between Rival AI Chips",
-        "link": "https://www.tmtpost.com/8176740.html",
-        "published_date": "Wed, 21 Oct 2026 18:29:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429805"
-      },
-      "eada8f12dd7f901556d1f78bc74a0863e4bdde43ea7c98faa492cb62ec62c3a7": {
-        "title": "短剧，在诞生一种很新的职业剧",
-        "link": "https://www.tmtpost.com/8176607.html",
-        "published_date": "Wed, 21 Oct 2026 18:20:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429806"
-      },
-      "3b7bfa52eb18a9ed11d4b4127ccde6ae03aece3a660893d3ae24b2165dec34d9": {
-        "title": "骑手还没被替代，无人车们已经“内卷”麻了",
-        "link": "https://www.tmtpost.com/8174936.html",
-        "published_date": "Wed, 21 Oct 2026 17:50:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429808"
-      },
-      "27a57ac2642118bac7ca714c510e2007ec4438bb80ebb47cf9e1c68823a8b517": {
-        "title": "星巴克的沙发不养闲人",
-        "link": "https://www.tmtpost.com/8176482.html",
-        "published_date": "Wed, 21 Oct 2026 17:49:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429809"
-      },
-      "843afc318fb425caa745086cf7ce40cb3fd932229bf1113be231d5f141b8ef4c": {
-        "title": "AI 泡沫监测·之一：债务层已经先动了",
-        "link": "https://www.tmtpost.com/8175985.html",
-        "published_date": "Wed, 21 Oct 2026 17:49:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429810"
-      },
-      "541ec4b0013e23cd1a5a091c20ad1321a3857427b79e4d6a575d8e93bdfdfa86": {
-        "title": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
-        "link": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Oct 2026 21:18:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429812"
-      },
-      "23000ad5307ccf5b72cd5e441fd6dc13783642b16d693f6a2592c301732ad411": {
-        "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Oct 2026 18:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429813"
-      },
-      "c89f3abcba48a245c1c7f996439667590ad5437837f24eb7c8de3b6910d547b5": {
-        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-        "link": "https://sspai.com/post/116820",
-        "published_date": "Wed, 21 Oct 2026 17:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429814"
-      },
-      "4a1e5c593d6276011f4d46a560a83f4359c7223f071dfd6b92209e590259af94": {
-        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-        "link": "https://sspai.com/post/116445",
-        "published_date": "Wed, 21 Oct 2026 15:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429816"
-      },
-      "4bc251121fa3b898c42034b8b5c0287596fc2de514d2f80e3ece1b79494daca2": {
-        "title": "盘点本周 11 个 Star 攀升最多的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537903&idx=1&sn=69b07453177c4c06c464245954d7e217",
-        "published_date": "Wed, 21 Oct 2026 13:38:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.429817"
-      },
       "9b7bde225af3d0edd5635b7216173340b0aec386e440d0152b44eea7defb6883": {
         "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
         "link": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&utm_medium=article",
@@ -8749,117 +8605,69 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538609&idx=1&sn=4f14737e2c3c5e739567c1406c764fa0",
         "published_date": "Fri, 20 Nov 2026 11:14:00 GMT",
         "first_seen": "2026-11-20T13:53:02.764985"
+      },
+      "9906a1d8198ada64e18164caa3aae2cc507428cef26bb857cacb89cc2b03555f": {
+        "title": "外卖翻篇，阿里把钱砸向AI",
+        "link": "https://www.tmtpost.com/8213142.html",
+        "published_date": "Sat, 21 Nov 2026 11:01:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818327"
+      },
+      "38d2c3968bde3138d20398632ea76c352be56ac15065f6dd84d019d623425b94": {
+        "title": "Muse负责人首次公开对谈：七个月，从玩具到1000万下载",
+        "link": "https://www.tmtpost.com/8213062.html",
+        "published_date": "Sat, 21 Nov 2026 11:01:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818340"
+      },
+      "720ac6b9c07d77ab19245f5487d8e717213307c8efd8be344f1dc9e4e3514e22": {
+        "title": "姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考",
+        "link": "https://www.tmtpost.com/8213389.html",
+        "published_date": "Sat, 21 Nov 2026 10:53:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818343"
+      },
+      "7865db3391ac4f5e0a2a23b7b79d1e1a9a3264fb431d8fac67e7b1c8c670e817": {
+        "title": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”",
+        "link": "https://www.tmtpost.com/8213381.html",
+        "published_date": "Sat, 21 Nov 2026 10:27:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818345"
+      },
+      "45267562952d079081f1f10221bf60636c90da8cd9487ec277c6770fc503a097": {
+        "title": "GTA 6 可以慢慢来，独立游戏等不起",
+        "link": "https://www.tmtpost.com/8213018.html",
+        "published_date": "Sat, 21 Nov 2026 10:20:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818347"
+      },
+      "96ab375e606c45eafd248abdacf24875aee4a2584fce6e5554d0b1da7903763f": {
+        "title": "Edge AI Daily 早报（11月21日）",
+        "link": "https://www.tmtpost.com/8213305.html",
+        "published_date": "Sat, 21 Nov 2026 09:19:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818348"
+      },
+      "aabb82d3f29f83d25ba050c0e6f5660e2d570bc47ed4da0794ad7acd28cbcf9a": {
+        "title": "智能体 AI 架构：当前挑战与未来机遇",
+        "link": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 21 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818350"
+      },
+      "6e9c1a6fe3e02742ec5b9bff3b3955e06f86fd52f044c74a7ff978f4e157de4e": {
+        "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "link": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 21 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818351"
+      },
+      "981c0d7143e9226a53dc49c2c5469c59de761544c6be0533d04f80f509ff5be0": {
+        "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "link": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 21 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818352"
+      },
+      "1ab98c1e809a0d2922c48d4a16ed09d777e5dcef537ae77096870316f001e4e3": {
+        "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+        "link": "http://www.geekpark.net/news/374299",
+        "published_date": "Sat, 21 Nov 2026 08:17:00 GMT",
+        "first_seen": "2026-11-21T03:48:10.818354"
       }
     },
     "Finance": {
-      "d3204e2a1b1583b4fc2b3be68edb3110f0c048eaf36eb9b9294c0f5ebecacf1a": {
-        "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-        "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-        "published_date": "Thu, 22 Oct 2026 00:48:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550804"
-      },
-      "176114e4f70901f7a8f8341a0746c9ca19ffcc9d41cbf7c0eb6b6ab3973fd4ec": {
-        "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 23:29:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550811"
-      },
-      "b912ccd57a5fa5d7e2261ee501185bf0b6d2e3a695ce7a32057bd7ce14b2ceb5": {
-        "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-        "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 23:07:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550814"
-      },
-      "2c244ef5d38ee2098c721ec841217a18e7af47b2e34c487c0026eaf810a98cca": {
-        "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-        "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 21:44:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550815"
-      },
-      "fc5b887e6c87093dc4dc033442e0d59bc249924a6cf7f1fc1f5f49aa008ec26b": {
-        "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-        "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 21:31:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550817"
-      },
-      "e514b20667dee24e82c3d200613101dab85673d65a4987c5f6dbdccb4d3855f3": {
-        "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-        "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 21:14:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550818"
-      },
-      "45ec665a0f67deb88527286f8c356c7a2f5f642a486f54a9261a1af43ce218d5": {
-        "title": "7 healthcare stocks that stand out as investors pay up for the sector",
-        "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 20:59:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550820"
-      },
-      "b103d0fb6601f47eaf195d792121d469eb1a2fd73ce909f9e8104ae75f2087c3": {
-        "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-        "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 20:18:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550821"
-      },
-      "c9e85c0e627a1ee1c253eeb2bd6f311ac78c5551eacc73cb332e1cb5deb16f18": {
-        "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
-        "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
-        "published_date": "Thu, 22 Oct 2026 00:19:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550823"
-      },
-      "5fe77da7d7a65117a608c39f7287e12010bd98ba5be8b5548cb95a0efa9a53c8": {
-        "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-        "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 23:30:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550824"
-      },
-      "b8495bbce632d16d5c7c475a1dcf1a1aa4243966f69e9c7fb91a4b86e6df61cd": {
-        "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
-        "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 23:20:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550826"
-      },
-      "3bb6cf1b5c857552853c35e34c7dd33ba4cef66fa7c174bcf3edb55d7ad3c41f": {
-        "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
-        "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 22:58:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550827"
-      },
-      "eeaa902edfcca3ab40564b108e80d01703f75d68970e15e82c64ab7bec57f17b": {
-        "title": "Republicans head into midterms with huge spending advantage",
-        "link": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 20:26:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550828"
-      },
-      "bdf67e0e1121899ab163e54c8ffc30624b259d260787c5beb3f6399fc7f095a3": {
-        "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
-        "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 18:46:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550830"
-      },
-      "5d1bf3dc2739415a2a6e00b1e35dd953726bf098fbcad73681a2e741bcbadcde": {
-        "title": "Vivek Ramaswamy’s campaign engulfed by controversy over attack ad",
-        "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 17:09:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550831"
-      },
-      "cc0f6cb3b1f9af38c7cd5cdec3727d4219758af01d51919969f45aba954969d7": {
-        "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
-        "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 13:38:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550833"
-      },
-      "e62b69174318382030c2c791653700b6f0b124456db36b9ce834c5067087d9f3": {
-        "title": "The ‘adults in the room’ won’t save you",
-        "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
-        "published_date": "Wed, 21 Oct 2026 11:32:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550834"
-      },
-      "9e547964a6db643e23ebab67d0b52a212923a1d0b9403c1099808377f0bce01e": {
-        "title": "Iran’s foreign minister: The false assumptions about us are dangerous",
-        "link": "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa",
-        "published_date": "Wed, 21 Oct 2026 10:22:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.550835"
-      },
       "39e68dac75fd3fe97ebe720d467dd757a08e0d90290932683b9c914597c4e25b": {
         "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
         "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
@@ -14073,159 +13881,135 @@
         "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
         "published_date": "Fri, 20 Nov 2026 05:00:00 GMT",
         "first_seen": "2026-11-20T13:53:02.871431"
+      },
+      "155507a588be2f9b3acdb9540409223d284fe9404a3ef028829b1c502f0f03de": {
+        "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+        "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+        "published_date": "Sat, 21 Nov 2026 03:20:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118176"
+      },
+      "33e0338cb9846fb99485c6d3da9797e677cee9dba98d220437de36789869948f": {
+        "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+        "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 22:46:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118187"
+      },
+      "55b03f45f8cbcead08c9e19a758fd26f07431647545c11fe1423f31819b71bd7": {
+        "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+        "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 22:44:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118189"
+      },
+      "9f79e6dc8638e2eb9242469819aa85d7d0d0ea1d0c742220c8db70d69441f1e7": {
+        "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+        "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 22:44:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118191"
+      },
+      "edcebbb35ca6d06e314aee87a12bd2b654b84b10c0329a432a0ca586e8e2685b": {
+        "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:58:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118193"
+      },
+      "92acbe3c5d3f6a8f423eec985f47334b202f8efc0419f5f43c425084dae08eb3": {
+        "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+        "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:39:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118195"
+      },
+      "907dc40bfc7aced6d54924d24f62e88603b8edc9c470f8ccef31d5cef7cd654a": {
+        "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+        "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:39:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118196"
+      },
+      "822a11ee28287d6a856a6c5da37b22ca663a60a5a3e82f70b045cd15c4f8211b": {
+        "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+        "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:36:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118197"
+      },
+      "33aa0bcd2129d26c55919310e647df37140eeb1bfcfa0018d228dfbdc74aae7d": {
+        "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+        "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:34:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118198"
+      },
+      "cff42d62d751287274424cfa97f5300adaeebf963eed01e9829695e0e138344f": {
+        "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Nov 2026 21:25:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118200"
+      },
+      "ab70751d1cb554155c61862741aa26196f07a3112cfe40d1024d3a0fd284b0b7": {
+        "title": "Nvidia faces US regulator’s probe into its accounting",
+        "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 21:58:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118201"
+      },
+      "be11c0d41d5864d31f0aaa75718600a783c592b3609ed52639fd87ae5e1b71b1": {
+        "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+        "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 21:52:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118203"
+      },
+      "a32088f7337877ce183afdca128e32d9fcc57f387186b2a71281d77be6193c88": {
+        "title": "Inside Anthropic’s historic IPO",
+        "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 21:21:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118204"
+      },
+      "67dab5bd89edbdaeaf4bfb89d7dc78fef915e1e3c6178aedd444236c480b30e4": {
+        "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+        "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 21:05:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118205"
+      },
+      "70f5d4cdf4140da231a6c5260488b39ec1659f9d909ac6044850696bd68e043c": {
+        "title": "Trump considering new Iran strikes as US military warns of strain on forces",
+        "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
+        "published_date": "Fri, 20 Nov 2026 20:19:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118207"
+      },
+      "6bcf860f0bd981eb2f793e847f088cdcc6f4befa56a0a21ee054dde855d74ad9": {
+        "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+        "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 20:17:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118208"
+      },
+      "35f9c4cc884229a15ef698b7cd159e4eda3b9e6f5b02caea9c1b269e9b4251de": {
+        "title": "’Tis the season to be grateful to China",
+        "link": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 18:57:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118210"
+      },
+      "931ca0b11af889edb3b6a7cd58b9dc2b9f6863b97e0132a8f9dc2be9e6b3a749": {
+        "title": "Burnham reopened the Brexit debate. He now sees the political dangers ahead",
+        "link": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 18:51:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118211"
+      },
+      "76a8781d62a7558c782f2554f506dcb015718574b8de6bff124ceb993a16aad6": {
+        "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
+        "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 17:08:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118213"
+      },
+      "784c38c13b3957f511ccee9f04b3661e3f55cd1ed9adf73dc3db8b1575b14c06": {
+        "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
+        "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 15:57:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118214"
+      },
+      "51fab944ae191d58658fe73965fbc42f093c5c9a0393ecd6a46db0787acf4fae": {
+        "title": "The AI fever in markets is breaking",
+        "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 15:23:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.118215"
       }
     },
     "Ai": {
-      "6f50c8dd65fb29ee2bf849c89be5b10aa981bc9f7b9e38e187dee6b04ef48e91": {
-        "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
-        "published_date": "Wed, 21 Oct 2026 23:38:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781704"
-      },
-      "0c6d1386630dc4f992ab652c55143c73c12240e78902b11aa76ff0318ab02149": {
-        "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-        "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
-        "published_date": "Wed, 21 Oct 2026 23:36:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781711"
-      },
-      "7f75fedd4a7377d7f131a3f95705a1e120718dc15d91e435bd4e5b7cca247f8b": {
-        "title": "Adaptive agentic intelligence framework using Strands Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
-        "published_date": "Wed, 21 Oct 2026 21:23:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781713"
-      },
-      "40a84ca5bc3aa366166029e469df956b15f2d0bbf058cc5aa975c6189970a295": {
-        "title": "Train Qwen3 on AWS Trainium with torchtitan",
-        "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
-        "published_date": "Wed, 21 Oct 2026 20:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781715"
-      },
-      "8e5a1e7e369cdde9893c85762ba392a76baf01a43cecf1379c058f31d7d44bcb": {
-        "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
-        "published_date": "Wed, 21 Oct 2026 19:19:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781716"
-      },
-      "44131d9afeb8d94a59afd61d84421f34cda66537f64dcbbd8b57b04066c991b1": {
-        "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
-        "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
-        "published_date": "Wed, 21 Oct 2026 22:39:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781718"
-      },
-      "cb125e42a625d44a2b9c2be99c7ce624bd5e1c7e5fe590415dad75e4db846fe4": {
-        "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
-        "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-        "published_date": "Wed, 21 Oct 2026 22:15:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781719"
-      },
-      "d18728db4d61fdf658ac23c5344ae42249094312b4815446476025738a403cc1": {
-        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "published_date": "Wed, 21 Oct 2026 18:26:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781721"
-      },
-      "81573784c22ef481d05700953d280a4868db01e912d1eb85193941214416d54a": {
-        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-        "published_date": "Wed, 21 Oct 2026 17:35:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781722"
-      },
-      "bd8bc869a35577b53a5bead5f9f6fdec90caf3a66a853d0b3741f0c1e68a9d2e": {
-        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-        "published_date": "Wed, 21 Oct 2026 16:04:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781723"
-      },
-      "cb530495378b32465fd59a6a28ccb95380cd35bdd05000d3615d07b453121329": {
-        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-        "published_date": "Wed, 21 Oct 2026 14:58:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781725"
-      },
-      "b67b9fec29ef85e3e92d737f7b1f2e6b6e9a6294ebdf2e585a27e0882df6d61c": {
-        "title": "海信获“2026福布斯中国最佳雇主”称号",
-        "link": "https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html",
-        "published_date": "Wed, 21 Oct 2026 18:20:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781726"
-      },
-      "bf398477d2dba085fded8464790ffe5a3080c9b9126599c5947a5925fd3761ef": {
-        "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-        "link": "https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
-        "published_date": "Wed, 21 Oct 2026 18:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781727"
-      },
-      "6989cbaf02c802bd5482ed663d86b8b059beb46f195e39f582b866e0497d0925": {
-        "title": "双11首日：天猫稳居品牌成交主阵地，124个品牌成交破亿",
-        "link": "https://www.leiphone.com/category/industrynews/mWw7HXg39Lb4DSa1.html",
-        "published_date": "Wed, 21 Oct 2026 17:32:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781729"
-      },
-      "ed7f48b9269bb14a24550ecd69de28ea236c3e567b1d303244dedf6e7993baa2": {
-        "title": "IDC最新报告：阿里云占中国汽车公共云市场份额超45%",
-        "link": "https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
-        "published_date": "Wed, 21 Oct 2026 17:28:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781730"
-      },
-      "1752bea126dc7c0c489cd1b7c384cba1fdb373c83d61ea4d49b150f419bb8d1a": {
-        "title": "混合办公催生新赛道：专业视讯终端为何被企业重新审视",
-        "link": "https://www.leiphone.com/category/industrynews/PKwYyRhgChvd69xK.html",
-        "published_date": "Wed, 21 Oct 2026 17:11:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781732"
-      },
-      "c4beca51f312fb1f4bb98285a9f715c213d61b28a1c5045d9f2791bcefb4120f": {
-        "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-        "link": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-        "published_date": "Wed, 21 Oct 2026 16:23:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781733"
-      },
-      "6a3155382d5251c97aebc19395cd03cbd2341595373f1dde74319ec2eec9d6e0": {
-        "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-        "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-        "published_date": "Wed, 21 Oct 2026 10:50:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781734"
-      },
-      "5177eef2207c0f4f5e264f212544edc86b28a20234d926aa73a196d151bbd2ab": {
-        "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-        "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-        "published_date": "Wed, 21 Oct 2026 10:45:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781735"
-      },
-      "db9911660e63f08ebfc7fffedbe5a43adcec7d576780cdb3f8b36ee603df9e19": {
-        "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-        "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-        "published_date": "Wed, 21 Oct 2026 10:30:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781737"
-      },
-      "cd4ccbefe489ba64ddefd73c808cdcddc53285066fa9239471c9175ab3de97d4": {
-        "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-        "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-        "published_date": "Wed, 21 Oct 2026 10:30:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781738"
-      },
-      "d0675058b028df7732ef412fb64e885eefcabf32495850e5e00b92f016cba178": {
-        "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-        "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-        "published_date": "Wed, 21 Oct 2026 10:30:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781739"
-      },
-      "bd54dadd9b44d992a713ad54cdfdacfb472be753c7a0c5285920bf25b5acf5c9": {
-        "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-        "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-        "published_date": "Wed, 21 Oct 2026 10:30:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781741"
-      },
-      "c677754fb3407326a9c13c4dc55d0482240a97ab47bdc5ffba8c194f84d42223": {
-        "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-        "link": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-        "published_date": "Wed, 21 Oct 2026 10:10:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781742"
-      },
-      "610d8aff9c619f4a65e9474095e66d7dcbf9005ceb874762a5ec45b1851dbc38": {
-        "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-        "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-        "published_date": "Wed, 21 Oct 2026 10:00:00 GMT",
-        "first_seen": "2026-10-22T01:17:42.781743"
-      },
       "50ac8e4d5a0409ca3805a1d52a0e6e1ab5c54dbe2bcf314b35de3299517e05f4": {
         "title": "火山引擎启动Seedance 2.5 4K模型首批企业试用，定向供应全球20家工作室和导演",
         "link": "https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html",
@@ -19427,13 +19211,91 @@
         "link": "https://www.qbitai.com/2026/11/511582.html",
         "published_date": "Fri, 20 Nov 2026 05:24:00 GMT",
         "first_seen": "2026-11-20T13:53:02.609242"
+      },
+      "e52262016168531b2e347446d028e76fc20b8956528a0dde9d0eb8587e0f6b5e": {
+        "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+        "published_date": "Sat, 21 Nov 2026 01:06:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010920"
+      },
+      "d18d2c8f651514e4ce1f8b8090957d86125fb4ac12de9bb4e1406377799938cb": {
+        "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+        "published_date": "Sat, 21 Nov 2026 00:14:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010930"
+      },
+      "fc356033fc5175219f00db8e918355c020ec8b6f7d00c4a110ccf5c4c243a93c": {
+        "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+        "published_date": "Fri, 20 Nov 2026 23:07:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010932"
+      },
+      "d9475d706da903159258f3670785de8fa71d90afe0eb577c0a5fdd6dd2ae56d6": {
+        "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+        "published_date": "Fri, 20 Nov 2026 22:35:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010934"
+      },
+      "aa1cef5995fbbc78c94d1fad29c7db5b2c8ee6bc2a49f00085fc192c20ef7fd9": {
+        "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+        "published_date": "Fri, 20 Nov 2026 20:37:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010936"
+      },
+      "42c2b58456397ee21105c721a88c58577855f4b03355a810b692cbf3e624910a": {
+        "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+        "published_date": "Fri, 20 Nov 2026 20:22:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010937"
+      },
+      "156ffe12c27cca6dd75ec8e32c7275dab7bb2f785a8a91a272530ad2f53d94bb": {
+        "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+        "published_date": "Fri, 20 Nov 2026 18:24:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010939"
+      },
+      "451d229416f1f64c35bf242e5e3e563350ee6b25573802af855c452804a2a4ef": {
+        "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+        "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+        "published_date": "Fri, 20 Nov 2026 23:30:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010940"
+      },
+      "ab59e089382bb7cf5d50650f5b4871b295fecdefe013c55b010743c5d0749e5a": {
+        "title": "上汽通用发布真龙插混MAX，首搭别克至境世家",
+        "link": "https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html",
+        "published_date": "Fri, 20 Nov 2026 22:07:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010942"
+      },
+      "3c475f713de9914786323af55b113d935a4b93c1715e21888d7e4e86cca09790": {
+        "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+        "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+        "published_date": "Fri, 20 Nov 2026 17:42:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010943"
+      },
+      "822fb7db18ce7946ed302136e02fb9f1a93a1e67cdc3ba939aafd167fb044378": {
+        "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+        "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+        "published_date": "Fri, 20 Nov 2026 14:44:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010945"
+      },
+      "cd8b9296e7b80d80e7ef0988b8572ea29d063e54cdfa4dd6568881e5fdba18f6": {
+        "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+        "link": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+        "published_date": "Fri, 20 Nov 2026 16:00:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010946"
+      },
+      "3b2e06ff702655e2fd95ddb617beda041fe2fa5af1607ee2960003f738e9c16b": {
+        "title": "New approach enables physically consistent AI models of chaotic systems",
+        "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+        "published_date": "Fri, 20 Nov 2026 15:00:00 GMT",
+        "first_seen": "2026-11-21T03:48:11.010947"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-20T13:53:02.764987",
-    "Finance": "2026-11-20T13:53:02.871433",
-    "Ai": "2026-11-20T13:53:02.609243"
+    "Technology": "2026-11-21T03:48:10.818356",
+    "Finance": "2026-11-21T03:48:11.118217",
+    "Ai": "2026-11-21T03:48:11.010949"
   }
 }
